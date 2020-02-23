@@ -1,5 +1,6 @@
 0.facebook.com
 58caebff-bugsentrycore-riv-aa3a-751432187.us-east-1.elb.amazonaws.com
+activate.platform.californiatimes.com
 app.musemuse.cn
 augloop.office.com
 augmentation.osi.office.net
@@ -10,11 +11,14 @@ capture.condenastdigital.com
 cjurbwf.hsd1.ga.comcast.net
 client_monitor.isnssdk.com
 cpimmnbq.hsd1.ga.comcast.net
+crashlytics.l.google.com
 csi.gstatic.com
 dealer.spotify.com
 debtpqi.hsd1.ga.comcast.net
 dkdbylxpzrbbgr.hsd1.ga.comcast.net
+dss.platform.californiatimes.com
 dzinwulyh.hsd1.ga.comcast.net
+edge-geo.nc0.co
 elb-for-front-1752188976.us-east-1.elb.amazonaws.com
 embed.actionbutton.co
 events-endpoint-b-1623273513.us-east-1.elb.amazonaws.com
@@ -54,6 +58,7 @@ mkjhamrlkigzpg.hsd1.ga.comcast.net
 mobile-gtalk.l.google.com
 mon.byteoversea.com
 mon.musical.ly
+mtalk.google.com
 offvfapyt.hsd1.ga.comcast.net
 p13n.adobe.io
 pagead-googlehosted.l.google.com
@@ -74,6 +79,7 @@ security-lb-maliva.byteoversea.net
 share-1070666956.ap-northeast-1.elb.amazonaws.com
 share.musemuse.cn
 smr-aliva.byteoversea.com
+ssor.platform.californiatimes.com
 static.bejbej.ca
 syhjyyuqdvxcvf.hsd1.ga.comcast.net
 templatelogging.office.com
