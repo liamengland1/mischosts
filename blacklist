@@ -1,6 +1,7 @@
 0.facebook.com
 58caebff-bugsentrycore-riv-aa3a-751432187.us-east-1.elb.amazonaws.com
 activate.platform.californiatimes.com
+aimaniape.club
 app.musemuse.cn
 augloop.office.com
 augmentation.osi.office.net
@@ -13,6 +14,7 @@ client_monitor.isnssdk.com
 cpimmnbq.hsd1.ga.comcast.net
 crashlytics.l.google.com
 csi.gstatic.com
+curarmbin.club
 dealer.spotify.com
 debtpqi.hsd1.ga.comcast.net
 dkdbylxpzrbbgr.hsd1.ga.comcast.net
@@ -33,6 +35,8 @@ graph.facebook.com
 gstaticadssl.l.google.com
 gt1.bejbej.info
 guc3-accesspoint-a-k1ps.ap.spotify.com
+# guce.techcrunch.com
+hayfatduh.com
 hdredirect-lb5-1afb6e2973825a56.elb.us-east-1.amazonaws.com
 health.apple.com
 hekesrkqddn.hsd1.ga.comcast.net
@@ -42,6 +46,7 @@ hsd1.ga.comcast.net
 ibhzqppcf.hsd1.ga.comcast.net
 icxunwtdxodhif.hsd1.ga.comcast.net
 idzhhevxv.hsd1.ga.comcast.net
+imasdk.googleapis.com
 iogrtguvuelievk.hsd1.ga.comcast.net
 jgvhlyt.hsd1.ga.comcast.net
 jsb-va.musical.ly
@@ -69,6 +74,7 @@ ping.bejbej.ca
 play.googleapis.com
 pop-iad-2.cf.hls.row.aiv-cdn.net
 pqgnyhskzxvx.hsd1.ga.comcast.net
+prod-rotation-v2.guce.aws.oath.cloud
 proxy.bitmango.com
 pyapmikrf.hsd1.ga.comcast.net
 redirector.gvt1.com
@@ -92,6 +98,7 @@ uzgushkrr.hsd1.ga.comcast.net
 vdtvzdwkyxbrvwx.hsd1.ga.comcast.net
 vlikhykptxdb.hsd1.ga.comcast.net
 vpvedfnwydvjrev.hsd1.ga.comcast.net
+waxpigbaa.com
 webcast.musical.ly
 wg.spotify.com
 wovsvohi.hsd1.ga.comcast.net
@@ -105,10 +112,3 @@ xellbowwiq.hsd1.ga.comcast.net
 xzyghxeoarnl.hsd1.ga.comcast.net
 zhuxgiiecfank.hsd1.ga.comcast.net
 zhvblagofaxttla.hsd1.ga.comcast.net
-aimaniape.club
-curarmbin.club
-# guce.techcrunch.com
-hayfatduh.com
-imasdk.googleapis.com
-prod-rotation-v2.guce.aws.oath.cloud
-waxpigbaa.com
