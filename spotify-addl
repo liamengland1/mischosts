@@ -1,14 +1,17 @@
 # experimental - addl hosts to block spotify ads
 #
+### DO NOT BLOCK - BREAKS WEB PLAYER ###
+# 0.0.0.0 apresolve.spotify.com
+# 0.0.0.0 audio4-fa.scdn.co
+# 0.0.0.0 guc-dealer.spotify.com
+# 0.0.0.0 guc-spclient.spotify.com
+### DO NOT BLOCK - BREAKS WEB PLAYER ###
 #
-0.0.0.0 apresolve.spotify.com
 0.0.0.0 dealer-ssl.spotify.com
 0.0.0.0 dealer.spotify.com
 0.0.0.0 global-dealer-ssl.spotify.com
 0.0.0.0 global-dealer.spotify.com
 0.0.0.0 guc-dealer-ssl.spotify.com
-0.0.0.0 guc-dealer.spotify.com
-0.0.0.0 guc-spclient.spotify.com
 0.0.0.0 guc.weblb-wg.spotify.com
 0.0.0.0 guc3-accesspoint-b-76wp.ap.spotify.com
 0.0.0.0 guc3-accesspoint-b-dmgp.ap.spotify.com
