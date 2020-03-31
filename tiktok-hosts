@@ -13,6 +13,7 @@ client_monitor.isnssdk.com
 clientmonitor.isnssdk.com
 dm.isnssdk.com
 dm.pstatp.com
+f-p-va.isnssdk.com
 frontier.byteoversea.com
 frontier.musical.ly
 gecko-sg.byteoversea.com
@@ -30,6 +31,7 @@ imapi-sg.isnssdk.com
 ipstatp.com
 isub-tb.isnssdk.com
 isub.isnssdk.com
+jsb-va.musical.ly
 jsb-va.musical.ly
 log-tb.isnssdk.com
 log.byteoversea.com
@@ -81,6 +83,7 @@ sgali-mcs.byteoversea.com
 share.musemuse.cn
 smr-aliva.byteoversea.com
 snssdk1233.onelink.me
+starling-va.byteoversea.com
 test-ads.tiktok.com
 unpkg.pstatp.com
 v16-ad.byteoversea.com
@@ -95,11 +98,12 @@ xlog.byteoversea.com
 xlog.tiktokv.com
 
 ### EXPERIMENTAL ###
-api2-16-h2-eagle-useast2a.musical.ly
 # api2-16-h2-useast2a.musical.ly
-api2-16-h2.musical.ly
-api2-16-h2.musical.ly.edgekey.net
 # api2-19-h2-eagle-useast2a.musical.ly
 # api2-19-h2-useast2a.musical.ly
+api2-16-h2-eagle-useast2a.musical.ly
+api2-16-h2.musical.ly
+api2-16-h2.musical.ly.edgekey.net
 api2-19-h2.musical.ly
 api2-19-h2.musical.ly.edgekey.net
+sf-tk-sg.ibytedtos.com
