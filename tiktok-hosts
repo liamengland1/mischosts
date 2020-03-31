@@ -19,6 +19,7 @@
 0.0.0.0 gecko-va.musical.ly
 0.0.0.0 i-tb.isnssdk.com
 0.0.0.0 i.isnssdk.com
+0.0.0.0 i.snssdk.com
 0.0.0.0 i16-tb.isnssdk.com
 0.0.0.0 i16-tb.isnssdk.com.edgekey.net
 0.0.0.0 ib.tiktokv.com
@@ -41,6 +42,7 @@
 0.0.0.0 log2.musical.ly
 0.0.0.0 maliva-mcs.byteoversea.com
 0.0.0.0 maliva-normal-lb.byteoversea.net
+0.0.0.0 mcs.snssdk.com
 0.0.0.0 mon-va.byteoversea.com
 0.0.0.0 mon.byteoversea.com
 0.0.0.0 mon.isnssdk.com
@@ -55,8 +57,10 @@
 0.0.0.0 p0.ipstatp.com
 0.0.0.0 p16.pstatp.com
 0.0.0.0 p3.pstatp.com
+0.0.0.0 p9-security.byteimg.com
 0.0.0.0 patrol-sg.snssdk.com
 0.0.0.0 pb3.pstatp.com
+0.0.0.0 rc.snssdk.com
 0.0.0.0 rtlog.byteoversea.com
 0.0.0.0 rtlog.isnssdk.com
 0.0.0.0 rtlog.musical.ly
@@ -78,8 +82,12 @@
 0.0.0.0 smr-aliva.byteoversea.com
 0.0.0.0 snssdk1233.onelink.me
 0.0.0.0 test-ads.tiktok.com
+0.0.0.0 unpkg.pstatp.com
 0.0.0.0 v16-ad.byteoversea.com
 0.0.0.0 vas.isnssdk.com
+0.0.0.0 verification-va.musical.ly
+0.0.0.0 verify-sg.byteoversea.com
+0.0.0.0 verify.snssdk.com
 0.0.0.0 webcast.musical.ly
 0.0.0.0 xlog-va.byteoversea.com
 0.0.0.0 xlog-va.musical.ly
