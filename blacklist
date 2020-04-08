@@ -4097,6 +4097,7 @@ api.branch.io
 api.brs.intl.miui.com
 api.calq.io
 api.cazamba.com
+api.ceros.com
 api.cloudmobi.net
 api.connectsystems.digital
 api.crittercism.com
@@ -8043,6 +8044,7 @@ config.88-f.net
 config.appjolt.com
 config.fp.measure.office.com
 config.parsely.com
+config.parsely.com
 config.safedk.com
 config.tremorhub.com
 config.uca.cloud.unity3d.com
@@ -9032,6 +9034,7 @@ d2uolguxr56s4e.cloudfront.net
 d2va1d0hpla18n.cloudfront.net
 d2wl3qmk54t3ha.cloudfront.net
 d2wpknqle9nuv8.cloudfront.net
+d2wt7w75gg2vz.cloudfront.net
 d2wy8f7a9ursnm.cloudfront.net
 d2wzl9lnvjz3bh.cloudfront.net
 d2xgf76oeu9pbh.cloudfront.net
@@ -20071,6 +20074,7 @@ mms.cnn.com
 mms.deadspin.com
 mms.gizmodo.com
 mms.gulflive.com
+mms.iad.sp-prod.net
 mms.jalopnik.com
 mms.jezebel.com
 mms.lehighvalleylive.com
@@ -20083,6 +20087,7 @@ mms.nola.com
 mms.oregonlive.com
 mms.pennlive.com
 mms.silive.com
+mms.sp-prod.net
 mms.splinternews.com
 mms.syracuse.com
 mms.theroot.com
@@ -23700,6 +23705,7 @@ pixel.naij.com
 pixel.newscgp.com
 pixel.newscred.com
 pixel.newsdiscover.com.au
+pixel.parsely.com
 pixel.parsely.com
 pixel.pcworld.com
 pixel.playbuzz.com
@@ -28590,6 +28596,7 @@ sp.marshfieldnewsherald.com
 sp.montgomeryadvertiser.com
 sp.mycentraljersey.com
 sp.naplesnews.com
+sp.nba.com
 sp.newarkadvocate.com
 sp.news-press.com
 sp.newsleader.com
@@ -28861,6 +28868,10 @@ srtk.net
 srtvohoivnrahq.bid
 srtxyai372.execute-api.us-west-2.amazonaws.com
 srutebmduoh.myfw.us
+srv-2020-04-08-15.config.parsely.com
+srv-2020-04-08-15.pixel.parsely.com
+srv-2020-04-08-18.config.parsely.com
+srv-2020-04-08-18.pixel.parsely.com
 srv.dc-1.net
 srv.nx8.ru
 srv.yavli.com
