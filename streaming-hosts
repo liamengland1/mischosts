@@ -1,5 +1,6 @@
 ### streaming ads and tracking ###
-0.0.0.0 cdn-ec-atl.ip-ads.xcr.comcast.net
+0.0.0.0 5df09.v.fwmrm.net
+0.0.0.0 ccr.linear-rsvl-mn-pil.xcr.comcast.net
 0.0.0.0 cdn-ec-atl-0.ip-ads.xcr.comcast.net
 0.0.0.0 cdn-ec-atl-00.ip-ads.xcr.comcast.net
 0.0.0.0 cdn-ec-atl-01.ip-ads.xcr.comcast.net
@@ -332,8 +333,9 @@
 0.0.0.0 cdn-ec-atl-328.ip-ads.xcr.comcast.net
 0.0.0.0 cdn-ec-atl-329.ip-ads.xcr.comcast.net
 0.0.0.0 cdn-ec-atl-330.ip-ads.xcr.comcast.net
+0.0.0.0 cdn-ec-atl.ip-ads.xcr.comcast.net
+0.0.0.0 d2nuj85jf6t0f3.cloudfront.net
 0.0.0.0 ip-ads.xcr.comcast.net
-0.0.0.0 odol-atsec-atl.ip-ads.xcr.comcast.net
 0.0.0.0 odol-atsec-atl-0.ip-ads.xcr.comcast.net
 0.0.0.0 odol-atsec-atl-00.ip-ads.xcr.comcast.net
 0.0.0.0 odol-atsec-atl-01.ip-ads.xcr.comcast.net
@@ -436,4 +438,5 @@
 0.0.0.0 odol-atsec-atl-98.ip-ads.xcr.comcast.net
 0.0.0.0 odol-atsec-atl-99.ip-ads.xcr.comcast.net
 0.0.0.0 odol-atsec-atl-100.ip-ads.xcr.comcast.net
+0.0.0.0 odol-atsec-atl.ip-ads.xcr.comcast.net
 0.0.0.0 vod-dai-psn.gslb2.comcast.com
