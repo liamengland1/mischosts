@@ -68,7 +68,6 @@ rtlog.isnssdk.com
 rtlog.musical.ly
 rtlog.tiktokv.com
 s.ipstatp.com
-s0.ipstatp.com
 s0.pstatp.com
 s16.ipstatp.com
 s2.pstatp.com
@@ -101,9 +100,12 @@ xlog.tiktokv.com
 # api2-16-h2-useast2a.musical.ly
 # api2-19-h2-eagle-useast2a.musical.ly
 # api2-19-h2-useast2a.musical.ly
-api2-16-h2-eagle-useast2a.musical.ly
-api2-16-h2.musical.ly
-api2-16-h2.musical.ly.edgekey.net
-api2-19-h2.musical.ly
-api2-19-h2.musical.ly.edgekey.net
-sf-tk-sg.ibytedtos.com
+# api2-16-h2-eagle-useast2a.musical.ly
+# api2-16-h2.musical.ly
+# api2-16-h2.musical.ly.edgekey.net
+# api2-19-h2.musical.ly
+# api2-19-h2.musical.ly.edgekey.net
+# sf-tk-sg.ibytedtos.com
+
+# breaks signup captcha flow
+# s0.ipstatp.com
