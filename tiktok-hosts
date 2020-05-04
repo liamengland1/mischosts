@@ -87,7 +87,6 @@ test-ads.tiktok.com
 unpkg.pstatp.com
 v16-ad.byteoversea.com
 vas.isnssdk.com
-verification-va.musical.ly
 verify-sg.byteoversea.com
 verify.snssdk.com
 webcast.musical.ly
@@ -109,3 +108,4 @@ xlog.tiktokv.com
 
 # breaks signup captcha flow
 # s0.ipstatp.com
+# verification-va.musical.ly
