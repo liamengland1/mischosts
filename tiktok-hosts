@@ -1,111 +1,94 @@
 # tiktok tracking and fingerprinting hosts
 
-a15-tb.isnssdk.com
-a16-tb.isnssdk.com
-abtest-va-tiktok.byteoversea.com
-ads.tiktok.com
-app-measurement.com
-app.musemuse.cn
-applog.musical.ly
-byteoversea.com
-cdn.isnssdk.com
-client_monitor.isnssdk.com
-clientmonitor.isnssdk.com
-dm.isnssdk.com
-dm.pstatp.com
-f-p-va.isnssdk.com
-frontier.byteoversea.com
-frontier.musical.ly
-gecko-sg.byteoversea.com
-gecko-va.musical.ly
-i-tb.isnssdk.com
-i.isnssdk.com
-i.snssdk.com
-i16-tb.isnssdk.com
-i16-tb.isnssdk.com.edgekey.net
-ib.tiktokv.com
-ichannel-tb.isnssdk.com
-ichannel.isnssdk.com
-imapi-mu.isnssdk.com
-imapi-sg.isnssdk.com
-ipstatp.com
-isub-tb.isnssdk.com
-isub.isnssdk.com
-jsb-va.musical.ly
-jsb-va.musical.ly
-log-tb.isnssdk.com
-log.byteoversea.com
-log.byteoversea.com.edgekey.net
-log.isnssdk.com
-log.musical.ly
-log.tiktokv.com
-log15.byteoversea.com
-log16.byteoversea.com
-log2.musical.ly
-maliva-mcs.byteoversea.com
-maliva-normal-lb.byteoversea.net
-mcs.snssdk.com
-mon-va.byteoversea.com
-mon.byteoversea.com
-mon.isnssdk.com
-mon.musical.ly
-mon.tiktokv.com
-monitor.isnssdk.com
-musically-alternate.app.link
-musically.app.link
-notifyback-va.isnssdk.com
-open.isnssdk.com
-p.pstatp.com
-p0.ipstatp.com
-p16.pstatp.com
-p3.pstatp.com
-p9-security.byteimg.com
-patrol-sg.snssdk.com
-pb3.pstatp.com
-rc.snssdk.com
-rtlog.byteoversea.com
-rtlog.isnssdk.com
-rtlog.musical.ly
-rtlog.tiktokv.com
-s.ipstatp.com
-s0.pstatp.com
-s16.ipstatp.com
-s2.pstatp.com
-s3.pstatp.com
-s3a.pstatp.com
-sdfp-va.byteoversea.com
-security-lb-maliva.byteoversea.net
-sf1-ttcdn-tos.pstatp.com
-sf3-ttcdn-tos.pstatp.com
-sf6-ttcdn-tos.pstatp.com
-sgali-mcs.byteoversea.com
-share.musemuse.cn
-smr-aliva.byteoversea.com
-snssdk1233.onelink.me
-starling-va.byteoversea.com
-test-ads.tiktok.com
-unpkg.pstatp.com
-v16-ad.byteoversea.com
-vas.isnssdk.com
-verify-sg.byteoversea.com
-verify.snssdk.com
-webcast.musical.ly
-xlog-va.byteoversea.com
-xlog-va.musical.ly
-xlog.byteoversea.com
-xlog.tiktokv.com
-
-### EXPERIMENTAL ###
-# api2-16-h2-useast2a.musical.ly
-# api2-19-h2-eagle-useast2a.musical.ly
-# api2-19-h2-useast2a.musical.ly
-# api2-16-h2-eagle-useast2a.musical.ly
-# api2-16-h2.musical.ly
-# api2-16-h2.musical.ly.edgekey.net
-# api2-19-h2.musical.ly
-# api2-19-h2.musical.ly.edgekey.net
-# sf-tk-sg.ibytedtos.com
-
-# breaks signup captcha flow
-# s0.ipstatp.com
-# verification-va.musical.ly
+0.0.0.0 musically.app.link
+0.0.0.0 musically-alternate.app.link
+0.0.0.0 app-measurement.com
+0.0.0.0 p9-security.byteimg.com
+0.0.0.0 byteoversea.com
+0.0.0.0 abtest-va-tiktok.byteoversea.com
+0.0.0.0 frontier.byteoversea.com
+0.0.0.0 gecko-sg.byteoversea.com
+0.0.0.0 log.byteoversea.com
+0.0.0.0 log15.byteoversea.com
+0.0.0.0 log16.byteoversea.com
+0.0.0.0 maliva-mcs.byteoversea.com
+0.0.0.0 mon.byteoversea.com
+0.0.0.0 mon-va.byteoversea.com
+0.0.0.0 rtlog.byteoversea.com
+0.0.0.0 sdfp-va.byteoversea.com
+0.0.0.0 sgali-mcs.byteoversea.com
+0.0.0.0 smr-aliva.byteoversea.com
+0.0.0.0 starling-va.byteoversea.com
+0.0.0.0 v16-ad.byteoversea.com
+0.0.0.0 verify-sg.byteoversea.com
+0.0.0.0 xlog.byteoversea.com
+0.0.0.0 xlog-va.byteoversea.com
+0.0.0.0 maliva-normal-lb.byteoversea.net
+0.0.0.0 security-lb-maliva.byteoversea.net
+0.0.0.0 log.byteoversea.com.edgekey.net
+0.0.0.0 i16-tb.isnssdk.com.edgekey.net
+0.0.0.0 ipstatp.com
+0.0.0.0 p0.ipstatp.com
+0.0.0.0 s.ipstatp.com
+0.0.0.0 s16.ipstatp.com
+0.0.0.0 a15-tb.isnssdk.com
+0.0.0.0 a16-tb.isnssdk.com
+0.0.0.0 cdn.isnssdk.com
+0.0.0.0 clientmonitor.isnssdk.com
+0.0.0.0 dm.isnssdk.com
+0.0.0.0 f-p-va.isnssdk.com
+0.0.0.0 i.isnssdk.com
+0.0.0.0 i-tb.isnssdk.com
+0.0.0.0 i16-tb.isnssdk.com
+0.0.0.0 ichannel.isnssdk.com
+0.0.0.0 ichannel-tb.isnssdk.com
+0.0.0.0 imapi-mu.isnssdk.com
+0.0.0.0 imapi-sg.isnssdk.com
+0.0.0.0 isub.isnssdk.com
+0.0.0.0 isub-tb.isnssdk.com
+0.0.0.0 log.isnssdk.com
+0.0.0.0 log-tb.isnssdk.com
+0.0.0.0 mon.isnssdk.com
+0.0.0.0 monitor.isnssdk.com
+0.0.0.0 notifyback-va.isnssdk.com
+0.0.0.0 open.isnssdk.com
+0.0.0.0 rtlog.isnssdk.com
+0.0.0.0 vas.isnssdk.com
+0.0.0.0 app.musemuse.cn
+0.0.0.0 share.musemuse.cn
+0.0.0.0 applog.musical.ly
+0.0.0.0 frontier.musical.ly
+0.0.0.0 gecko-va.musical.ly
+0.0.0.0 jsb-va.musical.ly
+0.0.0.0 log.musical.ly
+0.0.0.0 log2.musical.ly
+0.0.0.0 mon.musical.ly
+0.0.0.0 rtlog.musical.ly
+0.0.0.0 webcast.musical.ly
+0.0.0.0 xlog-va.musical.ly
+0.0.0.0 snssdk1233.onelink.me
+0.0.0.0 dm.pstatp.com
+0.0.0.0 p.pstatp.com
+0.0.0.0 p16.pstatp.com
+0.0.0.0 p3.pstatp.com
+0.0.0.0 pb3.pstatp.com
+0.0.0.0 s0.pstatp.com
+0.0.0.0 s2.pstatp.com
+0.0.0.0 s3.pstatp.com
+0.0.0.0 s3a.pstatp.com
+0.0.0.0 sf1-ttcdn-tos.pstatp.com
+0.0.0.0 sf3-ttcdn-tos.pstatp.com
+0.0.0.0 sf6-ttcdn-tos.pstatp.com
+0.0.0.0 unpkg.pstatp.com
+0.0.0.0 i.snssdk.com
+0.0.0.0 mcs.snssdk.com
+0.0.0.0 patrol-sg.snssdk.com
+0.0.0.0 rc.snssdk.com
+0.0.0.0 verify.snssdk.com
+0.0.0.0 ads.tiktok.com
+0.0.0.0 test-ads.tiktok.com
+0.0.0.0 ib.tiktokv.com
+0.0.0.0 log.tiktokv.com
+0.0.0.0 mon.tiktokv.com
+0.0.0.0 rtlog.tiktokv.com
+0.0.0.0 xlog.tiktokv.com
