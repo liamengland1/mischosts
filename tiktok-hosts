@@ -109,6 +109,7 @@
 0.0.0.0 all.hylivecdn.sched.ovscdns.net
 0.0.0.0 pull-cmaf-f5.tiktokcdn.com
 0.0.0.0 pull-f5-ab.tiktokcdn.com
+0.0.0.0 pull-hls-f5.tiktokcdn.com
 0.0.0.0 pull-hls-f5-ab.tiktokcdn.com
 0.0.0.0 pull-hls-l11.tiktokcdn.com
 0.0.0.0 pull-rtmp-l1.tiktokcdn.com
