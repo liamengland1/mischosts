@@ -18,13 +18,18 @@
 0.0.0.0 sdfp-va.byteoversea.com
 0.0.0.0 sgali-mcs.byteoversea.com
 0.0.0.0 smr-aliva.byteoversea.com
+0.0.0.0 smr-sg.byteoversea.com
+0.0.0.0 starling-oversea.byteoversea.com
+0.0.0.0 starling-sg.byteoversea.com
 0.0.0.0 starling-va.byteoversea.com
 0.0.0.0 v16-ad.byteoversea.com
 0.0.0.0 verify-sg.byteoversea.com
 0.0.0.0 xlog.byteoversea.com
 0.0.0.0 xlog-va.byteoversea.com
+0.0.0.0 sgali3.l.byteoversea.net
 0.0.0.0 maliva-normal-lb.byteoversea.net
 0.0.0.0 security-lb-maliva.byteoversea.net
+0.0.0.0 tiktok-lb-maliva.byteoversea.net
 0.0.0.0 log.byteoversea.com.edgekey.net
 0.0.0.0 i16-tb.isnssdk.com.edgekey.net
 0.0.0.0 ipstatp.com
@@ -94,8 +99,3 @@
 0.0.0.0 xlog.tiktokv.com
 0.0.0.0 wshifen.com
 0.0.0.0 www.wshifen.com
-0.0.0.0 starling-oversea.byteoversea.com
-0.0.0.0 sgali3.l.byteoversea.net
-0.0.0.0 starling-sg.byteoversea.com
-0.0.0.0 smr-sg.byteoversea.com
-0.0.0.0 tiktok-lb-maliva.byteoversea.net
