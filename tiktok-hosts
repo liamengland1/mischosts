@@ -106,6 +106,7 @@
 ### experimental - third party cdn urls - may break app ###
 0.0.0.0 pull-f5-ab.tiktokcdn.com.c.bytetcdn.com
 0.0.0.0 pull-fcdn-self-oversea.s.bytetcdn.com
+0.0.0.0 flv-l11.tiktokcdn.liveplay.myqcloud.com
 0.0.0.0 all.huodonghylivecdn.sched.ovscdns.net
 0.0.0.0 all.hylivecdn.sched.ovscdns.net
 0.0.0.0 pull-cmaf-f5.tiktokcdn.com
