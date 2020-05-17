@@ -105,6 +105,9 @@ log-tb.sgsnssdk.com
 vas.sgsnssdk.com
 log.sgsnssdk.com
 mon.sgsnssdk.com
+dm.sgsnssdk.com
+i-tb.sgsnssdk.com
+s0.sgpstatp.com
 
 
 ### experimental - third party cdn urls - may break app ###
