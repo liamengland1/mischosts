@@ -13,6 +13,8 @@
 0.0.0.0 a-0007.a-msedge.net
 0.0.0.0 a-0008.a-msedge.net
 0.0.0.0 a-0009.a-msedge.net
+0.0.0.0 a-9999.a-msedge.net
+0.0.0.0 a-ring.a-9999.a-msedge.net
 0.0.0.0 adnexus.net
 0.0.0.0 adnxs.com
 0.0.0.0 secure.flashtalking.comsecure.adnxs.com
@@ -67,7 +69,9 @@
 0.0.0.0 watson.live.com
 0.0.0.0 bingads.microsoft.com
 0.0.0.0 www.bingads.microsoft.com
+0.0.0.0 c.microsoft.com
 0.0.0.0 choice.microsoft.com
+0.0.0.0 browser.events.data.microsoft.com
 0.0.0.0 vortex.sandbox.data.microsoft.com
 0.0.0.0 settings.data.microsoft.com
 0.0.0.0 settings-sandbox.data.microsoft.com
@@ -76,6 +80,7 @@
 0.0.0.0 vortex-sandbox.data.microsoft.com
 0.0.0.0 vortex-win.data.microsoft.com
 0.0.0.0 v10.vortex-win.data.microsoft.com
+0.0.0.0 glbdns.microsoft.com
 0.0.0.0 settings.data.glbdns2.microsoft.com
 0.0.0.0 settings-sandbox.data.glbdns2.microsoft.com
 0.0.0.0 vortex.data.glbdns2.microsoft.com
@@ -83,6 +88,7 @@
 0.0.0.0 corpext.msitadfs.glbdns2.microsoft.com
 0.0.0.0 win10.ipv6.microsoft.com
 0.0.0.0 redir.metaservices.microsoft.com
+0.0.0.0 livetileedge.dsx.mp.microsoft.com
 0.0.0.0 feedback.search.microsoft.com
 0.0.0.0 i1.services.social.microsoft.com
 0.0.0.0 spynet2.microsoft.com
@@ -113,8 +119,13 @@
 0.0.0.0 b.ads2.msads.net
 0.0.0.0 cds26.ams9.msecn.net
 0.0.0.0 az361816.vo.msecnd.net
+0.0.0.0 az416426.vo.msecnd.net
 0.0.0.0 az512334.vo.msecnd.net
+0.0.0.0 az693360.vo.msecnd.net
+0.0.0.0 az708531.vo.msecnd.net
+0.0.0.0 az725175.vo.msecnd.net
 0.0.0.0 msedge.net
+0.0.0.0 a-ring.msedge.net
 0.0.0.0 msftncsi.com
 0.0.0.0 ipv6.msftncsi.com
 0.0.0.0 www.msftncsi.com
@@ -157,6 +168,26 @@
 0.0.0.0 statsfe1.ws.microsoft.com.nsatc.net
 0.0.0.0 statsfe2.ws.microsoft.com.nsatc.net
 0.0.0.0 onesettings-db5.metron.live.nsatc.net
+0.0.0.0 acdc-direct.office.com
+0.0.0.0 afd-a-acdc-direct.office.com
+0.0.0.0 afd-k-acdc-direct.office.com
+0.0.0.0 afd-l.office.com
+0.0.0.0 augloop.office.com
+0.0.0.0 ecs.office.com
+0.0.0.0 lhr-efz.office.com
+0.0.0.0 fp.measure.office.com
+0.0.0.0 42c56e166af1267c6fa147324f8f0f7d.fp.measure.office.com
+0.0.0.0 54ee634a8aaada55244129d9e0b8b2e8.fp.measure.office.com
+0.0.0.0 7338afbd46dd110c9c0a2ffd81509db1.fp.measure.office.com
+0.0.0.0 7a34fffea8b6276e76b053164cf6abad.fp.measure.office.com
+0.0.0.0 920cbdaa1ed63646acf0241ed4da5340.fp.measure.office.com
+0.0.0.0 config.fp.measure.office.com
+0.0.0.0 mel-efz.office.com
+0.0.0.0 live.ms-acdc.office.com
+0.0.0.0 clientlog.portal.office.com
+0.0.0.0 templatelogging.office.com
+0.0.0.0 augmentation.osi.office.net
+0.0.0.0 c.s-microsoft.com
 0.0.0.0 bs.serving-sys.com
 0.0.0.0 msntest.serving-sys.com
 0.0.0.0 apps.skype.com
@@ -166,39 +197,7 @@
 0.0.0.0 cache.datamart.windows.com
 0.0.0.0 feedback.windows.com
 0.0.0.0 db3wns2011111.wns.windows.com
-0.0.0.0 c.microsoft.com
-0.0.0.0 browser.events.data.microsoft.com
-0.0.0.0 vortex.data.microsoft.com
-0.0.0.0 glbdns.microsoft.com
-0.0.0.0 livetileedge.dsx.mp.microsoft.com
-lhr-efz.office.com
-42c56e166af1267c6fa147324f8f0f7d.fp.measure.office.com
-a-ring.msedge.net
-afd-a-acdc-direct.office.com
-54ee634a8aaada55244129d9e0b8b2e8.fp.measure.office.com
-live.ms-acdc.office.com
-afd-l.office.com
-a-ring.a-9999.a-msedge.net
-a-9999.a-msedge.net
-920cbdaa1ed63646acf0241ed4da5340.fp.measure.office.com
-mel-efz.office.com
-c.s-microsoft.com
-0.0.0.0 acdc-direct.office.com
-0.0.0.0 afd-k-acdc-direct.office.com
-0.0.0.0 augloop.office.com
-0.0.0.0 ecs.office.com
-0.0.0.0 fp.measure.office.com
-0.0.0.0 7338afbd46dd110c9c0a2ffd81509db1.fp.measure.office.com
-0.0.0.0 7a34fffea8b6276e76b053164cf6abad.fp.measure.office.com
-0.0.0.0 config.fp.measure.office.com
-0.0.0.0 clientlog.portal.office.com
-0.0.0.0 templatelogging.office.com
-0.0.0.0 augmentation.osi.office.net
 0.0.0.0 1app.blob.core.windows.net
 0.0.0.0 insitez.blob.core.windows.net
 0.0.0.0 onedrive-collection.device.mobileengagement.windows.net
 0.0.0.0 encoderfarmstatsnew.servicebus.windows.net
-0.0.0.0 az416426.vo.msecnd.net
-0.0.0.0 az693360.vo.msecnd.net
-0.0.0.0 az708531.vo.msecnd.net
-0.0.0.0 az725175.vo.msecnd.net
