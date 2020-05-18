@@ -34,6 +34,9 @@
 0.0.0.0 i16-tb.isnssdk.com.edgekey.net
 0.0.0.0 ipstatp.com
 0.0.0.0 p0.ipstatp.com
+0.0.0.0 p1.ipstatp.com
+0.0.0.0 p2.ipstatp.com
+0.0.0.0 p3.ipstatp.com
 0.0.0.0 s.ipstatp.com
 0.0.0.0 s16.ipstatp.com
 0.0.0.0 a15-tb.isnssdk.com
@@ -109,7 +112,8 @@ dm.sgsnssdk.com
 i-tb.sgsnssdk.com
 s0.sgpstatp.com
 s16.hypstarcdn.com
-
+client_monitor.isnssdk.com
+dm-maliva-quic.byteoversea.com
 
 ### experimental - third party cdn urls - may break app ###
 0.0.0.0 pull-f5-ab.tiktokcdn.com.c.bytetcdn.com
