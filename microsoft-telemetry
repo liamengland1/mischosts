@@ -126,6 +126,7 @@
 0.0.0.0 az725175.vo.msecnd.net
 0.0.0.0 msedge.net
 0.0.0.0 a-ring.msedge.net
+k-ring.msedge.net
 0.0.0.0 msftncsi.com
 0.0.0.0 ipv6.msftncsi.com
 0.0.0.0 www.msftncsi.com
@@ -201,3 +202,8 @@
 0.0.0.0 insitez.blob.core.windows.net
 0.0.0.0 onedrive-collection.device.mobileengagement.windows.net
 0.0.0.0 encoderfarmstatsnew.servicebus.windows.net
+config.fp.measure.office.com 
+fp.measure.office.com 
+upload.fp.measure.office.com 
+upload2.fp.measure.office.com
+sjc-efz.office.com
