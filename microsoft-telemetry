@@ -16,8 +16,6 @@
 0.0.0.0 a-ring.a-9999.a-msedge.net
 0.0.0.0 adnexus.net
 0.0.0.0 adnxs.com
-0.0.0.0 pipe.skype.com
-0.0.0.0 secure.flashtalking.com
 0.0.0.0 m.adnxs.com
 0.0.0.0 secure.adnxs.com
 0.0.0.0 aka-cdn-ns.adtech.de
@@ -195,6 +193,7 @@
 0.0.0.0 bs.serving-sys.com
 0.0.0.0 msntest.serving-sys.com
 0.0.0.0 apps.skype.com
+0.0.0.0 pipe.skype.com
 0.0.0.0 pricelist.skype.com
 0.0.0.0 ui.skype.com
 0.0.0.0 cs1.wpc.v0cdn.net
