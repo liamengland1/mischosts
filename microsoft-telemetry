@@ -126,7 +126,7 @@
 0.0.0.0 az725175.vo.msecnd.net
 0.0.0.0 msedge.net
 0.0.0.0 a-ring.msedge.net
-k-ring.msedge.net
+0.0.0.0 k-ring.msedge.net
 0.0.0.0 msftncsi.com
 0.0.0.0 ipv6.msftncsi.com
 0.0.0.0 www.msftncsi.com
@@ -183,9 +183,12 @@ k-ring.msedge.net
 0.0.0.0 7a34fffea8b6276e76b053164cf6abad.fp.measure.office.com
 0.0.0.0 920cbdaa1ed63646acf0241ed4da5340.fp.measure.office.com
 0.0.0.0 config.fp.measure.office.com
+0.0.0.0 upload.fp.measure.office.com
+0.0.0.0 upload2.fp.measure.office.com
 0.0.0.0 mel-efz.office.com
 0.0.0.0 live.ms-acdc.office.com
 0.0.0.0 clientlog.portal.office.com
+0.0.0.0 sjc-efz.office.com
 0.0.0.0 templatelogging.office.com
 0.0.0.0 augmentation.osi.office.net
 0.0.0.0 c.s-microsoft.com
@@ -202,8 +205,3 @@ k-ring.msedge.net
 0.0.0.0 insitez.blob.core.windows.net
 0.0.0.0 onedrive-collection.device.mobileengagement.windows.net
 0.0.0.0 encoderfarmstatsnew.servicebus.windows.net
-config.fp.measure.office.com 
-fp.measure.office.com 
-upload.fp.measure.office.com 
-upload2.fp.measure.office.com
-sjc-efz.office.com
