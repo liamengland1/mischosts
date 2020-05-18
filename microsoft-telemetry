@@ -166,3 +166,39 @@
 0.0.0.0 cache.datamart.windows.com
 0.0.0.0 feedback.windows.com
 0.0.0.0 db3wns2011111.wns.windows.com
+0.0.0.0 c.microsoft.com
+0.0.0.0 browser.events.data.microsoft.com
+0.0.0.0 vortex.data.microsoft.com
+0.0.0.0 glbdns.microsoft.com
+0.0.0.0 livetileedge.dsx.mp.microsoft.com
+lhr-efz.office.com
+42c56e166af1267c6fa147324f8f0f7d.fp.measure.office.com
+a-ring.msedge.net
+afd-a-acdc-direct.office.com
+54ee634a8aaada55244129d9e0b8b2e8.fp.measure.office.com
+live.ms-acdc.office.com
+afd-l.office.com
+a-ring.a-9999.a-msedge.net
+a-9999.a-msedge.net
+920cbdaa1ed63646acf0241ed4da5340.fp.measure.office.com
+mel-efz.office.com
+c.s-microsoft.com
+0.0.0.0 acdc-direct.office.com
+0.0.0.0 afd-k-acdc-direct.office.com
+0.0.0.0 augloop.office.com
+0.0.0.0 ecs.office.com
+0.0.0.0 fp.measure.office.com
+0.0.0.0 7338afbd46dd110c9c0a2ffd81509db1.fp.measure.office.com
+0.0.0.0 7a34fffea8b6276e76b053164cf6abad.fp.measure.office.com
+0.0.0.0 config.fp.measure.office.com
+0.0.0.0 clientlog.portal.office.com
+0.0.0.0 templatelogging.office.com
+0.0.0.0 augmentation.osi.office.net
+0.0.0.0 1app.blob.core.windows.net
+0.0.0.0 insitez.blob.core.windows.net
+0.0.0.0 onedrive-collection.device.mobileengagement.windows.net
+0.0.0.0 encoderfarmstatsnew.servicebus.windows.net
+0.0.0.0 az416426.vo.msecnd.net
+0.0.0.0 az693360.vo.msecnd.net
+0.0.0.0 az708531.vo.msecnd.net
+0.0.0.0 az725175.vo.msecnd.net
