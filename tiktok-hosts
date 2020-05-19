@@ -114,7 +114,12 @@
 ### experimental - third party cdn urls - may break things ###
 0.0.0.0 pull-f5-ab.tiktokcdn.com.c.bytetcdn.com
 0.0.0.0 pull-fcdn-self-oversea.s.bytetcdn.com
+0.0.0.0 sf16-muse-va.ibytedtos.com.edgekey.net
+0.0.0.0 sf16-webcast.muscdn.com.edgesuite.net
+0.0.0.0 sf16-webcast.tiktokcdn.com.edgesuite.net
 0.0.0.0 sf-tk-sg.ibytedtos.com
+0.0.0.0 sf16-muse-va.ibytedtos.com
+0.0.0.0 sf16-webcast.muscdn.com
 0.0.0.0 flv-l11.tiktokcdn.liveplay.myqcloud.com
 0.0.0.0 all.huodonghylivecdn.sched.ovscdns.net
 0.0.0.0 all.hylivecdn.sched.ovscdns.net
@@ -128,6 +133,7 @@
 0.0.0.0 pull-hls-l11.tiktokcdn.com
 0.0.0.0 pull-rtmp-l1.tiktokcdn.com
 0.0.0.0 pull-rtmp-l11.tiktokcdn.com
+0.0.0.0 sf16-webcast.tiktokcdn.com
 0.0.0.0 pull-f5.tiktokcdn.com.c.worldfcdn.com
 0.0.0.0 cmaf-source-fcdn-frankfurt.s.worldfcdn.com
 0.0.0.0 pull-flv-l1.tiktokcdn.com.wsdvs.com
@@ -147,5 +153,5 @@
 # 0.0.0.0 pull-f5-ab.tiktokcdn.com
 # 0.0.0.0 pull-f5-ab.tiktokcdn.com.c.worldfcdn.com
 # 0.0.0.0 pull-fcdn-base-oversea.s.worldfcdn.com
-## audio ##
+## audios ##
 # 0.0.0.0 mpak-suse1.muscdn.com
