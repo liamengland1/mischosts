@@ -214,3 +214,12 @@
 0.0.0.0 apple-mobile.query.yahooapis.com
 0.0.0.0 any-appleweather-cache.internal.query.a03.yahoodns.net
 0.0.0.0 appleweather-cache.internal.query.g03.yahoodns.net
+0.0.0.0 news-events.apple.com
+0.0.0.0 news-events.news.apple-dns.net
+weather-analytics-events.apple.com
+weather-analytics-events.news.apple-dns.net
+books-analytics-events.news.apple-dns.net
+stocks-analytics-events.news.apple-dns.net
+metrics.fe.apple-dns.net
+notes-analytics-events.news.apple-dns.net
+notes-analytics-events.apple.com
