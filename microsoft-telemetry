@@ -18,6 +18,19 @@
 0.0.0.0 a-ring.a-9999.a-msedge.net
 0.0.0.0 adnexus.net
 0.0.0.0 adnxs.com
+dc.applicationinsights.azure.com
+applicationinsights_ingestion.monitor.azure.com
+applicationinsights_ingestion.privatelink.monitor.azure.com
+dc.trafficmanager.net
+dc.applicationinsights.microsoft.com
+dc.services.visualstudio.com
+use.rt.prod.applicationinsights.trafficmanager.net
+quickpulse-prod-use.cloudapp.net
+ussc.rt.prod.applicationinsights.trafficmanager.net
+eun.rt.prod.applicationinsights.trafficmanager.net
+euw.rt.prod.applicationinsights.trafficmanager.net
+ase.rt.prod.applicationinsights.trafficmanager.net
+asse.rt.prod.applicationinsights.trafficmanager.net
 0.0.0.0 m.adnxs.com
 0.0.0.0 secure.adnxs.com
 0.0.0.0 aka-cdn-ns.adtech.de
