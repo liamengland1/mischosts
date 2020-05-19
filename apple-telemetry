@@ -196,24 +196,9 @@
 0.0.0.0 gcs-eu-00002.content-storage-download.googleapis.com
 0.0.0.0 metrics.icloud.com
 0.0.0.0 apps.itunes-nocookie.com
-0.0.0.0 a1.mzstatic.com
-0.0.0.0 a2.mzstatic.com
-0.0.0.0 a3.mzstatic.com
-0.0.0.0 a4.mzstatic.com
-0.0.0.0 a5.mzstatic.com
 0.0.0.0 accertify.mzstatic.com
-0.0.0.0 b1.mzstatic.com
-0.0.0.0 b2.mzstatic.com
-0.0.0.0 b3.mzstatic.com
-0.0.0.0 b4.mzstatic.com
-0.0.0.0 b5.mzstatic.com
 0.0.0.0 dzc-metrics.mzstatic.com
 0.0.0.0 itc.mzstatic.com
 0.0.0.0 metrics.mzstatic.com
-0.0.0.0 s1.mzstatic.com
-0.0.0.0 s2.mzstatic.com
-0.0.0.0 s3.mzstatic.com
-0.0.0.0 s4.mzstatic.com
-0.0.0.0 s5.mzstatic.com
 0.0.0.0 store.mzstatic.com
-0.0.0.0 apple-mobile.query.yahooapis.com
+stocks-sparkline.apple.com
