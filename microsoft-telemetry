@@ -14,8 +14,6 @@
 0.0.0.0 a-0007.a-msedge.net
 0.0.0.0 a-0008.a-msedge.net
 0.0.0.0 a-0009.a-msedge.net
-ow1.res.office365.com
-ow1.res.office365.com.edgekey.net
 0.0.0.0 a-9999.a-msedge.net
 0.0.0.0 a-ring.a-9999.a-msedge.net
 0.0.0.0 adnexus.net
@@ -62,6 +60,7 @@ ow1.res.office365.com.edgekey.net
 0.0.0.0 compatexchange.cloudapp.net
 0.0.0.0 legacy-redirection-neurope-prod-hp.cloudapp.net
 0.0.0.0 ad.doubleclick.net
+0.0.0.0 ow1.res.office365.com.edgekey.net
 0.0.0.0 redir.metaservices.microsoft.com.edgesuite.net
 0.0.0.0 ipv6.msftncsi.com.edgesuite.net
 0.0.0.0 secure.flashtalking.com
@@ -167,7 +166,6 @@ ow1.res.office365.com.edgekey.net
 0.0.0.0 msa.watson.telemetry.microsoft.com
 0.0.0.0 msa.s2s.watson.telemetry.microsoft.com
 0.0.0.0 uhf.microsoft.com
-substrate.ms-acdc.office.com
 0.0.0.0 telemetry.urs.microsoft.com
 0.0.0.0 watson.microsoft.com
 0.0.0.0 survey.watson.microsoft.com
@@ -238,8 +236,8 @@ substrate.ms-acdc.office.com
 0.0.0.0 afd-a-acdc-direct.office.com
 0.0.0.0 afd-k-acdc-direct.office.com
 0.0.0.0 augloop.office.com
-outlook.ha.office.com
 0.0.0.0 ecs.office.com
+0.0.0.0 outlook.ha.office.com
 0.0.0.0 lhr-efz.office.com
 0.0.0.0 fp.measure.office.com
 0.0.0.0 42c56e166af1267c6fa147324f8f0f7d.fp.measure.office.com
@@ -251,10 +249,12 @@ outlook.ha.office.com
 0.0.0.0 upload.fp.measure.office.com
 0.0.0.0 upload2.fp.measure.office.com
 0.0.0.0 mel-efz.office.com
+0.0.0.0 substrate.ms-acdc.office.com
 0.0.0.0 clientlog.portal.office.com
 0.0.0.0 sjc-efz.office.com
 0.0.0.0 templatelogging.office.com
 0.0.0.0 augmentation.osi.office.net
+0.0.0.0 ow1.res.office365.com
 0.0.0.0 c.s-microsoft.com
 0.0.0.0 bs.serving-sys.com
 0.0.0.0 msntest.serving-sys.com
