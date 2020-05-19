@@ -24,6 +24,8 @@
 0.0.0.0 onecollector.cloudapp.aria.akadns.net
 0.0.0.0 prod.nexusrules.live.com.akadns.net
 0.0.0.0 vortex.data.microsoft.com.akadns.net
+0.0.0.0 cy2.vortex.data.microsoft.com.akadns.net
+0.0.0.0 modern.watson.data.microsoft.com.akadns.net
 0.0.0.0 redir.metaservices.microsoft.com.akadns.net
 0.0.0.0 fe2.update.microsoft.com.akadns.net
 0.0.0.0 statsfe2.update.microsoft.com.akadns.net
@@ -311,5 +313,3 @@
 0.0.0.0 db6sch102091105.wns.windows.com
 0.0.0.0 db6sch102091412.wns.windows.com
 0.0.0.0 onedrive-collection.device.mobileengagement.windows.net
-cy2.vortex.data.microsoft.com.akadns.net
-modern.watson.data.microsoft.com.akadns.net
