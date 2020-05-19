@@ -74,7 +74,6 @@
 0.0.0.0 log2.musical.ly
 0.0.0.0 mon.musical.ly
 0.0.0.0 rtlog.musical.ly
-0.0.0.0 webcast.musical.ly
 0.0.0.0 xlog-va.musical.ly
 0.0.0.0 snssdk1180.onelink.me
 0.0.0.0 snssdk1233.onelink.me
@@ -121,7 +120,6 @@
 0.0.0.0 all.hylivecdn.sched.ovscdns.net
 0.0.0.0 pull-cmaf-f5.tiktokcdn.com
 0.0.0.0 pull-f5.tiktokcdn.com
-0.0.0.0 pull-f5-ab.tiktokcdn.com
 0.0.0.0 pull-flv-l1.tiktokcdn.com
 0.0.0.0 pull-flv-l11.tiktokcdn.com
 0.0.0.0 pull-hls-f5.tiktokcdn.com
@@ -132,7 +130,6 @@
 0.0.0.0 pull-rtmp-l11.tiktokcdn.com
 0.0.0.0 pull-f5.tiktokcdn.com.c.worldfcdn.com
 0.0.0.0 cmaf-source-fcdn-frankfurt.s.worldfcdn.com
-0.0.0.0 pull-fcdn-base-oversea.s.worldfcdn.com
 0.0.0.0 pull-flv-l1.tiktokcdn.com.wsdvs.com
 0.0.0.0 pull-hls-l1.tiktokcdn.com.wsdvs.com
 0.0.0.0 pull-rtmp-l1.tiktokcdn.com.wsdvs.com
