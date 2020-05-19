@@ -58,6 +58,7 @@
 0.0.0.0 any.edge.bing.com
 0.0.0.0 g.bing.com
 0.0.0.0 telemetry.appex.bing.net
+0.0.0.0 bat.bing-int.com
 0.0.0.0 compatexchange.cloudapp.net
 0.0.0.0 legacy-redirection-neurope-prod-hp.cloudapp.net
 0.0.0.0 quickpulse-prod-use.cloudapp.net
@@ -125,6 +126,7 @@
 0.0.0.0 corpext.msitadfs.glbdns2.microsoft.com
 0.0.0.0 win10.ipv6.microsoft.com
 0.0.0.0 redir.metaservices.microsoft.com
+0.0.0.0 tsfe.trafficshaping.dsp.mp.microsoft.com
 0.0.0.0 livetileedge.dsx.mp.microsoft.com
 0.0.0.0 feedback.search.microsoft.com
 0.0.0.0 i1.services.social.microsoft.com
@@ -218,10 +220,12 @@
 0.0.0.0 telecommand.telemetry.microsoft.com.nsat-c.net
 0.0.0.0 vortex.data.metron.live.com.nsatc.net
 0.0.0.0 vortex-win.data.metron.live.com.nsatc.net
+0.0.0.0 v10.vortex-win.data.metron.live.com.nsatc.net
 0.0.0.0 onesettings-hk2.metron.live.com.nsatc.net
 0.0.0.0 vortex-bn2.metron.live.com.nsatc.net
 0.0.0.0 vortex-cy2.metron.live.com.nsatc.net
 0.0.0.0 vortex-db5.metron.live.com.nsatc.net
+0.0.0.0 vortex-hk2.metron.live.com.nsatc.net
 0.0.0.0 ssw.live.com.nsatc.net
 0.0.0.0 choice.microsoft.com.nsatc.net
 0.0.0.0 i1.services.social.microsoft.com.nsatc.net
@@ -263,8 +267,13 @@
 0.0.0.0 bs.serving-sys.com
 0.0.0.0 msntest.serving-sys.com
 0.0.0.0 apps.skype.com
+0.0.0.0 config.edge.skype.com
+0.0.0.0 metrics.skype.com
 0.0.0.0 pipe.skype.com
 0.0.0.0 pricelist.skype.com
+0.0.0.0 promotions.skype.com
+0.0.0.0 api.promotions.skype.com
+0.0.0.0 bo.promotions.skype.com
 0.0.0.0 ui.skype.com
 0.0.0.0 ase.rt.prod.applicationinsights.trafficmanager.net
 0.0.0.0 asse.rt.prod.applicationinsights.trafficmanager.net
@@ -277,77 +286,30 @@
 0.0.0.0 dc.services.visualstudio.com
 0.0.0.0 cache.datamart.windows.com
 0.0.0.0 feedback.windows.com
+0.0.0.0 bn1wns2011508.wns.windows.com
+0.0.0.0 bn2wns1.wns.windows.com
+0.0.0.0 bn3sch020010626.wns.windows.com
+0.0.0.0 bn3sch020011855.wns.windows.com
+0.0.0.0 bn3sch020022331.wns.windows.com
+0.0.0.0 bn4sch101121022.wns.windows.com
+0.0.0.0 bn4sch101121318.wns.windows.com
+0.0.0.0 bn4sch101123006.wns.windows.com
 0.0.0.0 db3wns2011111.wns.windows.com
+0.0.0.0 db5sch101100917.wns.windows.com
+0.0.0.0 db5sch101101511.wns.windows.com
+0.0.0.0 db5sch101101813.wns.windows.com
+0.0.0.0 db5sch101101914.wns.windows.com
+0.0.0.0 db5sch101101939.wns.windows.com
+0.0.0.0 db5sch101110626.wns.windows.com
+0.0.0.0 db5sch101110634.wns.windows.com
+0.0.0.0 db5sch101110821.wns.windows.com
+0.0.0.0 db5sch101110822.wns.windows.com
+0.0.0.0 db5sch103082111.wns.windows.com
+0.0.0.0 db5sch103082406.wns.windows.com
+0.0.0.0 db5sch103092209.wns.windows.com
+0.0.0.0 db5wns1d.wns.windows.com
+0.0.0.0 db6sch102091105.wns.windows.com
+0.0.0.0 db6sch102091412.wns.windows.com
 0.0.0.0 onedrive-collection.device.mobileengagement.windows.net
-promotions.skype.com
-api.promotions.skype.com
-0.0.0.0 promotions.skype.com
-0.0.0.0 api.promotions.skype.com
-0.0.0.0 bo.promotions.skype.com
-config.edge.skype.com
-metrics.skype.com
-bat.bing-int.com
-bn2wns1.wns.windows.com
-bn3sch020010626.wns.windows.com
-BN3SCH020011855.wns.windows.com
-BN3SCH020022331.wns.windows.com
-BN4SCH101121022.wns.windows.com
-BN4SCH101121318.wns.windows.com
-BN4SCH101123006.wns.windows.com
-bn1wns2011508.wns.windows.com
-telecommand.telemetry.microsoft.com
-telecommand.telemetry.microsoft.com.nsatc.net
-telemetry.appex.bing.net:443
-telemetry.microsoft.com
-telemetry.urs.microsoft.com
-tsfe.trafficshaping.dsp.mp.microsoft.com
-v10.vortex-win.data.metron.live.com.nsatc.net
-v10.vortex-win.data.microsoft.com
-version.hybrid.api.here.com
-view.atdmt.com
-vortex-bn2.metron.live.com.nsatc.net
-vortex-cy2.metron.live.com.nsatc.net
-vortex-db5.metron.live.com.nsatc.net
-vortex-hk2.metron.live.com.nsatc.net
-vortex-sandbox.data.microsoft.com
-vortex-win.data.metron.live.com.nsatc.net
-vortex-win.data.microsoft.com
-vortex.data.glbdns2.microsoft.com
-vortex.data.metron.live.com.nsatc.net
-vortex.data.microsoft.com
-watson.live.com
-watson.microsoft.com
-watson.ppe.telemetry.microsoft.com
-watson.telemetry.microsoft.com
-watson.telemetry.microsoft.com.nsatc.net
-web.vortex.data.microsoft.com
-wes.df.telemetry.microsoft.com
-win10.ipv6.microsoft.com
-df.telemetry.microsoft.com
-diagnostics.support.microsoft.com
-ec.atdmt.com
-ecn.dev.virtualearth.net
-eu.vortex.data.microsoft.com
-db3wns2011111.wns.windows.com
-db5sch101100917.wns.windows.com
-db5sch101101511.wns.windows.com
-db5sch101101914.wns.windows.com
-db5sch101101939.wns.windows.com
-db5sch101110626.wns.windows.com
-db5sch101110634.wns.windows.com
-db5sch101110821.wns.windows.com
-db5sch101110822.wns.windows.com
-db5sch101101813.wns.windows.com
-db5sch103082111.wns.windows.com
-db5sch103082406.wns.windows.com
-db5sch103092209.wns.windows.com
-db5wns1d.wns.windows.com
-db6sch102091105.wns.windows.com
-db6sch102091412.wns.windows.com
-ca.telemetry.microsoft.com
-reports.wes.df.telemetry.microsoft.com
-services.wes.df.telemetry.microsoft.com
-settings-sandbox.data.microsoft.com
-settings-win.data.microsoft.com
-settings.data.glbdns2.microsoft.com
-settings.data.microsoft.com
+cy2.vortex.data.microsoft.com.akadns.net
+modern.watson.data.microsoft.com.akadns.net
