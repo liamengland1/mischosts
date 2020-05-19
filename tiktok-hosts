@@ -46,7 +46,6 @@
 0.0.0.0 a16-tb.isnssdk.com
 0.0.0.0 cdn.isnssdk.com
 0.0.0.0 clientmonitor.isnssdk.com
-0.0.0.0 client_monitor.isnssdk.com
 0.0.0.0 dm.isnssdk.com
 0.0.0.0 f-p-va.isnssdk.com
 0.0.0.0 hotapi-va.isnssdk.com
@@ -116,12 +115,13 @@
 ### experimental - third party cdn urls - may break things ###
 0.0.0.0 pull-f5-ab.tiktokcdn.com.c.bytetcdn.com
 0.0.0.0 pull-fcdn-self-oversea.s.bytetcdn.com
+0.0.0.0 sf-tk-sg.ibytedtos.com
+0.0.0.0 mpak-suse1.muscdn.com
 0.0.0.0 flv-l11.tiktokcdn.liveplay.myqcloud.com
 0.0.0.0 all.huodonghylivecdn.sched.ovscdns.net
 0.0.0.0 all.hylivecdn.sched.ovscdns.net
 0.0.0.0 pull-cmaf-f5.tiktokcdn.com
 0.0.0.0 pull-f5.tiktokcdn.com
-# 0.0.0.0 pull-f5-ab.tiktokcdn.com
 0.0.0.0 pull-flv-l1.tiktokcdn.com
 0.0.0.0 pull-flv-l11.tiktokcdn.com
 0.0.0.0 pull-hls-f5.tiktokcdn.com
@@ -131,15 +131,20 @@
 0.0.0.0 pull-rtmp-l1.tiktokcdn.com
 0.0.0.0 pull-rtmp-l11.tiktokcdn.com
 0.0.0.0 pull-f5.tiktokcdn.com.c.worldfcdn.com
-# 0.0.0.0 pull-f5-ab.tiktokcdn.com.c.worldfcdn.com
 0.0.0.0 cmaf-source-fcdn-frankfurt.s.worldfcdn.com
-# 0.0.0.0 pull-fcdn-base-oversea.s.worldfcdn.com
 0.0.0.0 pull-flv-l1.tiktokcdn.com.wsdvs.com
 0.0.0.0 pull-hls-l1.tiktokcdn.com.wsdvs.com
 0.0.0.0 pull-rtmp-l1.tiktokcdn.com.wsdvs.com
-0.0.0.0 mpak-suse1.muscdn.com
-0.0.0.0 sf-tk-sg.ibytedtos.com
 
 ### do not block - breaks signup captcha flow ###
 # s0.ipstatp.com
 # verification-va.musical.ly
+
+### do not block - breaks direct messages ###
+# 0.0.0.0 imapi-mu.isnssdk.com
+# 0.0.0.0 imapi-sg.isnssdk.com
+
+### do not block - breaks live streams ###
+# 0.0.0.0 pull-f5-ab.tiktokcdn.com
+# 0.0.0.0 pull-f5-ab.tiktokcdn.com.c.worldfcdn.com
+# 0.0.0.0 pull-fcdn-base-oversea.s.worldfcdn.com
