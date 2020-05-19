@@ -114,6 +114,8 @@
 0.0.0.0 api.music.apple.com
 0.0.0.0 sb.music.apple.com
 0.0.0.0 nc-pod1-smp-device.apple.com
+0.0.0.0 news-events.apple.com
+0.0.0.0 notes-analytics-events.apple.com
 0.0.0.0 opensource.apple.com
 0.0.0.0 outsideapple.apple.com
 0.0.0.0 pcr.apple.com
@@ -155,6 +157,7 @@
 0.0.0.0 valid.apple.com
 0.0.0.0 videos.apple.com
 0.0.0.0 api.videos.apple.com
+0.0.0.0 weather-analytics-events.apple.com
 0.0.0.0 wu-calculator.apple.com
 0.0.0.0 xp.apple.com
 0.0.0.0 daf.xp.apple.com
@@ -184,6 +187,12 @@
 0.0.0.0 edge-003.usnyc.ce.apple-dns.net
 0.0.0.0 edge-035.usnyc.ce.apple-dns.net
 0.0.0.0 api.apple-cloudkit.fe.apple-dns.net
+0.0.0.0 metrics.fe.apple-dns.net
+0.0.0.0 books-analytics-events.news.apple-dns.net
+0.0.0.0 news-events.news.apple-dns.net
+0.0.0.0 notes-analytics-events.news.apple-dns.net
+0.0.0.0 stocks-analytics-events.news.apple-dns.net
+0.0.0.0 weather-analytics-events.news.apple-dns.net
 0.0.0.0 e.crashlytics.com
 0.0.0.0 settings.crashlytics.com
 0.0.0.0 iadsdk.apple.com.edgekey.net
@@ -212,14 +221,3 @@
 0.0.0.0 s5.mzstatic.com
 0.0.0.0 store.mzstatic.com
 0.0.0.0 apple-mobile.query.yahooapis.com
-0.0.0.0 any-appleweather-cache.internal.query.a03.yahoodns.net
-0.0.0.0 appleweather-cache.internal.query.g03.yahoodns.net
-0.0.0.0 news-events.apple.com
-0.0.0.0 news-events.news.apple-dns.net
-weather-analytics-events.apple.com
-weather-analytics-events.news.apple-dns.net
-books-analytics-events.news.apple-dns.net
-stocks-analytics-events.news.apple-dns.net
-metrics.fe.apple-dns.net
-notes-analytics-events.news.apple-dns.net
-notes-analytics-events.apple.com
