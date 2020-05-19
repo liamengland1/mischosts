@@ -2,6 +2,7 @@
 # Sourced from https://github.com/adversarialtools/apple-telemetry
 # Originally hosted at https://github.com/llacb47/apple-telemetry/blob/master/blacklist
 0.0.0.0 appldnld.g.aaplimg.com
+0.0.0.0 pancake.g.aaplimg.com
 0.0.0.0 zeusmedia.g.aaplimg.com
 0.0.0.0 pipe.cloudapp.aria.akadns.net
 0.0.0.0 dw-cbsi.cnet-basic-performance.akadns.net
@@ -13,9 +14,6 @@
 0.0.0.0 iphonesubmissions.apple.com.akadns.net
 0.0.0.0 lcdn-locator-usuqo.apple.com.akadns.net
 0.0.0.0 outsideapple.apple.com.akadns.net
-pancake.apple.com
-pancake.apple.com.edgekey.net
-pancake.g.aaplimg.com
 0.0.0.0 radarsubmissions.apple.com.akadns.net
 0.0.0.0 tbsc.apple.com.akadns.net
 0.0.0.0 wu.apple.com.akadns.net
@@ -119,6 +117,7 @@ pancake.g.aaplimg.com
 0.0.0.0 notes-analytics-events.apple.com
 0.0.0.0 opensource.apple.com
 0.0.0.0 outsideapple.apple.com
+0.0.0.0 pancake.apple.com
 0.0.0.0 pcr.apple.com
 0.0.0.0 amp-api.podcasts.apple.com
 0.0.0.0 api.podcasts.apple.com
@@ -150,6 +149,7 @@ pancake.g.aaplimg.com
 0.0.0.0 cdn.smoot.apple.com
 0.0.0.0 ssl.apple.com
 0.0.0.0 stocks-analytics-events.apple.com
+0.0.0.0 stocks-sparkline.apple.com
 0.0.0.0 supportmetrics.apple.com
 0.0.0.0 tbsc.apple.com
 0.0.0.0 tv.apple.com
@@ -194,6 +194,7 @@ pancake.g.aaplimg.com
 0.0.0.0 e.crashlytics.com
 0.0.0.0 settings.crashlytics.com
 0.0.0.0 iadsdk.apple.com.edgekey.net
+0.0.0.0 pancake.apple.com.edgekey.net
 0.0.0.0 ax.phobos.apple.com.edgesuite.net
 0.0.0.0 gcs-eu-00002.content-storage-download.googleapis.com
 0.0.0.0 metrics.icloud.com
@@ -203,4 +204,3 @@ pancake.g.aaplimg.com
 0.0.0.0 itc.mzstatic.com
 0.0.0.0 metrics.mzstatic.com
 0.0.0.0 store.mzstatic.com
-stocks-sparkline.apple.com
