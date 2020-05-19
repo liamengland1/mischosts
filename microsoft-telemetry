@@ -18,19 +18,6 @@
 0.0.0.0 a-ring.a-9999.a-msedge.net
 0.0.0.0 adnexus.net
 0.0.0.0 adnxs.com
-dc.applicationinsights.azure.com
-applicationinsights_ingestion.monitor.azure.com
-applicationinsights_ingestion.privatelink.monitor.azure.com
-dc.trafficmanager.net
-dc.applicationinsights.microsoft.com
-dc.services.visualstudio.com
-use.rt.prod.applicationinsights.trafficmanager.net
-quickpulse-prod-use.cloudapp.net
-ussc.rt.prod.applicationinsights.trafficmanager.net
-eun.rt.prod.applicationinsights.trafficmanager.net
-euw.rt.prod.applicationinsights.trafficmanager.net
-ase.rt.prod.applicationinsights.trafficmanager.net
-asse.rt.prod.applicationinsights.trafficmanager.net
 0.0.0.0 m.adnxs.com
 0.0.0.0 secure.adnxs.com
 0.0.0.0 aka-cdn-ns.adtech.de
@@ -64,6 +51,7 @@ asse.rt.prod.applicationinsights.trafficmanager.net
 0.0.0.0 db3aqu.atdmt.com
 0.0.0.0 ec.atdmt.com
 0.0.0.0 view.atdmt.com
+0.0.0.0 dc.applicationinsights.azure.com
 0.0.0.0 bat.bing.com
 0.0.0.0 r.bat.bing.com
 0.0.0.0 c.bing.com
@@ -72,6 +60,7 @@ asse.rt.prod.applicationinsights.trafficmanager.net
 0.0.0.0 telemetry.appex.bing.net
 0.0.0.0 compatexchange.cloudapp.net
 0.0.0.0 legacy-redirection-neurope-prod-hp.cloudapp.net
+0.0.0.0 quickpulse-prod-use.cloudapp.net
 0.0.0.0 ad.doubleclick.net
 0.0.0.0 ow1.res.office365.com.edgekey.net
 0.0.0.0 redir.metaservices.microsoft.com.edgesuite.net
@@ -277,7 +266,15 @@ asse.rt.prod.applicationinsights.trafficmanager.net
 0.0.0.0 pipe.skype.com
 0.0.0.0 pricelist.skype.com
 0.0.0.0 ui.skype.com
+0.0.0.0 ase.rt.prod.applicationinsights.trafficmanager.net
+0.0.0.0 asse.rt.prod.applicationinsights.trafficmanager.net
+0.0.0.0 eun.rt.prod.applicationinsights.trafficmanager.net
+0.0.0.0 euw.rt.prod.applicationinsights.trafficmanager.net
+0.0.0.0 use.rt.prod.applicationinsights.trafficmanager.net
+0.0.0.0 ussc.rt.prod.applicationinsights.trafficmanager.net
+0.0.0.0 dc.trafficmanager.net
 0.0.0.0 cs1.wpc.v0cdn.net
+0.0.0.0 dc.services.visualstudio.com
 0.0.0.0 cache.datamart.windows.com
 0.0.0.0 feedback.windows.com
 0.0.0.0 db3wns2011111.wns.windows.com
