@@ -110,7 +110,6 @@
 0.0.0.0 itunesconnect.apple.com
 0.0.0.0 lcdn-locator.apple.com
 0.0.0.0 metrics.apple.com
-0.0.0.0 music.apple.com
 0.0.0.0 api.music.apple.com
 0.0.0.0 sb.music.apple.com
 0.0.0.0 nc-pod1-smp-device.apple.com
@@ -119,7 +118,6 @@
 0.0.0.0 opensource.apple.com
 0.0.0.0 outsideapple.apple.com
 0.0.0.0 pcr.apple.com
-0.0.0.0 podcasts.apple.com
 0.0.0.0 amp-api.podcasts.apple.com
 0.0.0.0 api.podcasts.apple.com
 0.0.0.0 ppq.apple.com
@@ -162,7 +160,6 @@
 0.0.0.0 xp.apple.com
 0.0.0.0 daf.xp.apple.com
 0.0.0.0 zeusmedia.apple.com
-0.0.0.0 api.apple-cloudkit.com
 0.0.0.0 defra.ce.apple-dns.net
 0.0.0.0 edge-001.defra.ce.apple-dns.net
 0.0.0.0 edge-009.defra.ce.apple-dns.net
@@ -186,7 +183,6 @@
 0.0.0.0 usnyc.ce.apple-dns.net
 0.0.0.0 edge-003.usnyc.ce.apple-dns.net
 0.0.0.0 edge-035.usnyc.ce.apple-dns.net
-0.0.0.0 api.apple-cloudkit.fe.apple-dns.net
 0.0.0.0 metrics.fe.apple-dns.net
 0.0.0.0 books-analytics-events.news.apple-dns.net
 0.0.0.0 news-events.news.apple-dns.net
