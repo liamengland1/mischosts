@@ -138,3 +138,8 @@
 0.0.0.0 pull-hls-l1.tiktokcdn.com.wsdvs.com
 0.0.0.0 pull-rtmp-l1.tiktokcdn.com.wsdvs.com
 0.0.0.0 mpak-suse1.muscdn.com
+0.0.0.0 sf-tk-sg.ibytedtos.com
+
+### do not block - breaks signup captcha flow ###
+# s0.ipstatp.com
+# verification-va.musical.ly
