@@ -24,16 +24,27 @@
 0.0.0.0 starling-sg.byteoversea.com
 0.0.0.0 starling-va.byteoversea.com
 0.0.0.0 v16-ad.byteoversea.com
+0.0.0.0 vaali-mcs.byteoversea.com
 0.0.0.0 verify-sg.byteoversea.com
 0.0.0.0 xlog.byteoversea.com
 0.0.0.0 xlog-va.byteoversea.com
+0.0.0.0 equinix-iad-api.l.byteoversea.net
+0.0.0.0 equinix-iad-cache01.l.byteoversea.net
+0.0.0.0 equinix-sjc-v1.l.byteoversea.net
+0.0.0.0 equinix-sjc-v2.l.byteoversea.net
+0.0.0.0 mvaali1.l.byteoversea.net
+0.0.0.0 mvaali2.l.byteoversea.net
 0.0.0.0 sgali3.l.byteoversea.net
+0.0.0.0 topbuzz-applog-alisg.l.byteoversea.net
+0.0.0.0 vaali1.l.byteoversea.net
+0.0.0.0 zong-khi-v1.l.byteoversea.net
+0.0.0.0 zong-lhe-v1.l.byteoversea.net
 0.0.0.0 maliva-normal-lb.byteoversea.net
 0.0.0.0 security-lb-maliva.byteoversea.net
 0.0.0.0 tiktok-lb-maliva.byteoversea.net
+0.0.0.0 videoarch-lb-maliva.byteoversea.net
 0.0.0.0 log.byteoversea.com.edgekey.net
 0.0.0.0 i16-tb.isnssdk.com.edgekey.net
-0.0.0.0 s16.hypstarcdn.com
 0.0.0.0 ipstatp.com
 0.0.0.0 p0.ipstatp.com
 0.0.0.0 p1.ipstatp.com
@@ -45,6 +56,7 @@
 0.0.0.0 a16-tb.isnssdk.com
 0.0.0.0 cdn.isnssdk.com
 0.0.0.0 clientmonitor.isnssdk.com
+0.0.0.0 client_monitor.isnssdk.com
 0.0.0.0 dm.isnssdk.com
 0.0.0.0 f-p-va.isnssdk.com
 0.0.0.0 hotapi-va.isnssdk.com
@@ -66,6 +78,7 @@
 0.0.0.0 app.musemuse.cn
 0.0.0.0 share.musemuse.cn
 0.0.0.0 applog.musical.ly
+0.0.0.0 dm16.musical.ly
 0.0.0.0 frontier.musical.ly
 0.0.0.0 gecko-va.musical.ly
 0.0.0.0 jsb-va.musical.ly
@@ -73,6 +86,7 @@
 0.0.0.0 log2.musical.ly
 0.0.0.0 mon.musical.ly
 0.0.0.0 rtlog.musical.ly
+0.0.0.0 webcast.musical.ly
 0.0.0.0 xlog-va.musical.ly
 0.0.0.0 snssdk1180.onelink.me
 0.0.0.0 snssdk1233.onelink.me
@@ -92,6 +106,7 @@
 0.0.0.0 s0.sgpstatp.com
 0.0.0.0 dm.sgsnssdk.com
 0.0.0.0 i-tb.sgsnssdk.com
+0.0.0.0 isub-tb.sgsnssdk.com
 0.0.0.0 log.sgsnssdk.com
 0.0.0.0 log-tb.sgsnssdk.com
 0.0.0.0 mon.sgsnssdk.com
@@ -103,6 +118,7 @@
 0.0.0.0 verify.snssdk.com
 0.0.0.0 ads.tiktok.com
 0.0.0.0 test-ads.tiktok.com
+0.0.0.0 dm16.tiktokv.com
 0.0.0.0 ib.tiktokv.com
 0.0.0.0 log.tiktokv.com
 0.0.0.0 mon.tiktokv.com
@@ -112,17 +128,27 @@
 0.0.0.0 www.wshifen.com
 
 ### experimental - third party cdn urls - may break things ###
+0.0.0.0 p16hypstarcdn-a.akamaihd.net
+0.0.0.0 s16-hypstarcdn-com.akamaized.net
 0.0.0.0 pull-f5-ab.tiktokcdn.com.c.bytetcdn.com
 0.0.0.0 pull-fcdn-self-oversea.s.bytetcdn.com
 0.0.0.0 sf16-muse-va.ibytedtos.com.edgekey.net
 0.0.0.0 sf16-webcast.muscdn.com.edgesuite.net
 0.0.0.0 sf16-webcast.tiktokcdn.com.edgesuite.net
+0.0.0.0 s16.hypstarcdn.com
+0.0.0.0 sf-tb-sg.ibytedtos.com
 0.0.0.0 sf-tk-sg.ibytedtos.com
 0.0.0.0 sf16-muse-va.ibytedtos.com
+0.0.0.0 sf16-passport-va.ibytedtos.com
+0.0.0.0 sf16-sg.muscdn.com
 0.0.0.0 sf16-webcast.muscdn.com
+0.0.0.0 sf19-webcast.muscdn.com
 0.0.0.0 flv-l11.tiktokcdn.liveplay.myqcloud.com
 0.0.0.0 all.huodonghylivecdn.sched.ovscdns.net
 0.0.0.0 all.hylivecdn.sched.ovscdns.net
+0.0.0.0 p16-webcast.tiktokcdn.com
+0.0.0.0 p19-webcast.tiktokcdn.com
+0.0.0.0 p21-webcast.tiktokcdn.com
 0.0.0.0 pull-cmaf-f5.tiktokcdn.com
 0.0.0.0 pull-flv-l1.tiktokcdn.com
 0.0.0.0 pull-flv-l11.tiktokcdn.com
