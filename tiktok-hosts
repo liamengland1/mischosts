@@ -127,6 +127,8 @@
 0.0.0.0 xlog.tiktokv.com
 0.0.0.0 wshifen.com
 0.0.0.0 www.wshifen.com
+business-sg.topbuzz.com
+business.topbuzz.com
 
 ### experimental - third party cdn urls - may break things ###
 0.0.0.0 p16hypstarcdn-a.akamaihd.net
@@ -164,6 +166,7 @@
 0.0.0.0 pull-flv-l1.tiktokcdn.com.wsdvs.com
 0.0.0.0 pull-hls-l1.tiktokcdn.com.wsdvs.com
 0.0.0.0 pull-rtmp-l1.tiktokcdn.com.wsdvs.com
+s16.tiktokcdn.com
 
 ### do not block - breaks signup captcha flow ###
 # s0.ipstatp.com
