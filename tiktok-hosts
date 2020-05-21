@@ -155,7 +155,6 @@
 0.0.0.0 p21-webcast.tiktokcdn.com
 0.0.0.0 pull-rtmp-l1.tiktokcdn.com
 0.0.0.0 pull-rtmp-l11.tiktokcdn.com
-0.0.0.0 s16.tiktokcdn.com
 0.0.0.0 sf16-webcast.tiktokcdn.com
 0.0.0.0 pull-rtmp-l1.tiktokcdn.com.wsdvs.com
 
@@ -190,3 +189,5 @@
 # 0.0.0.0 pull-hls-l1.tiktokcdn.com.wsdvs.com
 ## audios ##
 # 0.0.0.0 mpak-suse1.muscdn.com
+## website ##
+# 0.0.0.0 s16.tiktokcdn.com
