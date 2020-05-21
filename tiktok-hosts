@@ -1,4 +1,5 @@
 # tiktok tracking and fingerprinting hosts
+# if you want to totally block access to tiktok on your network, you can fork the list and uncomment everything in the "do not block" section
 
 0.0.0.0 musically.app.link
 0.0.0.0 musically-alternate.app.link
@@ -91,7 +92,6 @@
 0.0.0.0 log2.musical.ly
 0.0.0.0 mon.musical.ly
 0.0.0.0 rtlog.musical.ly
-0.0.0.0 webcast.musical.ly
 0.0.0.0 xlog-va.musical.ly
 0.0.0.0 snssdk1180.onelink.me
 0.0.0.0 snssdk1233.onelink.me
@@ -229,4 +229,5 @@
 # 0.0.0.0 api2-19-h2-eagle-useast2a.musical.ly
 # 0.0.0.0 api2-19-h2-useast2a.musical.ly
 ## live streams ##
-# webcast-useast2a.musical.ly
+# 0.0.0.0 webcast.musical.ly
+# 0.0.0.0 webcast-useast2a.musical.ly
