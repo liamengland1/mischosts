@@ -239,7 +239,6 @@
 0.0.0.0 events.data.microsoft.com
 0.0.0.0 browser.events.data.microsoft.com
 0.0.0.0 de-v20.events.data.microsoft.com
-substrate.office.com
 0.0.0.0 eu-v20.events.data.microsoft.com
 0.0.0.0 kmwatsonc.events.data.microsoft.com
 0.0.0.0 mobile.events.data.microsoft.com
@@ -419,6 +418,7 @@ substrate.office.com
 0.0.0.0 substrate.ms-acdc.office.com
 0.0.0.0 clientlog.portal.office.com
 0.0.0.0 sjc-efz.office.com
+0.0.0.0 substrate.office.com
 0.0.0.0 templatelogging.office.com
 0.0.0.0 augmentation.osi.office.net
 0.0.0.0 ow1.res.office365.com
