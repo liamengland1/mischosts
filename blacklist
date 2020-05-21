@@ -414,6 +414,8 @@
 0.0.0.0 2p9fyvx.com
 0.0.0.0 2parale.ro
 0.0.0.0 2performant.com
+0.0.0.0 2pomkk7c0.de
+0.0.0.0 www.2pomkk7c0.de
 0.0.0.0 2ptxxjjzpy.com
 0.0.0.0 2pxg8bcf.top
 0.0.0.0 2seo8.com
@@ -1181,6 +1183,8 @@
 0.0.0.0 a-ads.com
 0.0.0.0 a-cast.jp
 0.0.0.0 a-counters.com
+0.0.0.0 a-9999.a-msedge.net
+0.0.0.0 a-ring.a-9999.a-msedge.net
 0.0.0.0 a-pagerank.net
 0.0.0.0 a-static.com
 0.0.0.0 a013.com
@@ -2511,6 +2515,8 @@
 0.0.0.0 adultadworld.com
 0.0.0.0 adultblogtoplist.com
 0.0.0.0 adbana.adultcity.tv
+0.0.0.0 adultdream3.com
+0.0.0.0 www.adultdream3.com
 0.0.0.0 adultimate.net
 0.0.0.0 adultpay.net
 0.0.0.0 adulttds.com
@@ -3097,6 +3103,7 @@
 0.0.0.0 contentquery-a.akamaihd.net
 0.0.0.0 contentquest-a.akamaihd.net
 0.0.0.0 ds-aksb-a.akamaihd.net
+0.0.0.0 fb_servpub-a.akamaihd.net
 0.0.0.0 inmobisdk-a.akamaihd.net
 0.0.0.0 pxlclnmdecom-a.akamaihd.net
 0.0.0.0 pxlgnpgecom-a.akamaihd.net
@@ -3108,6 +3115,8 @@
 0.0.0.0 jioads.akamaized.net
 0.0.0.0 loka-cdn.akamaized.net
 0.0.0.0 loka-materials.akamaized.net
+0.0.0.0 aefd.nelreports.net.akamaized.net
+0.0.0.0 deff.nelreports.net.akamaized.net
 0.0.0.0 ninja.akamaized.net
 0.0.0.0 speee-ad.akamaized.net
 0.0.0.0 static-ads.akamaized.net
@@ -3368,34 +3377,52 @@
 0.0.0.0 amazingcounters.com
 0.0.0.0 amazingfunnvideos.com
 0.0.0.0 aan.amazon.com
+0.0.0.0 device-metrics-us.amazon.com
+0.0.0.0 device-metrics-us-2.amazon.com
 0.0.0.0 msh.amazon.com
 0.0.0.0 rewrite.amazon.com
 0.0.0.0 taos-na-prod.amazon.com
 0.0.0.0 amazon-adsystem.com
 0.0.0.0 z-na.amazon-adsystem.com
 0.0.0.0 amazon-cornerstone.com
+0.0.0.0 events.af-south-1.amazonaws.com
+0.0.0.0 events.ap-east-1.amazonaws.com
 0.0.0.0 firehose.ap-east-1.amazonaws.com
 0.0.0.0 kinesis.ap-east-1.amazonaws.com
+0.0.0.0 kinesisanalytics.ap-east-1.amazonaws.com
 0.0.0.0 logs.ap-east-1.amazonaws.com
+0.0.0.0 events.ap-northeast-1.amazonaws.com
 0.0.0.0 firehose.ap-northeast-1.amazonaws.com
 0.0.0.0 kinesis.ap-northeast-1.amazonaws.com
+0.0.0.0 kinesisanalytics.ap-northeast-1.amazonaws.com
 0.0.0.0 logs.ap-northeast-1.amazonaws.com
+0.0.0.0 events.ap-northeast-2.amazonaws.com
 0.0.0.0 firehose.ap-northeast-2.amazonaws.com
 0.0.0.0 kinesis.ap-northeast-2.amazonaws.com
+0.0.0.0 kinesisanalytics.ap-northeast-2.amazonaws.com
 0.0.0.0 logs.ap-northeast-2.amazonaws.com
+0.0.0.0 events.ap-northeast-3.amazonaws.com
 0.0.0.0 kinesis.ap-northeast-3.amazonaws.com
 0.0.0.0 logs.ap-northeast-3.amazonaws.com
+0.0.0.0 events.ap-south-1.amazonaws.com
 0.0.0.0 firehose.ap-south-1.amazonaws.com
 0.0.0.0 kinesis.ap-south-1.amazonaws.com
+0.0.0.0 kinesisanalytics.ap-south-1.amazonaws.com
 0.0.0.0 logs.ap-south-1.amazonaws.com
+0.0.0.0 events.ap-southeast-1.amazonaws.com
 0.0.0.0 firehose.ap-southeast-1.amazonaws.com
 0.0.0.0 kinesis.ap-southeast-1.amazonaws.com
+0.0.0.0 kinesisanalytics.ap-southeast-1.amazonaws.com
 0.0.0.0 logs.ap-southeast-1.amazonaws.com
+0.0.0.0 events.ap-southeast-2.amazonaws.com
 0.0.0.0 firehose.ap-southeast-2.amazonaws.com
 0.0.0.0 kinesis.ap-southeast-2.amazonaws.com
+0.0.0.0 kinesisanalytics.ap-southeast-2.amazonaws.com
 0.0.0.0 logs.ap-southeast-2.amazonaws.com
+0.0.0.0 events.ca-central-1.amazonaws.com
 0.0.0.0 firehose.ca-central-1.amazonaws.com
 0.0.0.0 kinesis.ca-central-1.amazonaws.com
+0.0.0.0 kinesisanalytics.ca-central-1.amazonaws.com
 0.0.0.0 logs.ca-central-1.amazonaws.com
 0.0.0.0 cloudfront-labs.amazonaws.com
 0.0.0.0 ec2-18-214-129-53.compute-1.amazonaws.com
@@ -3414,30 +3441,44 @@
 0.0.0.0 offerit-track-lb-653047011.us-east-1.elb.amazonaws.com
 0.0.0.0 yd-production-alb-358996285.us-east-1.elb.amazonaws.com
 0.0.0.0 delivery-tracker-1748394643.us-east-2.elb.amazonaws.com
+0.0.0.0 events.eu-central-1.amazonaws.com
 0.0.0.0 firehose.eu-central-1.amazonaws.com
 0.0.0.0 kinesis.eu-central-1.amazonaws.com
+0.0.0.0 kinesisanalytics.eu-central-1.amazonaws.com
 0.0.0.0 logs.eu-central-1.amazonaws.com
+0.0.0.0 events.eu-north-1.amazonaws.com
 0.0.0.0 firehose.eu-north-1.amazonaws.com
 0.0.0.0 kinesis.eu-north-1.amazonaws.com
+0.0.0.0 kinesisanalytics.eu-north-1.amazonaws.com
 0.0.0.0 logs.eu-north-1.amazonaws.com
+0.0.0.0 events.eu-south-1.amazonaws.com
+0.0.0.0 events.eu-west-1.amazonaws.com
 0.0.0.0 firehose.eu-west-1.amazonaws.com
 0.0.0.0 kinesis.eu-west-1.amazonaws.com
+0.0.0.0 kinesisanalytics.eu-west-1.amazonaws.com
 0.0.0.0 logs.eu-west-1.amazonaws.com
+0.0.0.0 events.eu-west-2.amazonaws.com
 0.0.0.0 firehose.eu-west-2.amazonaws.com
 0.0.0.0 kinesis.eu-west-2.amazonaws.com
+0.0.0.0 kinesisanalytics.eu-west-2.amazonaws.com
 0.0.0.0 logs.eu-west-2.amazonaws.com
+0.0.0.0 events.eu-west-3.amazonaws.com
 0.0.0.0 firehose.eu-west-3.amazonaws.com
 0.0.0.0 kinesis.eu-west-3.amazonaws.com
+0.0.0.0 kinesisanalytics.eu-west-3.amazonaws.com
 0.0.0.0 logs.eu-west-3.amazonaws.com
 0.0.0.0 cdn-epsilon.s3.eu-west-3.amazonaws.com
+0.0.0.0 events.me-south-1.amazonaws.com
 0.0.0.0 firehose.me-south-1.amazonaws.com
 0.0.0.0 kinesis.me-south-1.amazonaws.com
+0.0.0.0 kinesisanalytics.me-south-1.amazonaws.com
 0.0.0.0 logs.me-south-1.amazonaws.com
 0.0.0.0 ad-arata.s3.amazonaws.com
 0.0.0.0 admarvel.s3.amazonaws.com
 0.0.0.0 adpublisher.s3.amazonaws.com
 0.0.0.0 analyticsengine.s3.amazonaws.com
 0.0.0.0 atlasox.s3.amazonaws.com
+0.0.0.0 bcw-media.s3.amazonaws.com
 0.0.0.0 cadreon.s3.amazonaws.com
 0.0.0.0 chartaca.com.s3.amazonaws.com
 0.0.0.0 ltassrv.com.s3.amazonaws.com
@@ -3446,6 +3487,7 @@
 0.0.0.0 demandmedia.s3.amazonaws.com
 0.0.0.0 ecommstats.s3.amazonaws.com
 0.0.0.0 entrecard.s3.amazonaws.com
+0.0.0.0 gadgets-post.s3.amazonaws.com
 0.0.0.0 gtrk.s3.amazonaws.com
 0.0.0.0 hvtd.s3.amazonaws.com
 0.0.0.0 inpref.s3.amazonaws.com
@@ -3463,14 +3505,19 @@
 0.0.0.0 um-public-panel-prod.s3.amazonaws.com
 0.0.0.0 yc-ads.s3.amazonaws.com
 0.0.0.0 yieldmo-builds.s3.amazonaws.com
+0.0.0.0 bcw-media.s3-ap-northeast-1.amazonaws.com
 0.0.0.0 ext-emulator.s3-us-west-1.amazonaws.com
 0.0.0.0 static-42andpark-com.s3-us-west-2.amazonaws.com
 0.0.0.0 trafficfuelpixel.s3-us-west-2.amazonaws.com
 0.0.0.0 hawkeye-data-production.sciencemag.org.s3-website-us-east-1.amazonaws.com
+0.0.0.0 events.sa-east-1.amazonaws.com
 0.0.0.0 firehose.sa-east-1.amazonaws.com
 0.0.0.0 kinesis.sa-east-1.amazonaws.com
+0.0.0.0 kinesisanalytics.sa-east-1.amazonaws.com
 0.0.0.0 logs.sa-east-1.amazonaws.com
 0.0.0.0 hdredirect-lb5-1afb6e2973825a56.elb.us-east-1.amazonaws.com
+0.0.0.0 events.us-east-1.amazonaws.com
+0.0.0.0 events-fips.us-east-1.amazonaws.com
 0.0.0.0 10rnpyiva0.execute-api.us-east-1.amazonaws.com
 0.0.0.0 1s7vmel6xi.execute-api.us-east-1.amazonaws.com
 0.0.0.0 bin5y4muil.execute-api.us-east-1.amazonaws.com
@@ -3478,26 +3525,36 @@
 0.0.0.0 firehose-fips.us-east-1.amazonaws.com
 0.0.0.0 kinesis.us-east-1.amazonaws.com
 0.0.0.0 kinesis-fips.us-east-1.amazonaws.com
+0.0.0.0 kinesisanalytics.us-east-1.amazonaws.com
 0.0.0.0 logs.us-east-1.amazonaws.com
+0.0.0.0 events.us-east-2.amazonaws.com
+0.0.0.0 events-fips.us-east-2.amazonaws.com
 0.0.0.0 firehose.us-east-2.amazonaws.com
 0.0.0.0 firehose-fips.us-east-2.amazonaws.com
 0.0.0.0 kinesis.us-east-2.amazonaws.com
 0.0.0.0 kinesis-fips.us-east-2.amazonaws.com
+0.0.0.0 kinesisanalytics.us-east-2.amazonaws.com
 0.0.0.0 logs.us-east-2.amazonaws.com
 0.0.0.0 html-cntnt.s3.us-east-2.amazonaws.com
+0.0.0.0 events.us-gov-east-1.amazonaws.com
 0.0.0.0 firehose.us-gov-east-1.amazonaws.com
 0.0.0.0 firehose-fips.us-gov-east-1.amazonaws.com
 0.0.0.0 kinesis.us-gov-east-1.amazonaws.com
 0.0.0.0 logs.us-gov-east-1.amazonaws.com
+0.0.0.0 events.us-gov-west-1.amazonaws.com
 0.0.0.0 firehose.us-gov-west-1.amazonaws.com
 0.0.0.0 firehose-fips.us-gov-west-1.amazonaws.com
 0.0.0.0 kinesis.us-gov-west-1.amazonaws.com
 0.0.0.0 logs.us-gov-west-1.amazonaws.com
+0.0.0.0 events.us-west-1.amazonaws.com
+0.0.0.0 events-fips.us-west-1.amazonaws.com
 0.0.0.0 firehose.us-west-1.amazonaws.com
 0.0.0.0 firehose-fips.us-west-1.amazonaws.com
 0.0.0.0 kinesis.us-west-1.amazonaws.com
 0.0.0.0 kinesis-fips.us-west-1.amazonaws.com
 0.0.0.0 logs.us-west-1.amazonaws.com
+0.0.0.0 events.us-west-2.amazonaws.com
+0.0.0.0 events-fips.us-west-2.amazonaws.com
 0.0.0.0 0jkro0unul.execute-api.us-west-2.amazonaws.com
 0.0.0.0 92kyxiz5xg.execute-api.us-west-2.amazonaws.com
 0.0.0.0 bsb6txcdx2.execute-api.us-west-2.amazonaws.com
@@ -3510,6 +3567,7 @@
 0.0.0.0 a13lrv2jf2efa0-ats.iot.us-west-2.amazonaws.com
 0.0.0.0 kinesis.us-west-2.amazonaws.com
 0.0.0.0 kinesis-fips.us-west-2.amazonaws.com
+0.0.0.0 kinesisanalytics.us-west-2.amazonaws.com
 0.0.0.0 logs.us-west-2.amazonaws.com
 0.0.0.0 webpick-cdn.s3.us-west-2.amazonaws.com
 0.0.0.0 amazonpay.com
@@ -3575,6 +3633,8 @@
 0.0.0.0 amp.services
 0.0.0.0 ampallall.site
 0.0.0.0 ampclicks.com
+0.0.0.0 internal_banner.tiles.ampfeed.com
+0.0.0.0 internal_tiles.tiles.ampfeed.com
 0.0.0.0 api.ampiri.com
 0.0.0.0 amplitude.com
 0.0.0.0 api.amplitude.com
@@ -3587,6 +3647,7 @@
 0.0.0.0 tracker.ampush.io
 0.0.0.0 ampxchange.com
 0.0.0.0 ampxdirect.com
+0.0.0.0 internal_banner.ampxdirect.com
 0.0.0.0 www.ampxdirect.com
 0.0.0.0 amrfscxvdvfvpa.com
 0.0.0.0 amrnhiqy.com
@@ -4412,6 +4473,7 @@
 0.0.0.0 avazudsp.net
 0.0.0.0 avazunativeads.com
 0.0.0.0 avazutracking.net
+0.0.0.0 overseer.tools.avcdn.net
 0.0.0.0 avcyr.com
 0.0.0.0 avdego.net
 0.0.0.0 ave1.cn
@@ -4594,6 +4656,8 @@
 0.0.0.0 g2insights-cdn.azureedge.net
 0.0.0.0 loader-cdn.azureedge.net
 0.0.0.0 swymprod.azureedge.net
+0.0.0.0 ctrwow-prod-analytics-socketserver.azurewebsites.net
+0.0.0.0 ctrwow-prod-fingerprint-microservice.azurewebsites.net
 0.0.0.0 lemmontrk.azurewebsites.net
 0.0.0.0 prod-mng-proxy-connext.azurewebsites.net
 0.0.0.0 azvjudwr.info
@@ -4980,6 +5044,11 @@
 0.0.0.0 beastbeef.com
 0.0.0.0 beatchucknorris.com
 0.0.0.0 beauchi.be
+0.0.0.0 bc-api-01.beautycircle.com
+0.0.0.0 bc-api-02.beautycircle.com
+0.0.0.0 bc-api-cn.beautycircle.com
+0.0.0.0 bc-api-jp.beautycircle.com
+0.0.0.0 bcm-api.beautycircle.com
 0.0.0.0 beaverads.com
 0.0.0.0 bebasads.com
 0.0.0.0 bebi.com
@@ -5070,6 +5139,8 @@
 0.0.0.0 benchit.com
 0.0.0.0 benchtag2.co
 0.0.0.0 bendelsa.com
+0.0.0.0 oracle.bendingspoonsapps.com
+0.0.0.0 splice.oracle.bendingspoonsapps.com
 0.0.0.0 bengchivv.cn
 0.0.0.0 bengchizz.cn
 0.0.0.0 bentonow.com
@@ -5550,6 +5621,8 @@
 0.0.0.0 blismedia.com
 0.0.0.0 blissfulonline.com
 0.0.0.0 sync.blisspointmedia.com
+0.0.0.0 offer.blissy.com
+0.0.0.0 info.blissy.us
 0.0.0.0 pixel.blivenyc.com
 0.0.0.0 blizzardcheck.com
 0.0.0.0 blkget8.com
@@ -7150,6 +7223,8 @@
 0.0.0.0 class64deal.com
 0.0.0.0 link.e.classchirp.com
 0.0.0.0 link.m.classchirp.com
+0.0.0.0 classentedol.club
+0.0.0.0 www.classentedol.club
 0.0.0.0 classicpastries.com
 0.0.0.0 classionreactice.info
 0.0.0.0 claxonmedia.com
@@ -7412,6 +7487,7 @@
 0.0.0.0 d162nnmwf9bggr.cloudfront.net
 0.0.0.0 d169bbxks24g2u.cloudfront.net
 0.0.0.0 d16fk4ms6rqz1v.cloudfront.net
+0.0.0.0 d16hdrba6dusey.cloudfront.net
 0.0.0.0 d16xpr36wrmcmk.cloudfront.net
 0.0.0.0 d17m68fovwmgxj.cloudfront.net
 0.0.0.0 d17rlarvg2khuc.cloudfront.net
@@ -7456,6 +7532,7 @@
 0.0.0.0 d1k3dpebxhgqjc.cloudfront.net
 0.0.0.0 d1l6p2sc9645hc.cloudfront.net
 0.0.0.0 d1lm7kd3bd3yo9.cloudfront.net
+0.0.0.0 d1lxz4vuik53pc.cloudfront.net
 0.0.0.0 d1m6l9dfulcyw7.cloudfront.net
 0.0.0.0 d1m9wdre4xsvo3.cloudfront.net
 0.0.0.0 d1mcvk8kfozpql.cloudfront.net
@@ -7706,6 +7783,7 @@
 0.0.0.0 d6jkenny8w8yo.cloudfront.net
 0.0.0.0 d6swopgiplmy0.cloudfront.net
 0.0.0.0 d6ummfe8aubt5.cloudfront.net
+0.0.0.0 d7016uqa4s0lw.cloudfront.net
 0.0.0.0 d81mfvml8p5ml.cloudfront.net
 0.0.0.0 d830x8j3o1b2k.cloudfront.net
 0.0.0.0 d8rk54i4mohrb.cloudfront.net
@@ -8407,9 +8485,11 @@
 0.0.0.0 a32a.com.cn
 0.0.0.0 admaster.com.cn
 0.0.0.0 aegt.com.cn
+0.0.0.0 events.cn-north-1.amazonaws.com.cn
 0.0.0.0 firehose.cn-north-1.amazonaws.com.cn
 0.0.0.0 kinesis.cn-north-1.amazonaws.com.cn
 0.0.0.0 logs.cn-north-1.amazonaws.com.cn
+0.0.0.0 events.cn-northwest-1.amazonaws.com.cn
 0.0.0.0 firehose.cn-northwest-1.amazonaws.com.cn
 0.0.0.0 kinesis.cn-northwest-1.amazonaws.com.cn
 0.0.0.0 logs.cn-northwest-1.amazonaws.com.cn
@@ -9631,6 +9711,8 @@
 0.0.0.0 datado.me
 0.0.0.0 datadoghq-browser-agent.com
 0.0.0.0 datadome.co
+0.0.0.0 dataf0ral1.com
+0.0.0.0 www.dataf0ral1.com
 0.0.0.0 datafeedfile.com
 0.0.0.0 analytics.datahc.com
 0.0.0.0 stats.datahjaelp.net
@@ -11069,6 +11151,7 @@
 0.0.0.0 analytics.edgekey.net
 0.0.0.0 moatads.com.edgekey.net
 0.0.0.0 analytics.edgesuite.net
+0.0.0.0 tools.avcdn.net.edgesuite.net
 0.0.0.0 edgevertise.com
 0.0.0.0 edibegedol.com
 0.0.0.0 stats.edicy.com
@@ -13588,11 +13671,18 @@
 0.0.0.0 getfreebacklinks.com
 0.0.0.0 getfreebl.com
 0.0.0.0 getgamers.eu
+0.0.0.0 getgiftcards.org
+0.0.0.0 71418.getgiftcards.org
+0.0.0.0 www.getgiftcards.org
 0.0.0.0 gethit.ru
 0.0.0.0 banners.getiton.com
+0.0.0.0 getkailo.io
+0.0.0.0 deals.getkailo.io
 0.0.0.0 getmyfreetraffic.com
 0.0.0.0 getmygeo.com
 0.0.0.0 getoptad360.com
+0.0.0.0 getphotostick.io
+0.0.0.0 deals.getphotostick.io
 0.0.0.0 getpopunder.com
 0.0.0.0 getrockerbox.com
 0.0.0.0 getrotad.ru
@@ -13617,6 +13707,7 @@
 0.0.0.0 install.getvideoconverter.com
 0.0.0.0 getxml.org
 0.0.0.0 getxtra-pc.io
+0.0.0.0 deals.getxtra-pc.io
 0.0.0.0 getzwnrgsrz.com
 0.0.0.0 geusihivdqkwzf.com
 0.0.0.0 gevrsbmqvp.bid
@@ -13954,6 +14045,7 @@
 0.0.0.0 go2.global
 0.0.0.0 go2affise.com
 0.0.0.0 go2app.org
+0.0.0.0 gznmedia.go2cloud.org
 0.0.0.0 leadgid.go2cloud.org
 0.0.0.0 nordvpn-elb.go2cloud.org
 0.0.0.0 nostop.go2cloud.org
@@ -14076,7 +14168,9 @@
 0.0.0.0 goodsbrowser.com
 0.0.0.0 goodtag.it
 0.0.0.0 googlanalytics.ws
+0.0.0.0 aa.google.com
 0.0.0.0 client-channel.google.com
+0.0.0.0 peoplestackwebexperiments-pa.clients6.google.com
 0.0.0.0 contributor.google.com
 0.0.0.0 fundingchoicesmessages.google.com
 0.0.0.0 id.google.com
@@ -14377,6 +14471,8 @@
 0.0.0.0 gridiogrid.com
 0.0.0.0 gridsum.com
 0.0.0.0 gridsumdissector.com
+0.0.0.0 grifictuberal.site
+0.0.0.0 www.grifictuberal.site
 0.0.0.0 c.grimuar.ru
 0.0.0.0 gripdownload.co
 0.0.0.0 grizzli-counter.com
@@ -14978,6 +15074,14 @@
 0.0.0.0 hibids10.com
 0.0.0.0 hibids5.com
 0.0.0.0 hicaptivided.com
+0.0.0.0 metrics.data.hicloud.com
+0.0.0.0 metrics1.data.hicloud.com
+0.0.0.0 metrics2.data.hicloud.com
+0.0.0.0 metrics3.data.hicloud.com
+0.0.0.0 metrics4.data.hicloud.com
+0.0.0.0 metrics5.data.hicloud.com
+0.0.0.0 logservice.hicloud.com
+0.0.0.0 logservice1.hicloud.com
 0.0.0.0 hiconversion.com
 0.0.0.0 hicpm10.com
 0.0.0.0 hicpm5.com
@@ -16631,6 +16735,7 @@
 0.0.0.0 islandofadvert.com
 0.0.0.0 islofthmci.com
 0.0.0.0 isnsgjhthhaqtu.com
+0.0.0.0 client_monitor.isnssdk.com
 0.0.0.0 iso100.ru
 0.0.0.0 isohits.com
 0.0.0.0 isonlynews.net
@@ -18066,6 +18171,8 @@
 0.0.0.0 krboeyeq.com
 0.0.0.0 krdvzahyr.com
 0.0.0.0 krfbhbhal.com
+0.0.0.0 krishetrk.com
+0.0.0.0 www.krishetrk.com
 0.0.0.0 krison.xyz
 0.0.0.0 kriteriatika.ru
 0.0.0.0 krjleggwikuil.com
@@ -20485,11 +20592,14 @@
 0.0.0.0 stats.mituyu.com
 0.0.0.0 r.browser.miui.com
 0.0.0.0 huangye.miui.com
+0.0.0.0 tracking.india.miui.com
+0.0.0.0 sa.api.intl.miui.com
 0.0.0.0 activity.browser.intl.miui.com
 0.0.0.0 api.brs.intl.miui.com
 0.0.0.0 api.newsfeed.intl.miui.com
 0.0.0.0 adv.sec.intl.miui.com
 0.0.0.0 tracking.intl.miui.com
+0.0.0.0 tracking.rus.miui.com
 0.0.0.0 adv.sec.miui.com
 0.0.0.0 api.sec.miui.com
 0.0.0.0 logupdate.avlyun.sec.miui.com
@@ -21031,6 +21141,7 @@
 0.0.0.0 az708531.vo.msecnd.net
 0.0.0.0 az725175.vo.msecnd.net
 0.0.0.0 msecure108.com
+0.0.0.0 a-ring.msedge.net
 0.0.0.0 msegeqxwopq.com
 0.0.0.0 msgapp.com
 0.0.0.0 msgfocus.com
@@ -21694,6 +21805,8 @@
 0.0.0.0 neki.org
 0.0.0.0 geoip.nekudo.com
 0.0.0.0 nelfmgxcysd.bid
+0.0.0.0 aefd.nelreports.net
+0.0.0.0 deff.nelreports.net
 0.0.0.0 nelsdecademi.info
 0.0.0.0 neltoole.net
 0.0.0.0 nemzdfjnyqy.bid
@@ -22041,6 +22154,8 @@
 0.0.0.0 niazlhvok.com
 0.0.0.0 nice-xxx.net
 0.0.0.0 nicebridge.net
+0.0.0.0 nicecodes.online
+0.0.0.0 www.nicecodes.online
 0.0.0.0 cnt.nicemix.com
 0.0.0.0 nicequest.com
 0.0.0.0 mpc.nicequest.com
@@ -22812,13 +22927,21 @@
 0.0.0.0 offgashah.club
 0.0.0.0 www.offgashah.club
 0.0.0.0 acdc-direct.office.com
+0.0.0.0 afd-a-acdc-direct.office.com
 0.0.0.0 afd-k-acdc-direct.office.com
+0.0.0.0 afd-l.office.com
 0.0.0.0 augloop.office.com
 0.0.0.0 ecs.office.com
+0.0.0.0 lhr-efz.office.com
 0.0.0.0 fp.measure.office.com
+0.0.0.0 42c56e166af1267c6fa147324f8f0f7d.fp.measure.office.com
+0.0.0.0 54ee634a8aaada55244129d9e0b8b2e8.fp.measure.office.com
 0.0.0.0 7338afbd46dd110c9c0a2ffd81509db1.fp.measure.office.com
 0.0.0.0 7a34fffea8b6276e76b053164cf6abad.fp.measure.office.com
+0.0.0.0 920cbdaa1ed63646acf0241ed4da5340.fp.measure.office.com
 0.0.0.0 config.fp.measure.office.com
+0.0.0.0 mel-efz.office.com
+0.0.0.0 live.ms-acdc.office.com
 0.0.0.0 clientlog.portal.office.com
 0.0.0.0 templatelogging.office.com
 0.0.0.0 augmentation.osi.office.net
@@ -23777,6 +23900,10 @@
 0.0.0.0 p-n.io
 0.0.0.0 p-td.com
 0.0.0.0 p071qmn.com
+0.0.0.0 p0ew2m6m.xyz
+0.0.0.0 6170a5.p0ew2m6m.xyz
+0.0.0.0 7b5580.p0ew2m6m.xyz
+0.0.0.0 www.p0ew2m6m.xyz
 0.0.0.0 p0y.cn
 0.0.0.0 p24.hu
 0.0.0.0 p2ads.com
@@ -24636,6 +24763,9 @@
 0.0.0.0 playhaven.com
 0.0.0.0 cdn.playhub888.com
 0.0.0.0 playlatesthighlyfreeware.icu
+0.0.0.0 playnowvideosonnet.info
+0.0.0.0 whenvideoup.playnowvideosonnet.info
+0.0.0.0 www.playnowvideosonnet.info
 0.0.0.0 playtem.com
 0.0.0.0 playtomic.com
 0.0.0.0 playuhd.host
@@ -27029,6 +27159,8 @@
 0.0.0.0 reltimes-2010.ru
 0.0.0.0 relytec.com
 0.0.0.0 remailtarget.com
+0.0.0.0 remarketesde.club
+0.0.0.0 www.remarketesde.club
 0.0.0.0 remarketingpixel.com
 0.0.0.0 r.remarketingpixel.com
 0.0.0.0 remarketstats.com
@@ -27943,6 +28075,7 @@
 0.0.0.0 rzuwelgm.com
 0.0.0.0 rzviy.com
 0.0.0.0 s-manager.com
+0.0.0.0 c.s-microsoft.com
 0.0.0.0 s-onetag.com
 0.0.0.0 s1venus.biz
 0.0.0.0 s1venus.com
@@ -28066,6 +28199,9 @@
 0.0.0.0 samiana.com
 0.0.0.0 samlmqljptbd.com
 0.0.0.0 tr.samoresim.ru
+0.0.0.0 insights.samsung.com
+0.0.0.0 nmetrics.samsung.com
+0.0.0.0 bigdata.ssp.samsung.com
 0.0.0.0 samsungads.com
 0.0.0.0 samsungtvads.com
 0.0.0.0 samuest.ru
@@ -29539,6 +29675,8 @@
 0.0.0.0 ads.sondakika.com
 0.0.0.0 sonnerie.net
 0.0.0.0 sonobi.com
+0.0.0.0 msmetrics.ws.sonos.com
+0.0.0.0 msmetrics-test.ws.sonos.com
 0.0.0.0 sontere.com
 0.0.0.0 sonumal.com
 0.0.0.0 analytics.sonymusic.com
@@ -30188,6 +30326,7 @@
 0.0.0.0 streamdefence.com
 0.0.0.0 streamdownloadonline.com
 0.0.0.0 streamingcastle.me
+0.0.0.0 centent.streamp1ay.cc
 0.0.0.0 centent.streamplay.life
 0.0.0.0 streamplay.to
 0.0.0.0 k.streamrail.com
@@ -30342,6 +30481,8 @@
 0.0.0.0 superficialsquare.com
 0.0.0.0 superinterstitial.com
 0.0.0.0 superippo.com
+0.0.0.0 sentry.superjob.ru
+0.0.0.0 t.superjob.ru
 0.0.0.0 superlady.org
 0.0.0.0 superloofy.com
 0.0.0.0 supermicrotag.ru
@@ -30432,6 +30573,8 @@
 0.0.0.0 svnhdfqvhjzn.com
 0.0.0.0 svntdcuxobohs.com
 0.0.0.0 svntrk.com
+0.0.0.0 svoluntain.info
+0.0.0.0 www.svoluntain.info
 0.0.0.0 svotu.top
 0.0.0.0 svpubdwpaam.bid
 0.0.0.0 svr-prc-01.com
@@ -31196,6 +31339,8 @@
 0.0.0.0 thefoxes.ru
 0.0.0.0 thefreehitcounter.com
 0.0.0.0 thefuncoolstuff.com
+0.0.0.0 thegadgetreviewguy.com
+0.0.0.0 www.thegadgetreviewguy.com
 0.0.0.0 ct.thegear-box.com
 0.0.0.0 sp.thegleaner.com
 0.0.0.0 thegreenzoneblog.com
@@ -32410,6 +32555,9 @@
 0.0.0.0 tuliprfawfq.com
 0.0.0.0 tulula.biz
 0.0.0.0 tumabeni.com
+0.0.0.0 dopeobjectarcade85.tumblr.com
+0.0.0.0 great5551.tumblr.com
+0.0.0.0 nivr45.tumblr.com
 0.0.0.0 ls.srvcs.tumblr.com
 0.0.0.0 saber.srvcs.tumblr.com
 0.0.0.0 domaintmt.tumejortorrent.com
@@ -34486,6 +34634,8 @@
 0.0.0.0 voronezh136.ru
 0.0.0.0 votetoda.com
 0.0.0.0 votistics.com
+0.0.0.0 vouchertested.xyz
+0.0.0.0 www.vouchertested.xyz
 0.0.0.0 vounoany.net
 0.0.0.0 vouzgwau.com
 0.0.0.0 log.vov.vn
@@ -35728,6 +35878,8 @@
 0.0.0.0 worrybutter.com
 0.0.0.0 c.wort-suche.com
 0.0.0.0 worthathousandwords.com
+0.0.0.0 worthersefim.club
+0.0.0.0 www.worthersefim.club
 0.0.0.0 worthyadvertising.com
 0.0.0.0 wos.lv
 0.0.0.0 wotilhqoftvl.com
@@ -36285,14 +36437,17 @@
 0.0.0.0 globalapi.ad.xiaomi.com
 0.0.0.0 sdkconfig.ad.xiaomi.com
 0.0.0.0 o2o.api.xiaomi.com
+0.0.0.0 data.mistat.india.xiaomi.com
 0.0.0.0 api.ad.intl.xiaomi.com
 0.0.0.0 sdkconfig.ad.intl.xiaomi.com
 0.0.0.0 zeus.ad.intl.xiaomi.com
 0.0.0.0 abtest.mistat.intl.xiaomi.com
+0.0.0.0 data.mistat.intl.xiaomi.com
 0.0.0.0 storeconfig.mistat.intl.xiaomi.com
 0.0.0.0 file.market.xiaomi.com
 0.0.0.0 abtest.mistat.xiaomi.com
 0.0.0.0 data.mistat.xiaomi.com
+0.0.0.0 data.mistat.rus.xiaomi.com
 0.0.0.0 api.miui.security.xiaomi.com
 0.0.0.0 shenghuo.xiaomi.com
 0.0.0.0 resolver.msg.xiaomi.net
@@ -36433,12 +36588,22 @@
 0.0.0.0 xmwqbnrbvghq.bid
 0.0.0.0 xmwxurmgmly.com
 0.0.0.0 xmylgmmt.com
+0.0.0.0 xn-----7kcnh2ac3afebiffxijf2d6a5e.xn--p1ai
+0.0.0.0 www.xn-----7kcnh2ac3afebiffxijf2d6a5e.xn--p1ai
 0.0.0.0 xn--17921-iua.biz
 0.0.0.0 xn--18225-zta.biz
 0.0.0.0 xn--20531-uua.biz
 0.0.0.0 xn--80aaagge2acs2agf3bgi.xn--p1ai
 0.0.0.0 xn--80ab7baj4b.xn--p1ai
+0.0.0.0 xn--80abnuns.xn--p1acf
+0.0.0.0 www.xn--80abnuns.xn--p1acf
+0.0.0.0 xn--80acvefn6a4c.xn--p1ai
+0.0.0.0 www.xn--80acvefn6a4c.xn--p1ai
+0.0.0.0 xn--80affy2c3b.xn--p1ai
+0.0.0.0 www.xn--80affy2c3b.xn--p1ai
 0.0.0.0 xn--mtso8sj6menhyil.online
+0.0.0.0 xn--u1aaw.xn--p1ai
+0.0.0.0 www.xn--u1aaw.xn--p1ai
 0.0.0.0 xn--xhq9mt12cf5v.shop
 0.0.0.0 xn--xhq9mt12cf5v.top
 0.0.0.0 xnat.pt
@@ -37272,6 +37437,9 @@
 0.0.0.0 youbora.com
 0.0.0.0 youborafds01.com
 0.0.0.0 youboranqs01.com
+0.0.0.0 bc-api.youcamapi.cn
+0.0.0.0 youcammakeup.com
+0.0.0.0 www.youcammakeup.com
 0.0.0.0 youcanoptin.com
 0.0.0.0 youcanoptin.org
 0.0.0.0 youcanoptout.com
@@ -38407,178 +38575,3 @@
 0.0.0.0 zzxlukodff.com
 0.0.0.0 zzxosget.com
 0.0.0.0 zzznews.ru
-0.0.0.0 client_monitor.isnssdk.com
-0.0.0.0 fb_servpub-a.akamaihd.net
-0.0.0.0 internal_banner.ampxdirect.com
-0.0.0.0 internal_banner.tiles.ampfeed.com
-0.0.0.0 internal_tiles.tiles.ampfeed.com
-dopeobjectarcade85.tumblr.com
-nivr45.tumblr.com
-71418.getgiftcards.org
-getgiftcards.org
-www.getgiftcards.org
-nicecodes.online
-www.nicecodes.online
-vouchertested.xyz
-www.vouchertested.xyz
-great5551.tumblr.com
-6170a5.p0ew2m6m.xyz
-7b5580.p0ew2m6m.xyz
-p0ew2m6m.xyz
-www.p0ew2m6m.xyz
-overseer.tools.avcdn.net
-tools.avcdn.net.edgesuite.net
-aa.google.com
-deff.nelreports.net
-deff.nelreports.net.akamaized.net
-oracle.bendingspoonsapps.com
-splice.oracle.bendingspoonsapps.com
-aefd.nelreports.net
-aefd.nelreports.net.akamaized.net
-bcm-api.beautycircle.com
-bc-api-01.beautycircle.com
-bc-api-02.beautycircle.com
-bc-api-jp.beautycircle.com
-bc-api.youcamapi.cn
-bc-api-cn.beautycircle.com
-www.youcammakeup.com
-youcammakeup.com
-bcw-media.s3-ap-northeast-1.amazonaws.com
-bcw-media.s3.amazonaws.com
-data.alexa.com
-device-metrics-us.amazon.com
-device-metrics-us-2.amazon.com
-metrics.data.hicloud.com
-metrics1.data.hicloud.com
-metrics2.data.hicloud.com
-metrics3.data.hicloud.com
-metrics4.data.hicloud.com
-metrics5.data.hicloud.com
-logservice.hicloud.com
-logservice1.hicloud.com
-logs.roku.com
-nmetrics.samsung.com
-insights.samsung.com
-bigdata.ssp.samsung.com
-msmetrics.ws.sonos.com
-msmetrics-test.ws.sonos.com
-sa.api.intl.miui.com
-data.mistat.xiaomi.com
-data.mistat.intl.xiaomi.com
-data.mistat.india.xiaomi.com
-data.mistat.rus.xiaomi.com
-tracking.miui.com
-tracking.intl.miui.com
-tracking.india.miui.com
-tracking.rus.miui.com
-adultdream3.com
-www.adultdream3.com
-whenvideoup.playnowvideosonnet.info
-playnowvideosonnet.info
-www.playnowvideosonnet.info
-dataf0ral1.com
-www.dataf0ral1.com
-centent.streamp1ay.cc
-svoluntain.info
-www.svoluntain.info
-classentedol.club
-www.classentedol.club
-grifictuberal.site
-www.grifictuberal.site
-worthersefim.club
-www.worthersefim.club
-d7016uqa4s0lw.cloudfront.net			
-remarketesde.club
-www.remarketesde.club
-peoplestackwebexperiments-pa.clients6.google.com
-lhr-efz.office.com
-42c56e166af1267c6fa147324f8f0f7d.fp.measure.office.com
-a-ring.msedge.net
-afd-a-acdc-direct.office.com
-54ee634a8aaada55244129d9e0b8b2e8.fp.measure.office.com
-live.ms-acdc.office.com
-afd-l.office.com
-a-ring.a-9999.a-msedge.net
-a-9999.a-msedge.net
-920cbdaa1ed63646acf0241ed4da5340.fp.measure.office.com
-mel-efz.office.com
-c.s-microsoft.com
-2pomkk7c0.de
-www.2pomkk7c0.de
-gadgets-post.s3.amazonaws.com
-www.krishetrk.com
-krishetrk.com
-deals.getkailo.io
-getkailo.io
-deals.getxtra-pc.io
-gznmedia.go2cloud.org
-deals.getphotostick.io
-getphotostick.io
-offer.blissy.com
-info.blissy.us
-d16hdrba6dusey.cloudfront.net
-ctrwow-prod-analytics-socketserver.azurewebsites.net
-ctrwow-prod-fingerprint-microservice.azurewebsites.net
-thegadgetreviewguy.com
-www.thegadgetreviewguy.com
-sentry.superjob.ru
-t.superjob.ru
-xn--80abnuns.xn--p1acf
-www.xn--80abnuns.xn--p1acf
-xn--80acvefn6a4c.xn--p1ai
-www.xn--80acvefn6a4c.xn--p1ai
-xn-----7kcnh2ac3afebiffxijf2d6a5e.xn--p1ai
-www.xn-----7kcnh2ac3afebiffxijf2d6a5e.xn--p1ai
-xn--80affy2c3b.xn--p1ai
-www.xn--80affy2c3b.xn--p1ai
-xn--u1aaw.xn--p1ai
-www.xn--u1aaw.xn--p1ai
-kinesisanalytics.us-east-2.amazonaws.com
-kinesisanalytics.us-east-1.amazonaws.com
-kinesisanalytics.us-west-2.amazonaws.com
-kinesisanalytics.ap-east-1.amazonaws.com
-kinesisanalytics.ap-south-1.amazonaws.com
-kinesisanalytics.ap-northeast-2.amazonaws.com
-kinesisanalytics.ap-southeast-1.amazonaws.com
-kinesisanalytics.ap-southeast-2.amazonaws.com
-kinesisanalytics.ap-northeast-1.amazonaws.com
-kinesisanalytics.ca-central-1.amazonaws.com
-kinesisanalytics.eu-central-1.amazonaws.com
-kinesisanalytics.eu-west-1.amazonaws.com
-kinesisanalytics.eu-west-2.amazonaws.com
-kinesisanalytics.eu-west-3.amazonaws.com
-kinesisanalytics.eu-north-1.amazonaws.com
-kinesisanalytics.me-south-1.amazonaws.com
-kinesisanalytics.sa-east-1.amazonaws.com
-events.us-east-2.amazonaws.com
-events-fips.us-east-2.amazonaws.com
-events.us-east-1.amazonaws.com
-events-fips.us-east-1.amazonaws.com
-events.us-west-1.amazonaws.com
-events-fips.us-west-1.amazonaws.com
-events.us-west-2.amazonaws.com
-events-fips.us-west-2.amazonaws.com
-events.af-south-1.amazonaws.com
-events.ap-east-1.amazonaws.com
-events.ap-south-1.amazonaws.com
-events.ap-northeast-3.amazonaws.com
-events.ap-northeast-2.amazonaws.com
-events.ap-southeast-1.amazonaws.com
-events.ap-southeast-2.amazonaws.com
-events.ap-northeast-1.amazonaws.com
-events.ca-central-1.amazonaws.com
-events.cn-north-1.amazonaws.com.cn
-events.cn-northwest-1.amazonaws.com.cn
-events.eu-central-1.amazonaws.com
-events.eu-west-1.amazonaws.com
-events.eu-west-2.amazonaws.com
-events.eu-south-1.amazonaws.com
-events.eu-west-3.amazonaws.com
-events.eu-north-1.amazonaws.com
-events.me-south-1.amazonaws.com
-events.sa-east-1.amazonaws.com
-events.us-gov-east-1.amazonaws.com
-events.us-gov-east-1.amazonaws.com
-events.us-gov-west-1.amazonaws.com
-events.us-gov-west-1.amazonaws.com
-d1lxz4vuik53pc.cloudfront.net
