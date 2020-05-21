@@ -137,13 +137,11 @@
 ### experimental - third party cdn urls - may break things ###
 0.0.0.0 p16hypstarcdn-a.akamaihd.net
 0.0.0.0 s16-hypstarcdn-com.akamaized.net
-0.0.0.0 sf16-muse-va.ibytedtos.com.edgekey.net
 0.0.0.0 sf16-webcast.muscdn.com.edgesuite.net
 0.0.0.0 sf16-webcast.tiktokcdn.com.edgesuite.net
 0.0.0.0 s16.hypstarcdn.com
 0.0.0.0 sf-tb-sg.ibytedtos.com
 0.0.0.0 sf-tk-sg.ibytedtos.com
-0.0.0.0 sf16-muse-va.ibytedtos.com
 0.0.0.0 sf16-passport-va.ibytedtos.com
 0.0.0.0 sf16-webcast.muscdn.com
 0.0.0.0 sf19-webcast.muscdn.com
@@ -193,10 +191,14 @@
 # 0.0.0.0 mpak-suse1.muscdn.com.akamaized.net
 # 0.0.0.0 mphw-suse1.muscdn.com.akamaized.net
 # 0.0.0.0 d271osm3r86e5v.cloudfront.net
-# 0.0.0.0 sf16-sg-default.edgesuite.net
 # 0.0.0.0 mpak-suse1.muscdn.com
 # 0.0.0.0 mpaw-suse1.muscdn.com
 # 0.0.0.0 mphw-suse1.muscdn.com
-# 0.0.0.0 sf16-sg.muscdn.com
 ## website ##
 # 0.0.0.0 s16.tiktokcdn.com
+## multipurpose cdn ##
+# 0.0.0.0 sf16-muse-va.ibytedtos.com.edgekey.net
+# 0.0.0.0 sf16-sg-default.edgesuite.net
+# 0.0.0.0 sf16-muse-va.ibytedtos.com
+# 0.0.0.0 sf16-sg.muscdn.com
+
