@@ -110,6 +110,8 @@
 0.0.0.0 itunesconnect.apple.com
 0.0.0.0 lcdn-locator.apple.com
 0.0.0.0 metrics.apple.com
+appleglobal.112.2o7.net
+appleglobal.102.112.2o7.net
 0.0.0.0 api.music.apple.com
 0.0.0.0 sb.music.apple.com
 0.0.0.0 nc-pod1-smp-device.apple.com
@@ -124,6 +126,7 @@
 0.0.0.0 ppq.apple.com
 0.0.0.0 ftreporter.push.apple.com
 0.0.0.0 radarsubmissions.apple.com
+radarsubmissions.apple.com.akadns.net
 0.0.0.0 securemetrics.apple.com
 0.0.0.0 seed.siri.apple.com
 0.0.0.0 api.smoot.apple.com
@@ -151,6 +154,7 @@
 0.0.0.0 stocks-analytics-events.apple.com
 0.0.0.0 stocks-sparkline.apple.com
 0.0.0.0 supportmetrics.apple.com
+supportmetrics.apple-support.akadns.net
 0.0.0.0 tbsc.apple.com
 0.0.0.0 tv.apple.com
 0.0.0.0 sb.tv.apple.com
@@ -204,3 +208,21 @@
 0.0.0.0 itc.mzstatic.com
 0.0.0.0 metrics.mzstatic.com
 0.0.0.0 store.mzstatic.com
+0.0.0.0 books-analytics-events.apple.com
+0.0.0.0 cstat.apple.com
+0.0.0.0 iadsdk.apple.com
+0.0.0.0 ca.iadsdk.apple.com
+0.0.0.0 cf.iadsdk.apple.com
+0.0.0.0 cs.iadsdk.apple.com
+0.0.0.0 news.iadsdk.apple.com
+0.0.0.0 su.iadsdk.apple.com
+0.0.0.0 tr.iadsdk.apple.com
+0.0.0.0 ut.iadsdk.apple.com
+0.0.0.0 www.iadsdk.apple.com
+0.0.0.0 securemetrics.apple.com
+0.0.0.0 stocks-analytics-events.apple.com
+0.0.0.0 supportmetrics.apple.com
+0.0.0.0 weather-analytics-events.apple.com
+cstat-lb.apple.com.akadns.net
+cstat.apple.com.edgesuite.net
+me.apple-dns.net
