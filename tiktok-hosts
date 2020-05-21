@@ -145,7 +145,6 @@
 0.0.0.0 sf-tk-sg.ibytedtos.com
 0.0.0.0 sf16-muse-va.ibytedtos.com
 0.0.0.0 sf16-passport-va.ibytedtos.com
-0.0.0.0 sf16-sg.muscdn.com
 0.0.0.0 sf16-webcast.muscdn.com
 0.0.0.0 sf19-webcast.muscdn.com
 0.0.0.0 flv-l11.tiktokcdn.liveplay.myqcloud.com
@@ -191,6 +190,8 @@
 # 0.0.0.0 pull-flv-l1.tiktokcdn.com.wsdvs.com
 # 0.0.0.0 pull-hls-l1.tiktokcdn.com.wsdvs.com
 ## audios ##
+# 0.0.0.0 sf16-sg-default.edgesuite.net
 # 0.0.0.0 mpak-suse1.muscdn.com
+# 0.0.0.0 sf16-sg.muscdn.com
 ## website ##
 # 0.0.0.0 s16.tiktokcdn.com
