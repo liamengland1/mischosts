@@ -13463,7 +13463,7 @@
 0.0.0.0 ge.tt
 0.0.0.0 ge-ge-force.com
 0.0.0.0 gear5.me
-0.0.0.0 gearbest.com # problematic affliate abuse
+0.0.0.0 gearbest.com
 0.0.0.0 www.gearbest.com
 0.0.0.0 gearedunder.com
 0.0.0.0 gearnews.info
@@ -27510,7 +27510,7 @@
 0.0.0.0 romance-net.com
 0.0.0.0 romeoforum.com
 0.0.0.0 romksuecd.bid
-0.0.0.0 us.romwe.com # popads
+0.0.0.0 us.romwe.com
 0.0.0.0 rongeundhis.ru
 0.0.0.0 ronletsobetning.pro
 0.0.0.0 ronoutom.net
@@ -28714,7 +28714,7 @@
 0.0.0.0 shcpa2011.com
 0.0.0.0 sp.sheboyganpress.com
 0.0.0.0 sheenami.net
-0.0.0.0 us.shein.com # popads
+0.0.0.0 us.shein.com
 0.0.0.0 pub.sheknows.com
 0.0.0.0 shelterstraw.com
 0.0.0.0 ads.shemedia.com
@@ -38407,13 +38407,11 @@
 0.0.0.0 zzxlukodff.com
 0.0.0.0 zzxosget.com
 0.0.0.0 zzznews.ru
-### domains wrongly removed by stevenblack/ghosts tool ###
 0.0.0.0 client_monitor.isnssdk.com
 0.0.0.0 fb_servpub-a.akamaihd.net
 0.0.0.0 internal_banner.ampxdirect.com
 0.0.0.0 internal_banner.tiles.ampfeed.com
 0.0.0.0 internal_tiles.tiles.ampfeed.com
-### domains to sort later ###
 dopeobjectarcade85.tumblr.com
 nivr45.tumblr.com
 71418.getgiftcards.org
@@ -38583,3 +38581,4 @@ events.us-gov-east-1.amazonaws.com
 events.us-gov-east-1.amazonaws.com
 events.us-gov-west-1.amazonaws.com
 events.us-gov-west-1.amazonaws.com
+d1lxz4vuik53pc.cloudfront.net
