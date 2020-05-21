@@ -55,8 +55,8 @@
 0.0.0.0 a15-tb.isnssdk.com
 0.0.0.0 a16-tb.isnssdk.com
 0.0.0.0 cdn.isnssdk.com
-0.0.0.0 clientmonitor.isnssdk.com
 0.0.0.0 client_monitor.isnssdk.com
+0.0.0.0 clientmonitor.isnssdk.com
 0.0.0.0 dm.isnssdk.com
 0.0.0.0 f-p-va.isnssdk.com
 0.0.0.0 hotapi-va.isnssdk.com
@@ -125,10 +125,10 @@
 0.0.0.0 mon.tiktokv.com
 0.0.0.0 rtlog.tiktokv.com
 0.0.0.0 xlog.tiktokv.com
+0.0.0.0 business.topbuzz.com
+0.0.0.0 business-sg.topbuzz.com
 0.0.0.0 wshifen.com
 0.0.0.0 www.wshifen.com
-business-sg.topbuzz.com
-business.topbuzz.com
 
 ### experimental - third party cdn urls - may break things ###
 0.0.0.0 p16hypstarcdn-a.akamaihd.net
@@ -158,10 +158,10 @@ business.topbuzz.com
 0.0.0.0 pull-hls-l11.tiktokcdn.com
 0.0.0.0 pull-rtmp-l1.tiktokcdn.com
 0.0.0.0 pull-rtmp-l11.tiktokcdn.com
+0.0.0.0 s16.tiktokcdn.com
 0.0.0.0 sf16-webcast.tiktokcdn.com
 0.0.0.0 cmaf-source-fcdn-frankfurt.s.worldfcdn.com
 0.0.0.0 pull-rtmp-l1.tiktokcdn.com.wsdvs.com
-s16.tiktokcdn.com
 
 ### do not block - breaks signup captcha flow ###
 # s0.ipstatp.com
