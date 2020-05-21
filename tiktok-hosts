@@ -205,7 +205,7 @@
 # 0.0.0.0 sf16-sg.muscdn.com
 
 ### apis ###
-## core (videos, like, comments, etc.) ##
+## core (videos, likes, comments, etc.) ##
 # 0.0.0.0 api16-core-c-useast1a.musical.ly.edgekey.net
 # 0.0.0.0 api16-core-c-useast2a.musical.ly.edgekey.net
 # 0.0.0.0 api16-normal-c-useast1a.musical.ly.edgekey.net
