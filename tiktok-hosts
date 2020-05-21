@@ -156,17 +156,19 @@
 0.0.0.0 sf16-webcast.tiktokcdn.com
 0.0.0.0 pull-rtmp-l1.tiktokcdn.com.wsdvs.com
 
-### do not block - breaks signup captcha flow ###
+#### do not block - tiktok ####
+
+### breaks signup captcha flow ###
 # 0.0.0.0 s0.ipstatp.com
 # 0.0.0.0 s0.pstatp.com
 # 0.0.0.0 s0.sgpstatp.com
 # 0.0.0.0 verification-va.musical.ly
 
-### do not block - breaks direct messages ###
+### breaks direct messages ###
 # 0.0.0.0 imapi-mu.isnssdk.com
 # 0.0.0.0 imapi-sg.isnssdk.com
 
-### do not block - cdns ###
+### cdns ###
 ## live streams ##
 # 0.0.0.0 pull-hls-f5-ab.tiktokcdn.com.akamaized.net
 # 0.0.0.0 pull-f5-ab.tiktokcdn.com.c.bytetcdn.com
@@ -201,3 +203,30 @@
 # 0.0.0.0 sf16-sg-default.edgesuite.net
 # 0.0.0.0 sf16-muse-va.ibytedtos.com
 # 0.0.0.0 sf16-sg.muscdn.com
+
+### apis ###
+## core (videos, like, comments, etc.) ##
+# 0.0.0.0 api16-core-c-useast1a.musical.ly.edgekey.net
+# 0.0.0.0 api16-core-c-useast2a.musical.ly.edgekey.net
+# 0.0.0.0 api16-normal-c-useast1a.musical.ly.edgekey.net
+# 0.0.0.0 api16-normal-c-useast2a.musical.ly.edgekey.net
+# 0.0.0.0 api2-16-h2.musical.ly.edgekey.net
+# 0.0.0.0 api2-16-h2-eagle-useast2a.musical.ly.edgekey.net
+# 0.0.0.0 api2-16-h2-useast2a.musical.ly.edgekey.net
+# 0.0.0.0 bytedance.map.fastly.net
+# 0.0.0.0 api16-core-c-useast1a.musical.ly
+# 0.0.0.0 api16-core-c-useast2a.musical.ly
+# 0.0.0.0 api16-normal-c-useast1a.musical.ly
+# 0.0.0.0 api16-normal-c-useast2a.musical.ly
+# 0.0.0.0 api19-core-c-useast1a.musical.ly
+# 0.0.0.0 api19-core-c-useast2a.musical.ly
+# 0.0.0.0 api19-normal-c-useast1a.musical.ly
+# 0.0.0.0 api19-normal-c-useast2a.musical.ly
+# 0.0.0.0 api2-16-h2.musical.ly
+# 0.0.0.0 api2-16-h2-eagle-useast2a.musical.ly
+# 0.0.0.0 api2-16-h2-useast2a.musical.ly
+# 0.0.0.0 api2-19-h2.musical.ly
+# 0.0.0.0 api2-19-h2-eagle-useast2a.musical.ly
+# 0.0.0.0 api2-19-h2-useast2a.musical.ly
+## live streams ##
+webcast-useast2a.musical.ly
