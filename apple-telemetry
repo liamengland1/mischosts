@@ -1,12 +1,16 @@
 # Blocks Apple telemetry and tracking but won't break your device
 # Sourced from https://github.com/adversarialtools/apple-telemetry
 # Originally hosted at https://github.com/llacb47/apple-telemetry/blob/master/blacklist
+0.0.0.0 appleglobal.102.112.2o7.net
+0.0.0.0 appleglobal.112.2o7.net
 0.0.0.0 appldnld.g.aaplimg.com
 0.0.0.0 pancake.g.aaplimg.com
 0.0.0.0 zeusmedia.g.aaplimg.com
+0.0.0.0 supportmetrics.apple-support.akadns.net
 0.0.0.0 pipe.cloudapp.aria.akadns.net
 0.0.0.0 dw-cbsi.cnet-basic-performance.akadns.net
 0.0.0.0 appldnld.apple.com.akadns.net
+0.0.0.0 cstat-lb.apple.com.akadns.net
 0.0.0.0 gsas.apple.com.akadns.net
 0.0.0.0 identity.apple.com.akadns.net
 0.0.0.0 idiagnostics.apple.com.akadns.net
@@ -66,6 +70,7 @@
 0.0.0.0 cl4.apple.com
 0.0.0.0 cl5.apple.com
 0.0.0.0 csig.apple.com
+0.0.0.0 cstat.apple.com
 0.0.0.0 static.deviceservices.apple.com
 0.0.0.0 devimages-cdn.apple.com
 0.0.0.0 api.edu.apple.com
@@ -73,10 +78,14 @@
 0.0.0.0 iad.apple.com
 0.0.0.0 iadcontent.apple.com
 0.0.0.0 iadsdk.apple.com
+0.0.0.0 ca.iadsdk.apple.com
 0.0.0.0 cf.iadsdk.apple.com
+0.0.0.0 cs.iadsdk.apple.com
 0.0.0.0 news.iadsdk.apple.com
+0.0.0.0 su.iadsdk.apple.com
 0.0.0.0 tr.iadsdk.apple.com
 0.0.0.0 ut.iadsdk.apple.com
+0.0.0.0 www.iadsdk.apple.com
 0.0.0.0 identity.apple.com
 0.0.0.0 idiagnostics.apple.com
 0.0.0.0 images.apple.com
@@ -110,8 +119,6 @@
 0.0.0.0 itunesconnect.apple.com
 0.0.0.0 lcdn-locator.apple.com
 0.0.0.0 metrics.apple.com
-appleglobal.112.2o7.net
-appleglobal.102.112.2o7.net
 0.0.0.0 api.music.apple.com
 0.0.0.0 sb.music.apple.com
 0.0.0.0 nc-pod1-smp-device.apple.com
@@ -126,7 +133,6 @@ appleglobal.102.112.2o7.net
 0.0.0.0 ppq.apple.com
 0.0.0.0 ftreporter.push.apple.com
 0.0.0.0 radarsubmissions.apple.com
-radarsubmissions.apple.com.akadns.net
 0.0.0.0 securemetrics.apple.com
 0.0.0.0 seed.siri.apple.com
 0.0.0.0 api.smoot.apple.com
@@ -154,7 +160,6 @@ radarsubmissions.apple.com.akadns.net
 0.0.0.0 stocks-analytics-events.apple.com
 0.0.0.0 stocks-sparkline.apple.com
 0.0.0.0 supportmetrics.apple.com
-supportmetrics.apple-support.akadns.net
 0.0.0.0 tbsc.apple.com
 0.0.0.0 tv.apple.com
 0.0.0.0 sb.tv.apple.com
@@ -190,6 +195,7 @@ supportmetrics.apple-support.akadns.net
 0.0.0.0 edge-003.usnyc.ce.apple-dns.net
 0.0.0.0 edge-035.usnyc.ce.apple-dns.net
 0.0.0.0 metrics.fe.apple-dns.net
+0.0.0.0 me.apple-dns.net
 0.0.0.0 books-analytics-events.news.apple-dns.net
 0.0.0.0 news-events.news.apple-dns.net
 0.0.0.0 notes-analytics-events.news.apple-dns.net
@@ -199,6 +205,7 @@ supportmetrics.apple-support.akadns.net
 0.0.0.0 settings.crashlytics.com
 0.0.0.0 iadsdk.apple.com.edgekey.net
 0.0.0.0 pancake.apple.com.edgekey.net
+0.0.0.0 cstat.apple.com.edgesuite.net
 0.0.0.0 ax.phobos.apple.com.edgesuite.net
 0.0.0.0 gcs-eu-00002.content-storage-download.googleapis.com
 0.0.0.0 metrics.icloud.com
@@ -208,21 +215,3 @@ supportmetrics.apple-support.akadns.net
 0.0.0.0 itc.mzstatic.com
 0.0.0.0 metrics.mzstatic.com
 0.0.0.0 store.mzstatic.com
-0.0.0.0 books-analytics-events.apple.com
-0.0.0.0 cstat.apple.com
-0.0.0.0 iadsdk.apple.com
-0.0.0.0 ca.iadsdk.apple.com
-0.0.0.0 cf.iadsdk.apple.com
-0.0.0.0 cs.iadsdk.apple.com
-0.0.0.0 news.iadsdk.apple.com
-0.0.0.0 su.iadsdk.apple.com
-0.0.0.0 tr.iadsdk.apple.com
-0.0.0.0 ut.iadsdk.apple.com
-0.0.0.0 www.iadsdk.apple.com
-0.0.0.0 securemetrics.apple.com
-0.0.0.0 stocks-analytics-events.apple.com
-0.0.0.0 supportmetrics.apple.com
-0.0.0.0 weather-analytics-events.apple.com
-cstat-lb.apple.com.akadns.net
-cstat.apple.com.edgesuite.net
-me.apple-dns.net
