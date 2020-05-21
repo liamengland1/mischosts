@@ -191,8 +191,12 @@
 # 0.0.0.0 pull-hls-l1.tiktokcdn.com.wsdvs.com
 ## audios ##
 # 0.0.0.0 mpak-suse1.muscdn.com.akamaized.net
+# 0.0.0.0 mphw-suse1.muscdn.com.akamaized.net
+# 0.0.0.0 d271osm3r86e5v.cloudfront.net
 # 0.0.0.0 sf16-sg-default.edgesuite.net
 # 0.0.0.0 mpak-suse1.muscdn.com
+# 0.0.0.0 mpaw-suse1.muscdn.com
+# 0.0.0.0 mphw-suse1.muscdn.com
 # 0.0.0.0 sf16-sg.muscdn.com
 ## website ##
 # 0.0.0.0 s16.tiktokcdn.com
