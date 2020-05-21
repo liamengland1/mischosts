@@ -26,6 +26,7 @@
 0.0.0.0 starling-va.byteoversea.com
 0.0.0.0 v16-ad.byteoversea.com
 0.0.0.0 vaali-mcs.byteoversea.com
+0.0.0.0 verification-va.byteoversea.com
 0.0.0.0 verify-sg.byteoversea.com
 0.0.0.0 xlog.byteoversea.com
 0.0.0.0 xlog-va.byteoversea.com
@@ -48,6 +49,7 @@
 0.0.0.0 videoarch-lb-maliva.byteoversea.net
 0.0.0.0 log.byteoversea.com.edgekey.net
 0.0.0.0 i16-tb.isnssdk.com.edgekey.net
+0.0.0.0 verification-va.byteoversea.com.edgesuite.net
 0.0.0.0 ipstatp.com
 0.0.0.0 p0.ipstatp.com
 0.0.0.0 p1.ipstatp.com
@@ -98,7 +100,6 @@
 0.0.0.0 p16.pstatp.com
 0.0.0.0 p3.pstatp.com
 0.0.0.0 pb3.pstatp.com
-0.0.0.0 s0.pstatp.com
 0.0.0.0 s2.pstatp.com
 0.0.0.0 s3.pstatp.com
 0.0.0.0 s3a.pstatp.com
@@ -106,7 +107,6 @@
 0.0.0.0 sf3-ttcdn-tos.pstatp.com
 0.0.0.0 sf6-ttcdn-tos.pstatp.com
 0.0.0.0 unpkg.pstatp.com
-0.0.0.0 s0.sgpstatp.com
 0.0.0.0 dm.sgsnssdk.com
 0.0.0.0 i-tb.sgsnssdk.com
 0.0.0.0 isub-tb.sgsnssdk.com
@@ -159,8 +159,10 @@
 0.0.0.0 pull-rtmp-l1.tiktokcdn.com.wsdvs.com
 
 ### do not block - breaks signup captcha flow ###
-# s0.ipstatp.com
-# verification-va.musical.ly
+# 0.0.0.0 s0.ipstatp.com
+# 0.0.0.0 s0.pstatp.com
+# 0.0.0.0 s0.sgpstatp.com
+# 0.0.0.0 verification-va.musical.ly
 
 ### do not block - breaks direct messages ###
 # 0.0.0.0 imapi-mu.isnssdk.com
