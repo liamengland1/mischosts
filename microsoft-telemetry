@@ -239,6 +239,7 @@
 0.0.0.0 events.data.microsoft.com
 0.0.0.0 browser.events.data.microsoft.com
 0.0.0.0 de-v20.events.data.microsoft.com
+substrate.office.com
 0.0.0.0 eu-v20.events.data.microsoft.com
 0.0.0.0 kmwatsonc.events.data.microsoft.com
 0.0.0.0 mobile.events.data.microsoft.com
