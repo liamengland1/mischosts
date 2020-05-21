@@ -6,6 +6,7 @@
 0.0.0.0 p9-security.byteimg.com
 0.0.0.0 byteoversea.com
 0.0.0.0 abtest-va-tiktok.byteoversea.com
+0.0.0.0 aliva-sentry.byteoversea.com
 0.0.0.0 dm-maliva-quic.byteoversea.com
 0.0.0.0 frontier.byteoversea.com
 0.0.0.0 gecko-sg.byteoversea.com
@@ -28,6 +29,8 @@
 0.0.0.0 verify-sg.byteoversea.com
 0.0.0.0 xlog.byteoversea.com
 0.0.0.0 xlog-va.byteoversea.com
+0.0.0.0 ad-lb-alisg.byteoversea.net
+0.0.0.0 ad-lb-maliva.byteoversea.net
 0.0.0.0 equinix-iad-api.l.byteoversea.net
 0.0.0.0 equinix-iad-cache01.l.byteoversea.net
 0.0.0.0 equinix-sjc-v1.l.byteoversea.net
