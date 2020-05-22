@@ -166,6 +166,18 @@
 # 0.0.0.0 imapi-sg.isnssdk.com
 
 ### cdns ###
+## general multipurpose - website/images/audios ##
+# 0.0.0.0 mpak-suse1.muscdn.com.akamaized.net
+# 0.0.0.0 mphw-suse1.muscdn.com.akamaized.net
+# 0.0.0.0 mpak-suse1.akamaized.net
+# 0.0.0.0 d271osm3r86e5v.cloudfront.net
+# 0.0.0.0 sf16-muse-va.ibytedtos.com.edgekey.net
+# 0.0.0.0 sf16-sg-default.edgesuite.net
+# 0.0.0.0 sf16-muse-va.ibytedtos.com
+# 0.0.0.0 mpak-suse1.muscdn.com
+# 0.0.0.0 mpaw-suse1.muscdn.com
+# 0.0.0.0 mphw-suse1.muscdn.com
+# 0.0.0.0 sf16-sg.muscdn.com
 ## live streams (video, images) ##
 # 0.0.0.0 pull-hls-f5-ab.tiktokcdn.com.akamaized.net
 # 0.0.0.0 pull-f5-ab.tiktokcdn.com.c.bytetcdn.com
@@ -191,18 +203,6 @@
 # 0.0.0.0 pull-hls-l1.tiktokcdn.com.wsdvs.com
 ## website ##
 # 0.0.0.0 s16.tiktokcdn.com
-## multipurpose - website/images/audios ##
-# 0.0.0.0 mpak-suse1.muscdn.com.akamaized.net
-# 0.0.0.0 mphw-suse1.muscdn.com.akamaized.net
-# 0.0.0.0 mpak-suse1.akamaized.net
-# 0.0.0.0 d271osm3r86e5v.cloudfront.net
-# 0.0.0.0 sf16-muse-va.ibytedtos.com.edgekey.net
-# 0.0.0.0 sf16-sg-default.edgesuite.net
-# 0.0.0.0 sf16-muse-va.ibytedtos.com
-# 0.0.0.0 mpak-suse1.muscdn.com
-# 0.0.0.0 mpaw-suse1.muscdn.com
-# 0.0.0.0 mphw-suse1.muscdn.com
-# 0.0.0.0 sf16-sg.muscdn.com
 
 ### apis ###
 ## core (videos, likes, comments, etc.) ##
