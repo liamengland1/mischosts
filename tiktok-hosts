@@ -148,9 +148,6 @@
 0.0.0.0 flv-l11.tiktokcdn.liveplay.myqcloud.com
 0.0.0.0 all.huodonghylivecdn.sched.ovscdns.net
 0.0.0.0 all.hylivecdn.sched.ovscdns.net
-0.0.0.0 p16-webcast.tiktokcdn.com
-0.0.0.0 p19-webcast.tiktokcdn.com
-0.0.0.0 p21-webcast.tiktokcdn.com
 0.0.0.0 pull-rtmp-l1.tiktokcdn.com
 0.0.0.0 pull-rtmp-l11.tiktokcdn.com
 0.0.0.0 sf16-webcast.tiktokcdn.com
@@ -169,10 +166,13 @@
 # 0.0.0.0 imapi-sg.isnssdk.com
 
 ### cdns ###
-## live streams ##
+## live streams (video, images) ##
 # 0.0.0.0 pull-hls-f5-ab.tiktokcdn.com.akamaized.net
 # 0.0.0.0 pull-f5-ab.tiktokcdn.com.c.bytetcdn.com
 # 0.0.0.0 pull-fcdn-self-oversea.s.bytetcdn.com
+# 0.0.0.0 p16-webcast.tiktokcdn.com
+# 0.0.0.0 p19-webcast.tiktokcdn.com
+# 0.0.0.0 p21-webcast.tiktokcdn.com
 # 0.0.0.0 pull-cmaf-f5.tiktokcdn.com
 # 0.0.0.0 pull-f5.tiktokcdn.com
 # 0.0.0.0 pull-f5-ab.tiktokcdn.com
