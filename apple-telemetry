@@ -1,5 +1,5 @@
 # Blocks Apple telemetry and tracking but won't break your device
-# Sourced from https://github.com/adversarialtools/apple-telemetry
+# Sourced from https://github.com/adversarialtools/apple-telemetry/blacklist
 # Originally hosted at https://github.com/llacb47/apple-telemetry/blob/master/blacklist
 0.0.0.0 appleglobal.102.112.2o7.net
 0.0.0.0 appleglobal.112.2o7.net
