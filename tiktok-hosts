@@ -189,19 +189,19 @@
 # 0.0.0.0 pull-fcdn-base-oversea.s.worldfcdn.com
 # 0.0.0.0 pull-flv-l1.tiktokcdn.com.wsdvs.com
 # 0.0.0.0 pull-hls-l1.tiktokcdn.com.wsdvs.com
-## audios ##
-# 0.0.0.0 mpak-suse1.muscdn.com.akamaized.net
-# 0.0.0.0 mphw-suse1.muscdn.com.akamaized.net
-# 0.0.0.0 d271osm3r86e5v.cloudfront.net
-# 0.0.0.0 mpak-suse1.muscdn.com
-# 0.0.0.0 mpaw-suse1.muscdn.com
-# 0.0.0.0 mphw-suse1.muscdn.com
 ## website ##
 # 0.0.0.0 s16.tiktokcdn.com
 ## multipurpose - website/images/audios ##
+# 0.0.0.0 mpak-suse1.muscdn.com.akamaized.net
+# 0.0.0.0 mphw-suse1.muscdn.com.akamaized.net
+# 0.0.0.0 mpak-suse1.akamaized.net
+# 0.0.0.0 d271osm3r86e5v.cloudfront.net
 # 0.0.0.0 sf16-muse-va.ibytedtos.com.edgekey.net
 # 0.0.0.0 sf16-sg-default.edgesuite.net
 # 0.0.0.0 sf16-muse-va.ibytedtos.com
+# 0.0.0.0 mpak-suse1.muscdn.com
+# 0.0.0.0 mpaw-suse1.muscdn.com
+# 0.0.0.0 mphw-suse1.muscdn.com
 # 0.0.0.0 sf16-sg.muscdn.com
 
 ### apis ###
