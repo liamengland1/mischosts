@@ -3441,6 +3441,7 @@
 0.0.0.0 offerit-track-lb-653047011.us-east-1.elb.amazonaws.com
 0.0.0.0 yd-production-alb-358996285.us-east-1.elb.amazonaws.com
 0.0.0.0 delivery-tracker-1748394643.us-east-2.elb.amazonaws.com
+0.0.0.0 pixel-service-prod-1976456315.us-west-2.elb.amazonaws.com
 0.0.0.0 events.eu-central-1.amazonaws.com
 0.0.0.0 firehose.eu-central-1.amazonaws.com
 0.0.0.0 kinesis.eu-central-1.amazonaws.com
@@ -7482,6 +7483,7 @@
 0.0.0.0 d141wsrw9m4as6.cloudfront.net
 0.0.0.0 d14znuh0i3fxui.cloudfront.net
 0.0.0.0 d15cjcet1djbmv.cloudfront.net
+0.0.0.0 d15lxwsio1b0qb.cloudfront.net
 0.0.0.0 d15sq09lh1yq4w.cloudfront.net
 0.0.0.0 d160mt023h8h3d.cloudfront.net
 0.0.0.0 d162nnmwf9bggr.cloudfront.net
@@ -9203,6 +9205,8 @@
 0.0.0.0 adops.cricbuzz.com
 0.0.0.0 ads.cricbuzz.com
 0.0.0.0 crickwrite.com
+0.0.0.0 crigenetics.com
+0.0.0.0 www.crigenetics.com
 0.0.0.0 criminglynuk.pro
 0.0.0.0 crispads.com
 0.0.0.0 crispadvertising.com
@@ -12552,6 +12556,9 @@
 0.0.0.0 stats.firedrive.com
 0.0.0.0 firefeeder.com
 0.0.0.0 firelove.ru
+0.0.0.0 fireworktv.com
+0.0.0.0 cdn1.fireworktv.com
+0.0.0.0 www.fireworktv.com
 0.0.0.0 firoznadiadwala.com
 0.0.0.0 firrectly.top
 0.0.0.0 first-rate.com
@@ -13257,10 +13264,16 @@
 0.0.0.0 fw5e8yga.top
 0.0.0.0 fwbhvrpiunlzyh.com
 0.0.0.0 fwbntw.com
+0.0.0.0 fwcdn1.com
+0.0.0.0 asset.fwcdn1.com
+0.0.0.0 www.fwcdn1.com
 0.0.0.0 adwiretracker.fwix.com
 0.0.0.0 fwlkncckwcop.com
 0.0.0.0 fwnowvgk.com
 0.0.0.0 www.fwnowvgk.com
+0.0.0.0 fwpixel.com
+0.0.0.0 p1.fwpixel.com
+0.0.0.0 www.fwpixel.com
 0.0.0.0 fwuxrjzrkcjkop.com
 0.0.0.0 fwvdptvy.com
 0.0.0.0 fwwdmnkjg.com
@@ -13586,6 +13599,8 @@
 0.0.0.0 genergydevote.info
 0.0.0.0 genericlink.com
 0.0.0.0 genesismedia.com
+0.0.0.0 geneticsdigest.click
+0.0.0.0 www.geneticsdigest.click
 0.0.0.0 geni.us
 0.0.0.0 geniad.net
 0.0.0.0 genieedmp.com
@@ -15290,6 +15305,8 @@
 0.0.0.0 hoaphaiw.com
 0.0.0.0 hoawhaum.net
 0.0.0.0 hobsonlucinda.com
+0.0.0.0 hocgeese.com
+0.0.0.0 www.hocgeese.com
 0.0.0.0 hochu-deneg.ru
 0.0.0.0 ts2.hockey-talks.com
 0.0.0.0 hoefra.at
@@ -38573,20 +38590,3 @@
 0.0.0.0 zzxlukodff.com
 0.0.0.0 zzxosget.com
 0.0.0.0 zzznews.ru
-hocgeese.com
-www.hocgeese.com
-d15lxwsio1b0qb.cloudfront.net
-geneticsdigest.click
-www.geneticsdigest.click
-crigenetics.com
-www.crigenetics.com
-p1.fwpixel.com
-fwpixel.com
-www.fwpixel.com
-pixel-service-prod-1976456315.us-west-2.elb.amazonaws.com
-fireworktv.com
-www.fireworktv.com
-cdn1.fireworktv.com
-asset.fwcdn1.com
-fwcdn1.com
-www.fwcdn1.com
