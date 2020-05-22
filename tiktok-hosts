@@ -178,10 +178,13 @@
 # 0.0.0.0 mpaw-suse1.muscdn.com
 # 0.0.0.0 mphw-suse1.muscdn.com
 # 0.0.0.0 sf16-sg.muscdn.com
-## live streams (video, images) ##
+## live streams (video, images, other assets) ##
 # 0.0.0.0 pull-hls-f5-ab.tiktokcdn.com.akamaized.net
 # 0.0.0.0 pull-f5-ab.tiktokcdn.com.c.bytetcdn.com
 # 0.0.0.0 pull-fcdn-self-oversea.s.bytetcdn.com
+# 0.0.0.0 webcast.tiktokv.com.edgekey.net
+# 0.0.0.0 webcast.musical.ly.edgekey.net
+# 0.0.0.0 webcast.musical.ly
 # 0.0.0.0 p16-webcast.tiktokcdn.com
 # 0.0.0.0 p19-webcast.tiktokcdn.com
 # 0.0.0.0 p21-webcast.tiktokcdn.com
@@ -194,6 +197,7 @@
 # 0.0.0.0 pull-hls-f5-ab.tiktokcdn.com
 # 0.0.0.0 pull-hls-l1.tiktokcdn.com
 # 0.0.0.0 pull-hls-l11.tiktokcdn.com
+# 0.0.0.0 webcast.tiktokv.com
 # 0.0.0.0 pull-cmaf-f5.tiktokcdn.com.c.worldfcdn.com
 # 0.0.0.0 pull-f5.tiktokcdn.com.c.worldfcdn.com
 # 0.0.0.0 pull-f5-ab.tiktokcdn.com.c.worldfcdn.com
@@ -229,9 +233,7 @@
 # 0.0.0.0 api2-19-h2-eagle-useast2a.musical.ly
 # 0.0.0.0 api2-19-h2-useast2a.musical.ly
 ## live streams ##
-# 0.0.0.0 webcast.musical.ly.edgekey.net
 # 0.0.0.0 webcast-useast1a.musical.ly.edgekey.net
 # 0.0.0.0 webcast-useast2a.musical.ly.edgekey.net
-# 0.0.0.0 webcast.musical.ly
 # 0.0.0.0 webcast-useast1a.musical.ly
 # 0.0.0.0 webcast-useast2a.musical.ly
