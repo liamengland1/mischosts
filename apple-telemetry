@@ -12,7 +12,6 @@
 0.0.0.0 gsas.apple.com.akadns.net
 0.0.0.0 identity.apple.com.akadns.net
 0.0.0.0 idiagnostics.apple.com.akadns.net
-0.0.0.0 images.apple.com.akadns.net
 0.0.0.0 iphonesubmissions.apple.com.akadns.net
 0.0.0.0 lcdn-locator-usuqo.apple.com.akadns.net
 0.0.0.0 outsideapple.apple.com.akadns.net
@@ -82,7 +81,6 @@
 0.0.0.0 www.iadsdk.apple.com
 0.0.0.0 identity.apple.com
 0.0.0.0 idiagnostics.apple.com
-0.0.0.0 images.apple.com
 0.0.0.0 internalcheck.apple.com
 0.0.0.0 iphone-ld.apple.com
 0.0.0.0 iphone-services.apple.com
