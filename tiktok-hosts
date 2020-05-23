@@ -135,6 +135,22 @@
 0.0.0.0 sf16-webcast.tiktokcdn.com
 0.0.0.0 pull-rtmp-l1.tiktokcdn.com.wsdvs.com
 ## bytedance cdns - Toutiao/Topbuzz ##
+0.0.0.0 ipstatp.com
+0.0.0.0 a.ipstatp.com
+0.0.0.0 a0.ipstatp.com
+0.0.0.0 a1.ipstatp.com
+0.0.0.0 a2.ipstatp.com
+0.0.0.0 p.ipstatp.com
+0.0.0.0 p0.ipstatp.com
+0.0.0.0 p1.ipstatp.com
+0.0.0.0 p2.ipstatp.com
+0.0.0.0 s.ipstatp.com
+0.0.0.0 s0.ipstatp.com
+0.0.0.0 s1.ipstatp.com
+0.0.0.0 s16.ipstatp.com
+0.0.0.0 s2.ipstatp.com
+0.0.0.0 v.ipstatp.com
+0.0.0.0 v1.ipstatp.com
 0.0.0.0 pstatp.com
 0.0.0.0 a.pstatp.com
 0.0.0.0 a0.pstatp.com
