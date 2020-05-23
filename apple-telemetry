@@ -21,7 +21,6 @@
 0.0.0.0 wu.apple.com.akadns.net
 0.0.0.0 wu-mdn.apple.com.akadns.net
 0.0.0.0 wu-nwk.apple.com.akadns.net
-0.0.0.0 nc-pod1-smp-device.gcsis-apple.com.akadns.net
 0.0.0.0 gdcrl.godaddy.com.akadns.net
 0.0.0.0 fr51p02sa.guzzoni-apple.com.akadns.net
 0.0.0.0 mu21p02sa.guzzoni-apple.com.akadns.net
@@ -116,7 +115,6 @@
 0.0.0.0 metrics.apple.com
 0.0.0.0 api.music.apple.com
 0.0.0.0 sb.music.apple.com
-0.0.0.0 nc-pod1-smp-device.apple.com
 0.0.0.0 news-events.apple.com
 0.0.0.0 notes-analytics-events.apple.com
 0.0.0.0 opensource.apple.com
