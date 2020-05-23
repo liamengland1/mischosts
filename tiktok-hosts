@@ -122,9 +122,6 @@
 0.0.0.0 sf16-webcast.muscdn.com.edgesuite.net
 0.0.0.0 sf16-webcast.tiktokcdn.com.edgesuite.net
 0.0.0.0 s16.hypstarcdn.com
-0.0.0.0 sf-tb-sg.ibytedtos.com
-0.0.0.0 sf-tk-sg.ibytedtos.com
-0.0.0.0 sf16-passport-va.ibytedtos.com
 0.0.0.0 sf16-webcast.muscdn.com
 0.0.0.0 sf19-webcast.muscdn.com
 0.0.0.0 flv-l11.tiktokcdn.liveplay.myqcloud.com
@@ -312,15 +309,47 @@
 ## general multipurpose - website/images/audios ##
 # 0.0.0.0 mpak-suse1.muscdn.com.akamaized.net
 # 0.0.0.0 mphw-suse1.muscdn.com.akamaized.net
+# 0.0.0.0 v16m.tiktokcdn.com.akamaized.net
 # 0.0.0.0 mpak-suse1.akamaized.net
+# 0.0.0.0 p16-sg-default.akamaized.net
+# 0.0.0.0 p16-tiktokcdn-com.akamaized.net
+# 0.0.0.0 p16-va-default.akamaized.net
 # 0.0.0.0 d271osm3r86e5v.cloudfront.net
+# 0.0.0.0 sf-tk-sg.ibytedtos.com.edgekey.net
 # 0.0.0.0 sf16-muse-va.ibytedtos.com.edgekey.net
+# 0.0.0.0 sf16-passport-va.ibytedtos.com.edgekey.net
+# 0.0.0.0 sf-tb-sg.ibytedtos.com.edgesuite.net
+# 0.0.0.0 p16-tiktok-sg.ibyteimg.com.edgesuite.net
+# 0.0.0.0 p16-tiktok-va.ibyteimg.com.edgesuite.net
+# 0.0.0.0 s16.tiktokcdn.com.edgesuite.net
+# 0.0.0.0 s16a.tiktokcdn.com.edgesuite.net
+# 0.0.0.0 s16b.tiktokcdn.com.edgesuite.net
+# 0.0.0.0 p16-sg-default.edgesuite.net
 # 0.0.0.0 sf16-sg-default.edgesuite.net
+# 0.0.0.0 video.h1.bytedance.map.fastly.net
+# 0.0.0.0 sf-tb-sg.ibytedtos.com
+# 0.0.0.0 sf-tk-sg.ibytedtos.com
 # 0.0.0.0 sf16-muse-va.ibytedtos.com
+# 0.0.0.0 sf16-passport-va.ibytedtos.com
+# 0.0.0.0 p16-tiktok-sg.ibyteimg.com
+# 0.0.0.0 p16-tiktok-va.ibyteimg.com
 # 0.0.0.0 mpak-suse1.muscdn.com
 # 0.0.0.0 mpaw-suse1.muscdn.com
 # 0.0.0.0 mphw-suse1.muscdn.com
+# 0.0.0.0 p16-sg.muscdn.com
 # 0.0.0.0 sf16-sg.muscdn.com
+# 0.0.0.0 s16-ies.tiktok.com
+# 0.0.0.0 t.tiktok.com
+# 0.0.0.0 v.tiktok.com
+# 0.0.0.0 vm.tiktok.com
+# 0.0.0.0 vt.tiktok.com
+# 0.0.0.0 www.tiktok.com
+# 0.0.0.0 s16.tiktokcdn.com
+# 0.0.0.0 s16a.tiktokcdn.com
+# 0.0.0.0 s16b.tiktokcdn.com
+# 0.0.0.0 v16m.tiktokcdn.com
+# 0.0.0.0 v19.tiktokcdn.com
+
 ## live streams (video, images, other assets) ##
 # 0.0.0.0 pull-hls-f5-ab.tiktokcdn.com.akamaized.net
 # 0.0.0.0 pull-f5-ab.tiktokcdn.com.c.bytetcdn.com
@@ -348,8 +377,6 @@
 # 0.0.0.0 pull-fcdn-base-oversea.s.worldfcdn.com
 # 0.0.0.0 pull-flv-l1.tiktokcdn.com.wsdvs.com
 # 0.0.0.0 pull-hls-l1.tiktokcdn.com.wsdvs.com
-## website ##
-# 0.0.0.0 s16.tiktokcdn.com
 
 ### apis ###
 ## core (videos, likes, comments, etc.) ##
