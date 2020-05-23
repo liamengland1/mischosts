@@ -14,12 +14,14 @@
 0.0.0.0 idiagnostics.apple.com.akadns.net
 0.0.0.0 iphonesubmissions.apple.com.akadns.net
 0.0.0.0 lcdn-locator-usuqo.apple.com.akadns.net
+0.0.0.0 ocsp-lb.apple.com.akadns.net
 0.0.0.0 outsideapple.apple.com.akadns.net
 0.0.0.0 radarsubmissions.apple.com.akadns.net
 0.0.0.0 tbsc.apple.com.akadns.net
 0.0.0.0 wu.apple.com.akadns.net
 0.0.0.0 wu-mdn.apple.com.akadns.net
 0.0.0.0 wu-nwk.apple.com.akadns.net
+0.0.0.0 pancake.cdn-apple.com.akadns.net
 0.0.0.0 gdcrl.godaddy.com.akadns.net
 0.0.0.0 fr51p02sa.guzzoni-apple.com.akadns.net
 0.0.0.0 mu21p02sa.guzzoni-apple.com.akadns.net
@@ -99,6 +101,7 @@
 0.0.0.0 mt-ingestion-service-pv.itunes.apple.com
 0.0.0.0 radio-quickplay.itunes.apple.com
 0.0.0.0 se-edge.itunes.apple.com
+0.0.0.0 se2.itunes.apple.com
 0.0.0.0 siri-search.itunes.apple.com
 0.0.0.0 sitemaps.itunes.apple.com
 0.0.0.0 tf-feedback.itunes.apple.com
@@ -114,6 +117,7 @@
 0.0.0.0 sb.music.apple.com
 0.0.0.0 news-events.apple.com
 0.0.0.0 notes-analytics-events.apple.com
+0.0.0.0 ocsp.apple.com
 0.0.0.0 outsideapple.apple.com
 0.0.0.0 pancake.apple.com
 0.0.0.0 pcr.apple.com
@@ -190,10 +194,12 @@
 0.0.0.0 notes-analytics-events.news.apple-dns.net
 0.0.0.0 stocks-analytics-events.news.apple-dns.net
 0.0.0.0 weather-analytics-events.news.apple-dns.net
+0.0.0.0 health-assets.cdn-apple.com
 0.0.0.0 e.crashlytics.com
 0.0.0.0 settings.crashlytics.com
 0.0.0.0 iadsdk.apple.com.edgekey.net
 0.0.0.0 pancake.apple.com.edgekey.net
+0.0.0.0 health-assets.cdn-apple.com.edgekey.net
 0.0.0.0 cstat.apple.com.edgesuite.net
 0.0.0.0 ax.phobos.apple.com.edgesuite.net
 0.0.0.0 gcs-eu-00002.content-storage-download.googleapis.com
@@ -204,9 +210,3 @@
 0.0.0.0 itc.mzstatic.com
 0.0.0.0 metrics.mzstatic.com
 0.0.0.0 store.mzstatic.com
-pancake.cdn-apple.com.akadns.net
-health-assets.cdn-apple.com
-health-assets.cdn-apple.com.edgekey.net
-se2.itunes.apple.com
-ocsp.apple.com
-ocsp-lb.apple.com.akadns.net
