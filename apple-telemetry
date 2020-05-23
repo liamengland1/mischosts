@@ -21,7 +21,6 @@
 0.0.0.0 wu.apple.com.akadns.net
 0.0.0.0 wu-mdn.apple.com.akadns.net
 0.0.0.0 wu-nwk.apple.com.akadns.net
-0.0.0.0 albert.gcsis-apple.com.akadns.net
 0.0.0.0 nc-pod1-smp-device.gcsis-apple.com.akadns.net
 0.0.0.0 gdcrl.godaddy.com.akadns.net
 0.0.0.0 fr51p02sa.guzzoni-apple.com.akadns.net
@@ -51,7 +50,6 @@
 0.0.0.0 msg-media.valueclick.akadns.net
 0.0.0.0 eu-irl-00001.s3.dualstack.eu-west-1.amazonaws.com
 0.0.0.0 aidc.apple.com
-0.0.0.0 albert.apple.com
 0.0.0.0 apps.apple.com
 0.0.0.0 amp-api-edge.apps.apple.com
 0.0.0.0 apsu.apple.com
