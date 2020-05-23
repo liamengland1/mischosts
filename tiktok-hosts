@@ -51,13 +51,6 @@
 0.0.0.0 log.byteoversea.com.edgekey.net
 0.0.0.0 i16-tb.isnssdk.com.edgekey.net
 0.0.0.0 verification-va.byteoversea.com.edgesuite.net
-0.0.0.0 ipstatp.com
-0.0.0.0 p0.ipstatp.com
-0.0.0.0 p1.ipstatp.com
-0.0.0.0 p2.ipstatp.com
-0.0.0.0 p3.ipstatp.com
-0.0.0.0 s.ipstatp.com
-0.0.0.0 s16.ipstatp.com
 0.0.0.0 a15-tb.isnssdk.com
 0.0.0.0 a16-tb.isnssdk.com
 0.0.0.0 cdn.isnssdk.com
@@ -95,18 +88,6 @@
 0.0.0.0 xlog-va.musical.ly
 0.0.0.0 snssdk1180.onelink.me
 0.0.0.0 snssdk1233.onelink.me
-0.0.0.0 dm.pstatp.com
-0.0.0.0 p.pstatp.com
-0.0.0.0 p16.pstatp.com
-0.0.0.0 p3.pstatp.com
-0.0.0.0 pb3.pstatp.com
-0.0.0.0 s2.pstatp.com
-0.0.0.0 s3.pstatp.com
-0.0.0.0 s3a.pstatp.com
-0.0.0.0 sf1-ttcdn-tos.pstatp.com
-0.0.0.0 sf3-ttcdn-tos.pstatp.com
-0.0.0.0 sf6-ttcdn-tos.pstatp.com
-0.0.0.0 unpkg.pstatp.com
 0.0.0.0 dm.sgsnssdk.com
 0.0.0.0 i-tb.sgsnssdk.com
 0.0.0.0 isub-tb.sgsnssdk.com
@@ -134,6 +115,7 @@
 0.0.0.0 wshifen.com
 0.0.0.0 www.wshifen.com
 
+
 ### experimental - third party cdn urls - may break things ###
 0.0.0.0 p16hypstarcdn-a.akamaihd.net
 0.0.0.0 s16-hypstarcdn-com.akamaized.net
@@ -152,13 +134,79 @@
 0.0.0.0 pull-rtmp-l11.tiktokcdn.com
 0.0.0.0 sf16-webcast.tiktokcdn.com
 0.0.0.0 pull-rtmp-l1.tiktokcdn.com.wsdvs.com
+## bytedance cdns - Toutiao/Topbuzz ##
+0.0.0.0 pstatp.com
+0.0.0.0 a.pstatp.com
+0.0.0.0 a0.pstatp.com
+0.0.0.0 a1.pstatp.com
+0.0.0.0 a3.pstatp.com
+0.0.0.0 a4.pstatp.com
+0.0.0.0 a5.pstatp.com
+0.0.0.0 a6.pstatp.com
+0.0.0.0 a8.pstatp.com
+0.0.0.0 a9.pstatp.com
+0.0.0.0 c.pstatp.com
+0.0.0.0 d.pstatp.com
+0.0.0.0 d2.pstatp.com
+0.0.0.0 dm.pstatp.com
+0.0.0.0 i.pstatp.com
+0.0.0.0 i0.pstatp.com
+0.0.0.0 m.pstatp.com
+0.0.0.0 p.pstatp.com
+0.0.0.0 p0.pstatp.com
+0.0.0.0 p1.pstatp.com
+0.0.0.0 p10.pstatp.com
+0.0.0.0 p16.pstatp.com
+0.0.0.0 p2.pstatp.com
+0.0.0.0 p3.pstatp.com
+0.0.0.0 p3a.pstatp.com
+0.0.0.0 p4.pstatp.com
+0.0.0.0 p5.pstatp.com
+0.0.0.0 p5a.pstatp.com
+0.0.0.0 p6.pstatp.com
+0.0.0.0 p7.pstatp.com
+0.0.0.0 p8.pstatp.com
+0.0.0.0 p9.pstatp.com
+0.0.0.0 pb1.pstatp.com
+0.0.0.0 pb2.pstatp.com
+0.0.0.0 pb3.pstatp.com
+0.0.0.0 s.pstatp.com
+0.0.0.0 s0.pstatp.com
+0.0.0.0 s1.pstatp.com
+0.0.0.0 s2.pstatp.com
+0.0.0.0 s3.pstatp.com
+0.0.0.0 s3a.pstatp.com
+0.0.0.0 s3b.pstatp.com
+0.0.0.0 s4.pstatp.com
+0.0.0.0 s5.pstatp.com
+0.0.0.0 s6.pstatp.com
+0.0.0.0 s7.pstatp.com
+0.0.0.0 s8.pstatp.com
+0.0.0.0 s9.pstatp.com
+0.0.0.0 sf1-ttcdn-tos.pstatp.com
+0.0.0.0 sf16-ttcdn-tos.pstatp.com
+0.0.0.0 sf3-ttcdn-tos.pstatp.com
+0.0.0.0 sf6-ttcdn-tos.pstatp.com
+0.0.0.0 unpkg.pstatp.com
+0.0.0.0 v.pstatp.com
+0.0.0.0 v0.pstatp.com
+0.0.0.0 v1.pstatp.com
+0.0.0.0 v10.pstatp.com
+0.0.0.0 v2.pstatp.com
+0.0.0.0 v3.pstatp.com
+0.0.0.0 v3a.pstatp.com
+0.0.0.0 v3b.pstatp.com
+0.0.0.0 v4.pstatp.com
+0.0.0.0 v5.pstatp.com
+0.0.0.0 v6.pstatp.com
+0.0.0.0 v7.pstatp.com
+0.0.0.0 v8.pstatp.com
+0.0.0.0 v9.pstatp.com
 
 #### do not block - tiktok ####
 
 ### breaks signup captcha flow ###
 # 0.0.0.0 s0.ipstatp.com
-# 0.0.0.0 s0.pstatp.com
-# 0.0.0.0 s0.sgpstatp.com
 # 0.0.0.0 verification-va.musical.ly
 
 ### breaks direct messages ###
