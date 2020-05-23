@@ -595,3 +595,6 @@
 0.0.0.0 weus2watcab02.blob.core.windows.net
 0.0.0.0 onedrive-collection.device.mobileengagement.windows.net
 0.0.0.0 telemetry.remoteapp.windowsazure.com
+smartscreen-prod.microsoft.com
+wd-prod-ss.trafficmanager.net
+checkappexec.microsoft.com
