@@ -3,13 +3,11 @@
 # Originally hosted at https://github.com/llacb47/apple-telemetry/blob/master/blacklist
 0.0.0.0 appleglobal.102.112.2o7.net
 0.0.0.0 appleglobal.112.2o7.net
-0.0.0.0 appldnld.g.aaplimg.com
 0.0.0.0 pancake.g.aaplimg.com
 0.0.0.0 zeusmedia.g.aaplimg.com
 0.0.0.0 supportmetrics.apple-support.akadns.net
 0.0.0.0 pipe.cloudapp.aria.akadns.net
 0.0.0.0 dw-cbsi.cnet-basic-performance.akadns.net
-0.0.0.0 appldnld.apple.com.akadns.net
 0.0.0.0 cstat-lb.apple.com.akadns.net
 0.0.0.0 gsas.apple.com.akadns.net
 0.0.0.0 identity.apple.com.akadns.net
@@ -54,7 +52,6 @@
 0.0.0.0 eu-irl-00001.s3.dualstack.eu-west-1.amazonaws.com
 0.0.0.0 aidc.apple.com
 0.0.0.0 albert.apple.com
-0.0.0.0 appldnld.apple.com
 0.0.0.0 apps.apple.com
 0.0.0.0 amp-api-edge.apps.apple.com
 0.0.0.0 apsu.apple.com
