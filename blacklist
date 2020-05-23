@@ -7587,6 +7587,7 @@
 0.0.0.0 d1z2jf7jlzjs58.cloudfront.net
 0.0.0.0 d1zfhhmz4n1jvq.cloudfront.net
 0.0.0.0 d1zkodo2u3p4pe.cloudfront.net
+0.0.0.0 d1zkz3k4cclnv6.cloudfront.net
 0.0.0.0 d20duyjzb7cuoc.cloudfront.net
 0.0.0.0 d20flqux56m8w7.cloudfront.net
 0.0.0.0 d20je219bs8hnq.cloudfront.net
@@ -7624,6 +7625,7 @@
 0.0.0.0 d2fbkzyicji7c4.cloudfront.net
 0.0.0.0 d2fdrq23ypws1n.cloudfront.net
 0.0.0.0 d2fhjyz3dwdx87.cloudfront.net
+0.0.0.0 d2fyl8x7j0dy0l.cloudfront.net
 0.0.0.0 d2gfdmu30u15x7.cloudfront.net
 0.0.0.0 d2gfi8ctn6kki7.cloudfront.net
 0.0.0.0 d2ghscazvn398x.cloudfront.net
@@ -7789,6 +7791,7 @@
 0.0.0.0 d7016uqa4s0lw.cloudfront.net
 0.0.0.0 d81mfvml8p5ml.cloudfront.net
 0.0.0.0 d830x8j3o1b2k.cloudfront.net
+0.0.0.0 d889emgu1evay.cloudfront.net
 0.0.0.0 d8rk54i4mohrb.cloudfront.net
 0.0.0.0 d8yoo85ikfg26.cloudfront.net
 0.0.0.0 d919jnq3sn4ta.cloudfront.net
@@ -12024,6 +12027,7 @@
 0.0.0.0 extole.io
 0.0.0.0 extra33.com
 0.0.0.0 extranetcom.com
+0.0.0.0 agent.extrawatch.com
 0.0.0.0 extreme-dm.com
 0.0.0.0 extreme-ip-lookup.com
 0.0.0.0 extrementtgfa.site
@@ -16834,6 +16838,8 @@
 0.0.0.0 beacon.itmedia.jp
 0.0.0.0 itop.cz
 0.0.0.0 stat.itp-nyc.com
+0.0.0.0 itpatratr.com
+0.0.0.0 www.itpatratr.com
 0.0.0.0 itpchjbr.com
 0.0.0.0 itra.cn
 0.0.0.0 itrac.it
@@ -19641,6 +19647,7 @@
 0.0.0.0 macandcheeseandads.com
 0.0.0.0 machieved.com
 0.0.0.0 machings.com
+0.0.0.0 rz.mackeeper.com
 0.0.0.0 stats.macmillanusa.com
 0.0.0.0 laurel.macrovision.com
 0.0.0.0 metrics.macys.net
@@ -28488,6 +28495,7 @@
 0.0.0.0 searchlinker.ru
 0.0.0.0 tracking.searchmarketing.com
 0.0.0.0 searchmulty.com
+0.0.0.0 lp.searchmulty.com
 0.0.0.0 searchnew.net
 0.0.0.0 searchplow.com
 0.0.0.0 stats.searchsight.com
@@ -38609,11 +38617,3 @@
 0.0.0.0 zzxlukodff.com
 0.0.0.0 zzxosget.com
 0.0.0.0 zzznews.ru
-d889emgu1evay.cloudfront.net	
-d2fyl8x7j0dy0l.cloudfront.net	
-d1zkz3k4cclnv6.cloudfront.net	
-rz.mackeeper.com
-itpatratr.com
-www.itpatratr.com
-lp.searchmulty.com
-agent.extrawatch.com
