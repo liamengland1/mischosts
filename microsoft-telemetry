@@ -299,10 +299,6 @@
 0.0.0.0 win10.ipv6.microsoft.com
 0.0.0.0 win1710.ipv6.microsoft.com
 0.0.0.0 win8.ipv6.microsoft.com
-0.0.0.0 dmd.metaservices.microsoft.com
-0.0.0.0 download.dmd.metaservices.microsoft.com
-0.0.0.0 origin-download.dmd.metaservices.microsoft.com
-0.0.0.0 packages.dmd.metaservices.microsoft.com
 0.0.0.0 redir.metaservices.microsoft.com
 0.0.0.0 tsfe.trafficshaping.dsp.mp.microsoft.com
 0.0.0.0 livetileedge.dsx.mp.microsoft.com
