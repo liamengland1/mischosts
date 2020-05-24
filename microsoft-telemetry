@@ -119,6 +119,16 @@
 0.0.0.0 compatexchange.cloudapp.net
 0.0.0.0 legacy-redirection-neurope-prod-hp.cloudapp.net
 0.0.0.0 quickpulse-prod-use.cloudapp.net
+0.0.0.0 skypedataprdcolcus01.cloudapp.net
+0.0.0.0 skypedataprdcolcus03.cloudapp.net
+0.0.0.0 skypedataprdcolcus11.cloudapp.net
+0.0.0.0 skypedataprdcolcus13.cloudapp.net
+0.0.0.0 skypedataprdcoleus00.cloudapp.net
+0.0.0.0 skypedataprdcoleus02.cloudapp.net
+0.0.0.0 skypedataprdcoleus04.cloudapp.net
+0.0.0.0 skypedataprdcoljpw03.cloudapp.net
+0.0.0.0 skypedataprdcoluks05.cloudapp.net
+0.0.0.0 skypedataprdcolwus03.cloudapp.net
 0.0.0.0 api.cortana.ai
 0.0.0.0 ad.doubleclick.net
 0.0.0.0 ow1.res.office365.com.edgekey.net
@@ -478,6 +488,10 @@
 0.0.0.0 use.rt.prod.applicationinsights.trafficmanager.net
 0.0.0.0 ussc.rt.prod.applicationinsights.trafficmanager.net
 0.0.0.0 compatexchange1.trafficmanager.net
+0.0.0.0 global.asimov.events.data.trafficmanager.net
+0.0.0.0 browser.events.data.trafficmanager.net
+0.0.0.0 uk.events.data.trafficmanager.net
+0.0.0.0 us.events.data.trafficmanager.net
 0.0.0.0 asimov.vortex.data.trafficmanager.net
 0.0.0.0 dc.trafficmanager.net
 0.0.0.0 ieonlinews.trafficmanager.net
