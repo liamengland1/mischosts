@@ -142,6 +142,8 @@
 0.0.0.0 s.gateway.messenger.live.com
 0.0.0.0 nexus.officeapps.live.com
 0.0.0.0 nexusrules.officeapps.live.com
+0.0.0.0 waconafd.officeapps.live.com
+0.0.0.0 waconatm.officeapps.live.com
 0.0.0.0 rad.live.com
 0.0.0.0 ssw.live.com
 0.0.0.0 watson.live.com
@@ -446,6 +448,7 @@
 0.0.0.0 acdc-direct.office.com
 0.0.0.0 afd-a-acdc-direct.office.com
 0.0.0.0 afd-k-acdc-direct.office.com
+0.0.0.0 atm-fp-direct.office.com
 0.0.0.0 augloop.office.com
 0.0.0.0 auh-efz.office.com
 0.0.0.0 ecs.office.com
@@ -463,6 +466,8 @@
 0.0.0.0 upload.fp.measure.office.com
 0.0.0.0 upload2.fp.measure.office.com
 0.0.0.0 mel-efz.office.com
+0.0.0.0 lyh-efz.ms-acdc.office.com
+0.0.0.0 outlook.ms-acdc.office.com
 0.0.0.0 substrate.ms-acdc.office.com
 0.0.0.0 clientlog.portal.office.com
 0.0.0.0 sjc-efz.office.com
@@ -495,8 +500,10 @@
 0.0.0.0 asimov.vortex.data.trafficmanager.net
 0.0.0.0 dc.trafficmanager.net
 0.0.0.0 ieonlinews.trafficmanager.net
+0.0.0.0 outlook-exo.trafficmanager.net
 0.0.0.0 settingsfd-geo.trafficmanager.net
 0.0.0.0 tele.trafficmanager.net
+0.0.0.0 view.wac.trafficmanager.net
 0.0.0.0 wd-prod-ss.trafficmanager.net
 0.0.0.0 wd-prod-ss-as.trafficmanager.net
 0.0.0.0 wd-prod-ss-br.trafficmanager.net
@@ -654,11 +661,3 @@
 0.0.0.0 weus2watcab02.blob.core.windows.net
 0.0.0.0 onedrive-collection.device.mobileengagement.windows.net
 0.0.0.0 telemetry.remoteapp.windowsazure.com
-LYH-efz.ms-acdc.office.com
-atm-fp-direct.office.com
-outlook-exo.trafficmanager.net
-acdc-direct.office.com
-outlook.ms-acdc.office.com
-waconafd.officeapps.live.com
-waconatm.officeapps.live.com
-view.wac.trafficmanager.net
