@@ -663,3 +663,9 @@
 0.0.0.0 weus2watcab02.blob.core.windows.net
 0.0.0.0 onedrive-collection.device.mobileengagement.windows.net
 0.0.0.0 telemetry.remoteapp.windowsazure.com
+0.0.0.0 telemetry.remoteapp.windowsazure.com
+0.0.0.0 c.microsoft.com
+0.0.0.0 browser.events.data.microsoft.com
+0.0.0.0 vortex.data.microsoft.com
+0.0.0.0 glbdns.microsoft.com
+0.0.0.0 livetileedge.dsx.mp.microsoft.com
