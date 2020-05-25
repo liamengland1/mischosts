@@ -1364,9 +1364,7 @@
 0.0.0.0 a23-54-115-202.deploy.static.akamaitechnologies.com
 0.0.0.0 a3-19-66-11.deploy.static.akamaitechnologies.com
 0.0.0.0 a88-221-144-210.deploy.static.akamaitechnologies.com
-0.0.0.0 audio-ak-spotify-com.akamaized.net
 0.0.0.0 audio-akp-bbr-spotify-com.akamaized.net
-0.0.0.0 audio-akp-spotify-com.akamaized.net
 0.0.0.0 contentclick.akamaized.net
 0.0.0.0 heads-ak-spotify-com.akamaized.net
 0.0.0.0 heads4-ak-spotify-com.akamaized.net
@@ -2644,9 +2642,7 @@
 0.0.0.0 actman.scdn.co
 0.0.0.0 adstudio-assets.scdn.co
 0.0.0.0 artistheader.scdn.co
-0.0.0.0 audio-fa.scdn.co
 0.0.0.0 audio-gc.scdn.co
-0.0.0.0 audio4-fa.scdn.co
 0.0.0.0 car-dev.scdn.co
 0.0.0.0 car-prod.scdn.co
 0.0.0.0 car-staging.scdn.co
@@ -3960,5 +3956,10 @@
 0.0.0.0 api.zwizzarmyknife.com
 
 # experimental
+0.0.0.0 audio-ak-spotify-com.akamaized.net
+0.0.0.0 audio-akp-spotify-com.akamaized.net
 0.0.0.0 audio4-ak-spotify-com.akamaized.net
+0.0.0.0 audio-fa.scdn.co
+0.0.0.0 audio4-fa.scdn.co
+
 # 0.0.0.0 audio-sp-atl-13.spotifycdn.net
