@@ -1869,9 +1869,6 @@
 0.0.0.0 prod.spotify.map.fastlylb.net
 0.0.0.0 prod.spotify-heads.map.fastlylb.net
 0.0.0.0 prod.b.ssl.us-eu.fastlylb.net
-0.0.0.0 content-lht6-1.xx.fbcdn.net
-0.0.0.0 scontent.xx.fbcdn.net
-0.0.0.0 platform-lookaside.fbsbx.com
 0.0.0.0 fgoogle.com
 0.0.0.0 cdn.file2desktop.com
 0.0.0.0 installer.filebulldog.com
