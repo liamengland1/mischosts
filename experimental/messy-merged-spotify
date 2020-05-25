@@ -1,4 +1,3 @@
-0.0.0.0 192.121.140.177
 0.0.0.0 crashlytics.163.com
 0.0.0.0 ams12s29-in-f102.1e100.net
 0.0.0.0 ams15s40-in-f1.1e100.net
@@ -10,8 +9,6 @@
 0.0.0.0 muc11s15-in-f3.1e100.net
 0.0.0.0 prg03s02-in-f110.1e100.net
 0.0.0.0 prg03s02-in-f99.1e100.net
-0.0.0.0 172.217.20.98
-0.0.0.0 35.186.224.53
 0.0.0.0 m1.ae.2mdn.net
 0.0.0.0 m2.ae.2mdn.net
 0.0.0.0 m3.ae.2mdn.net
@@ -806,9 +803,6 @@
 0.0.0.0 m7.za.2mdn.net
 0.0.0.0 m8.za.2mdn.net
 0.0.0.0 m9.za.2mdn.net
-0.0.0.0 151.101.38.248
-0.0.0.0 104.199.64.104
-0.0.0.0 104.199.65.206
 0.0.0.0 track.adform.net
 0.0.0.0 ad3.adfarm1.adition.com
 0.0.0.0 imagesrv.adition.com
