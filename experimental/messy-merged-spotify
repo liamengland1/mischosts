@@ -1338,14 +1338,11 @@
 0.0.0.0 a23-54-115-202.deploy.static.akamaitechnologies.com
 0.0.0.0 a3-19-66-11.deploy.static.akamaitechnologies.com
 0.0.0.0 a88-221-144-210.deploy.static.akamaitechnologies.com
-0.0.0.0 audio-ak-spotify-com.akamaized.net
 0.0.0.0 audio-akp-bbr-spotify-com.akamaized.net
 0.0.0.0 audio-akp-spotify-com.akamaized.net
-0.0.0.0 audio4-ak-spotify-com.akamaized.net
 0.0.0.0 contentclick.akamaized.net
 0.0.0.0 heads-ak-spotify-com.akamaized.net
 0.0.0.0 heads4-ak-spotify-com.akamaized.net
-0.0.0.0 video-akp-cdn-spotify-com.akamaized.net
 0.0.0.0 ec2-52-212-113-202.eu-west-1.compute.amazonaws.com
 0.0.0.0 ec2-54-246-172-197.eu-west-1.compute.amazonaws.com
 0.0.0.0 ec2-54-248-172-197.eu-west-1.compute.amazonaws.com
@@ -2535,7 +2532,6 @@
 0.0.0.0 analytics.spotify.com
 0.0.0.0 analytics-classic.spotify.com
 0.0.0.0 analytics-preview.spotify.com
-0.0.0.0 ap.spotify.com
 0.0.0.0 ash2-accesspoint-a1.ap.spotify.com
 0.0.0.0 ash2-accesspoint-a10.ap.spotify.com
 0.0.0.0 ash2-accesspoint-a100.ap.spotify.com
@@ -2609,7 +2605,6 @@
 0.0.0.0 api-partner.spotify.com
 0.0.0.0 api-tv.spotify.com
 0.0.0.0 zlink.app.spotify.com
-0.0.0.0 apresolve.spotify.com
 0.0.0.0 artist-identity-image.spotify.com
 0.0.0.0 artistinsights-realtime.spotify.com
 0.0.0.0 artists.spotify.com
@@ -3120,7 +3115,6 @@
 0.0.0.0 datasharing.spotify.com
 0.0.0.0 beta.datasharing.spotify.com
 0.0.0.0 datawarehouse.spotify.com
-0.0.0.0 dealer.spotify.com
 0.0.0.0 demo-builder.spotify.com
 0.0.0.0 desktop.spotify.com
 0.0.0.0 dev.spotify.com
@@ -3159,9 +3153,7 @@
 0.0.0.0 ash.weblb-wg.gslb.spotify.com
 0.0.0.0 lon.weblb-wg.gslb.spotify.com
 0.0.0.0 sto.weblb-wg.gslb.spotify.com
-0.0.0.0 guc-dealer.spotify.com
 0.0.0.0 guc-dealer-ssl.spotify.com
-0.0.0.0 guc-spclient.spotify.com
 0.0.0.0 heads-ak.spotify.com
 0.0.0.0 heads-akp.spotify.com
 0.0.0.0 heads-cf.spotify.com
@@ -3355,7 +3347,6 @@
 0.0.0.0 ns4.spotify.com
 0.0.0.0 ns5.spotify.com
 0.0.0.0 oktascimserver.spotify.com
-0.0.0.0 open.spotify.com
 0.0.0.0 opensource.spotify.com
 0.0.0.0 origin-play.spotify.com
 0.0.0.0 partner-provisioning.spotify.com
@@ -3443,7 +3434,6 @@
 0.0.0.0 exp.wg.spotify.com
 0.0.0.0 exp-canary.wg.spotify.com
 0.0.0.0 partners.wg.spotify.com
-0.0.0.0 spclient.wg.spotify.com
 0.0.0.0 spclient-canary.wg.spotify.com
 0.0.0.0 wl.spotify.com
 0.0.0.0 ws.spotify.com
