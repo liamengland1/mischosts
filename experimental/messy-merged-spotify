@@ -2675,7 +2675,6 @@
 0.0.0.0 spritemaps.scdn.co
 0.0.0.0 support2.scdn.co
 0.0.0.0 t.scdn.co
-0.0.0.0 thisis-images.scdn.co
 0.0.0.0 tv.scdn.co
 0.0.0.0 tv-cast-prod.scdn.co
 0.0.0.0 tv-static.scdn.co
@@ -3837,7 +3836,6 @@
 0.0.0.0 audio-sp-ams26.spotifycdn.net
 0.0.0.0 audio-sp-ams6.spotifycdn.net
 0.0.0.0 audio-sp-atl.spotifycdn.net
-0.0.0.0 audio-sp-atl-13.spotifycdn.net
 0.0.0.0 audio-sp-bma.spotifycdn.net
 0.0.0.0 audio-sp-bma-13.spotifycdn.net
 0.0.0.0 audio-sp-bma6.spotifycdn.net
@@ -3960,3 +3958,7 @@
 0.0.0.0 api.yp.com
 0.0.0.0 1364.tm.zedo.com
 0.0.0.0 api.zwizzarmyknife.com
+
+# experimental
+0.0.0.0 audio4-ak-spotify-com.akamaized.net
+# 0.0.0.0 audio-sp-atl-13.spotifycdn.net
