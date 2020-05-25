@@ -3956,6 +3956,7 @@
 # experimental
 0.0.0.0 audio-ak-spotify-com.akamaized.net
 0.0.0.0 audio-akp-spotify-com.akamaized.net
+0.0.0.0 audio-akp-quic-spotify-com.akamaized.net
 0.0.0.0 audio4-ak-spotify-com.akamaized.net
 0.0.0.0 audio4-fa.scdn.co
 
