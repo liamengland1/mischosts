@@ -3954,10 +3954,12 @@
 0.0.0.0 api.zwizzarmyknife.com
 
 # experimental
+0.0.0.0 audio-ak.spotify.com.eip.akadns.net
 0.0.0.0 audio-ak-spotify-com.akamaized.net
 0.0.0.0 audio-akp-spotify-com.akamaized.net
 0.0.0.0 audio-akp-quic-spotify-com.akamaized.net
 0.0.0.0 audio4-ak-spotify-com.akamaized.net
+0.0.0.0 audio4-akp-spotify-com.akamaized.net
 0.0.0.0 audio4-fa.scdn.co
 
 # 0.0.0.0 audio-fa.scdn.co
