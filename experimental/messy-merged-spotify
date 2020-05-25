@@ -2310,6 +2310,8 @@
 0.0.0.0 r5.sn-5hnednlr.gvt1.com
 0.0.0.0 geo.eu.h-bid.com
 0.0.0.0 hl-display.com
+0.0.0.0 hotjar.com
+0.0.0.0 www.hotjar.com
 0.0.0.0 img.ads.huntmad.com
 0.0.0.0 www.google.ienet.pl
 0.0.0.0 secure-gg.imrworldwide.com
@@ -2349,6 +2351,7 @@
 0.0.0.0 widget.intercom.io
 0.0.0.0 woody.intercom.io
 0.0.0.0 www.intercom.io
+0.0.0.0 www.interia.pl
 0.0.0.0 content.invisioncic.com
 0.0.0.0 ns3006499.ip-149-202-64.eu
 0.0.0.0 ipinfo.io
@@ -2563,6 +2566,7 @@
 0.0.0.0 mdn2.phluantmobile.net
 0.0.0.0 mdn3.phluantmobile.net
 0.0.0.0 cdn.insta.playbryte.com
+0.0.0.0 163-172-209-161.rev.poneytelecom.eu
 0.0.0.0 cdn.ppdownload.com
 0.0.0.0 audio-sp-ams.pscdn.co
 0.0.0.0 audio-sp-ams-13.pscdn.co
@@ -3909,6 +3913,7 @@
 0.0.0.0 techattend.com
 0.0.0.0 cs126.wpc.teliasoneracdn.net
 0.0.0.0 cs283.wpc.teliasoneracdn.net
+0.0.0.0 cdn.tellwrite.com
 0.0.0.0 cs934.wac.thetacdn.net
 0.0.0.0 seen-on-screen.thewhizmarketing.com
 0.0.0.0 thinknear-hosted.thinknearhub.com
