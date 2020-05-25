@@ -93,6 +93,7 @@
 0.0.0.0 telemetry.appex.search.prod.ms.akadns.net
 0.0.0.0 i.s1.social.ms.akadns.net
 0.0.0.0 lb1.www.ms.akadns.net
+0.0.0.0 ipv6.login.msa.akadns6.net
 0.0.0.0 a1095.g2.akamai.net
 0.0.0.0 a978.i6g1.akamai.net
 0.0.0.0 e7502.ce.akamaiedge.net
@@ -139,6 +140,7 @@
 0.0.0.0 pre.footprintpredict.com
 0.0.0.0 m.hotmail.com
 0.0.0.0 choice.live.com
+0.0.0.0 ipv6.login.live.com
 0.0.0.0 s.gateway.messenger.live.com
 0.0.0.0 nexus.officeapps.live.com
 0.0.0.0 nexusrules.officeapps.live.com
@@ -661,5 +663,3 @@
 0.0.0.0 weus2watcab02.blob.core.windows.net
 0.0.0.0 onedrive-collection.device.mobileengagement.windows.net
 0.0.0.0 telemetry.remoteapp.windowsazure.com
-ipv6.login.msa.akadns6.net
-ipv6.login.live.com
