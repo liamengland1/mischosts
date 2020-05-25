@@ -2328,7 +2328,6 @@
 0.0.0.0 artistheader.scdn.co
 0.0.0.0 audio-fa.scdn.co
 0.0.0.0 audio-gc.scdn.co
-0.0.0.0 audio4-fa.scdn.co
 0.0.0.0 car-dev.scdn.co
 0.0.0.0 car-prod.scdn.co
 0.0.0.0 car-staging.scdn.co
@@ -2342,7 +2341,6 @@
 0.0.0.0 download.scdn.co
 0.0.0.0 go.scdn.co
 0.0.0.0 heads-fa.scdn.co
-0.0.0.0 i.scdn.co
 0.0.0.0 lineup-images.scdn.co
 0.0.0.0 live-tile-images.scdn.co
 0.0.0.0 login-signup.scdn.co
@@ -2369,7 +2367,6 @@
 0.0.0.0 u.scdn.co
 0.0.0.0 upgrade.scdn.co
 0.0.0.0 upsell.scdn.co
-0.0.0.0 video-fa.scdn.co
 0.0.0.0 welcome-images.scdn.co
 0.0.0.0 www.scdn.co
 0.0.0.0 upgrade.scdn.com
