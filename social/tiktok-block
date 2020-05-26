@@ -175,6 +175,7 @@
 0.0.0.0 api16-core-c-useast2a.musical.ly.edgekey.net
 0.0.0.0 api16-normal-c-useast1a.musical.ly.edgekey.net
 0.0.0.0 api16-normal-c-useast2a.musical.ly.edgekey.net
+0.0.0.0 api2.musical.ly.edgekey.net
 0.0.0.0 api2-16-h2.musical.ly.edgekey.net
 0.0.0.0 api2-16-h2-eagle-useast2a.musical.ly.edgekey.net
 0.0.0.0 api2-16-h2-useast2a.musical.ly.edgekey.net
@@ -320,6 +321,7 @@
 0.0.0.0 api19-core-c-useast2a.musical.ly
 0.0.0.0 api19-normal-c-useast1a.musical.ly
 0.0.0.0 api19-normal-c-useast2a.musical.ly
+0.0.0.0 api2.musical.ly
 0.0.0.0 api2-16-h2.musical.ly
 0.0.0.0 api2-16-h2-eagle-useast2a.musical.ly
 0.0.0.0 api2-16-h2-useast2a.musical.ly
@@ -494,5 +496,3 @@
 0.0.0.0 s0.pstatp.com.xi.zwtianshangm.com
 0.0.0.0 s3.pstatp.com.xi.zwtianshangm.com
 0.0.0.0 is.snssdk.com.xi.zwtianshangm.com
-api2.musical.ly
-api2.musical.ly.edgekey.net
