@@ -1,37 +1,6 @@
 # Use this list to totally block access to tiktok on your network.
 
 0.0.0.0 dsa-video.traffic.bytedance.akadns.net
-0.0.0.0 a1790.b.akamai.net
-0.0.0.0 a1810.b.akamai.net
-0.0.0.0 a1827.b.akamai.net
-0.0.0.0 a1830.b.akamai.net
-0.0.0.0 a1845.b.akamai.net
-0.0.0.0 a1864.b.akamai.net
-0.0.0.0 a1880.b.akamai.net
-0.0.0.0 a1887.b.akamai.net
-0.0.0.0 a1893.b.akamai.net
-0.0.0.0 a1899.b.akamai.net
-0.0.0.0 a1943.b.akamai.net
-0.0.0.0 a1954.b.akamai.net
-0.0.0.0 a1958.b.akamai.net
-0.0.0.0 a1860.dscb.akamai.net
-0.0.0.0 a1965.dscb.akamai.net
-0.0.0.0 a1210.mm1.akamai.net
-0.0.0.0 a1757.mm1.akamai.net
-0.0.0.0 a1931.mm1.akamai.net
-0.0.0.0 a747.mm1.akamai.net
-0.0.0.0 a1815.r.akamai.net
-0.0.0.0 a2047.r.akamai.net
-0.0.0.0 a1831.z.akamai.net
-0.0.0.0 e11942.a.akamaiedge.net
-0.0.0.0 e25691.a.akamaiedge.net
-0.0.0.0 e26771.a.akamaiedge.net
-0.0.0.0 e28622.a.akamaiedge.net
-0.0.0.0 e25689.b.akamaiedge.net
-0.0.0.0 e25690.b.akamaiedge.net
-0.0.0.0 e25696.b.akamaiedge.net
-0.0.0.0 e25689.dscb.akamaiedge.net
-0.0.0.0 e11965.e29.akamaiedge.net
 0.0.0.0 p16hypstarcdn-a.akamaihd.net
 0.0.0.0 mpak-suse1.muscdn.com.akamaized.net
 0.0.0.0 mphw-suse1.muscdn.com.akamaized.net
@@ -206,6 +175,7 @@
 0.0.0.0 s16.ipstatp.com.edgesuite.net
 0.0.0.0 sf16-webcast.muscdn.com.edgesuite.net
 0.0.0.0 sf16-ttcdn-tos.pstatp.com.edgesuite.net
+0.0.0.0 m.tiktok.com.edgesuite.net
 0.0.0.0 s16-ies.tiktok.com.edgesuite.net
 0.0.0.0 t.tiktok.com.edgesuite.net
 0.0.0.0 vm.tiktok.com.edgesuite.net
@@ -439,6 +409,7 @@
 0.0.0.0 cs1.wpc.systemcdn.net
 0.0.0.0 ads.tiktok.com
 0.0.0.0 analytics.tiktok.com
+0.0.0.0 m.tiktok.com
 0.0.0.0 s16-ies.tiktok.com
 0.0.0.0 t.tiktok.com
 0.0.0.0 test-ads.tiktok.com
