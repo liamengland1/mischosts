@@ -13,6 +13,7 @@
 0.0.0.0 p16-tiktokcdn-com.akamaized.net
 0.0.0.0 p16-va-default.akamaized.net
 0.0.0.0 s16-hypstarcdn-com.akamaized.net
+0.0.0.0 v16-tiktokcdn-com.akamaized.net
 0.0.0.0 unpkg.pstatp.com.m.alikunlun.com
 0.0.0.0 i0.pstatp.com.w.alikunlun.com
 0.0.0.0 p.pstatp.com.w.alikunlun.com
@@ -41,6 +42,7 @@
 0.0.0.0 uz91.v.bsgslb.com
 0.0.0.0 uz95.v.bsgslb.com
 0.0.0.0 zttapk.v.bsgslb.com
+0.0.0.0 dm.bytedance.com
 0.0.0.0 internal-lb-all-maliva.bytedns.net
 0.0.0.0 b.l.bytedns.net
 0.0.0.0 k.l.bytedns.net
@@ -51,6 +53,7 @@
 0.0.0.0 abtest-va-tiktok.byteoversea.com
 0.0.0.0 aliva-sentry.byteoversea.com
 0.0.0.0 dm-maliva-quic.byteoversea.com
+0.0.0.0 dm-maliva16.byteoversea.com
 0.0.0.0 frontier.byteoversea.com
 0.0.0.0 gecko-sg.byteoversea.com
 0.0.0.0 log.byteoversea.com
@@ -99,6 +102,7 @@
 0.0.0.0 sgali1.ws.byteoversea.net
 0.0.0.0 pull-f5-ab.tiktokcdn.com.c.bytetcdn.com
 0.0.0.0 pull-fcdn-self-oversea.s.bytetcdn.com
+0.0.0.0 dm.bytedance.com.w.cdngslb.com
 0.0.0.0 c.pstatp.com.w.cdngslb.com
 0.0.0.0 v10.pstatp.com.cdnle.com
 0.0.0.0 legroup21.gslb.cdnle.com
@@ -106,6 +110,7 @@
 0.0.0.0 d2.pstatp.com.cloudcdn.net
 0.0.0.0 v0.pstatp.com.cloudcdn.net
 0.0.0.0 v2.pstatp.com.cloudcdn.net
+0.0.0.0 v24.muscdn.com.cdn.cloudflare.net
 0.0.0.0 d10br2bir1hdgs.cloudfront.net
 0.0.0.0 d1fet3u01ea8tr.cloudfront.net
 0.0.0.0 d1q3ka81k9jzg1.cloudfront.net
@@ -122,6 +127,7 @@
 0.0.0.0 v2.pstatp.com.cloudglb.com
 0.0.0.0 c01.i07.arnic.lv3.cloudglb.com
 0.0.0.0 a9.pstatp.com.cdn.dnsv1.com
+0.0.0.0 dm-maliva16.byteoversea.com.edgekey.net
 0.0.0.0 log.byteoversea.com.edgekey.net
 0.0.0.0 log16.byteoversea.com.edgekey.net
 0.0.0.0 starling-oversea.byteoversea.com.edgekey.net
@@ -146,11 +152,13 @@
 0.0.0.0 api16-normal-c-useast2a.musical.ly.edgekey.net
 0.0.0.0 api2.musical.ly.edgekey.net
 0.0.0.0 api2-16-h2.musical.ly.edgekey.net
+0.0.0.0 api2-16-h2-eagle.musical.ly.edgekey.net
 0.0.0.0 api2-16-h2-eagle-useast2a.musical.ly.edgekey.net
 0.0.0.0 api2-16-h2-useast2a.musical.ly.edgekey.net
 0.0.0.0 applog.musical.ly.edgekey.net
 0.0.0.0 dm16.musical.ly.edgekey.net
 0.0.0.0 jsb-va.musical.ly.edgekey.net
+0.0.0.0 log2-useast2a.musical.ly.edgekey.net
 0.0.0.0 rtlog.musical.ly.edgekey.net
 0.0.0.0 webcast.musical.ly.edgekey.net
 0.0.0.0 webcast-useast1a.musical.ly.edgekey.net
@@ -191,10 +199,12 @@
 0.0.0.0 s16a.tiktokcdn.com.edgesuite.net
 0.0.0.0 s16b.tiktokcdn.com.edgesuite.net
 0.0.0.0 sf16-webcast.tiktokcdn.com.edgesuite.net
+0.0.0.0 v16.tiktokcdn.com.edgesuite.net
 0.0.0.0 log.tiktokv.com.edgesuite.net
 0.0.0.0 mon.tiktokv.com.edgesuite.net
 0.0.0.0 xlog.tiktokv.com.edgesuite.net
 0.0.0.0 gecko-va.musical.ly.edgesuite.net
+0.0.0.0 imapi-16.musical.ly.edgesuite.net
 0.0.0.0 log2.musical.ly.edgesuite.net
 0.0.0.0 mon.musical.ly.edgesuite.net
 0.0.0.0 verification-va.musical.ly.edgesuite.net
@@ -303,6 +313,7 @@
 0.0.0.0 v-akamai-audit-p.muscdn.com
 0.0.0.0 app.musemuse.cn
 0.0.0.0 share.musemuse.cn
+0.0.0.0 musical.ly
 0.0.0.0 api16-core-c-useast1a.musical.ly
 0.0.0.0 api16-core-c-useast2a.musical.ly
 0.0.0.0 api16-normal-c-useast1a.musical.ly
@@ -313,6 +324,7 @@
 0.0.0.0 api19-normal-c-useast2a.musical.ly
 0.0.0.0 api2.musical.ly
 0.0.0.0 api2-16-h2.musical.ly
+0.0.0.0 api2-16-h2-eagle.musical.ly
 0.0.0.0 api2-16-h2-eagle-useast2a.musical.ly
 0.0.0.0 api2-16-h2-useast2a.musical.ly
 0.0.0.0 api2-19-h2.musical.ly
@@ -322,15 +334,18 @@
 0.0.0.0 dm16.musical.ly
 0.0.0.0 frontier.musical.ly
 0.0.0.0 gecko-va.musical.ly
+0.0.0.0 imapi-16.musical.ly
 0.0.0.0 jsb-va.musical.ly
 0.0.0.0 log.musical.ly
 0.0.0.0 log2.musical.ly
+0.0.0.0 log2-useast2a.musical.ly
 0.0.0.0 mon.musical.ly
 0.0.0.0 rtlog.musical.ly
 0.0.0.0 verification-va.musical.ly
 0.0.0.0 webcast.musical.ly
 0.0.0.0 webcast-useast1a.musical.ly
 0.0.0.0 webcast-useast2a.musical.ly
+0.0.0.0 www.musical.ly
 0.0.0.0 xlog-va.musical.ly
 0.0.0.0 flv-l11.tiktokcdn.liveplay.myqcloud.com
 0.0.0.0 hls-l11.tiktokcdn.liveplay.myqcloud.com
@@ -427,6 +442,7 @@
 0.0.0.0 patrol-sg.snssdk.com
 0.0.0.0 rc.snssdk.com
 0.0.0.0 verify.snssdk.com
+0.0.0.0 tiktok.com
 0.0.0.0 ads.tiktok.com
 0.0.0.0 analytics.tiktok.com
 0.0.0.0 m.tiktok.com
@@ -455,14 +471,18 @@
 0.0.0.0 s16a.tiktokcdn.com
 0.0.0.0 s16b.tiktokcdn.com
 0.0.0.0 sf16-webcast.tiktokcdn.com
+0.0.0.0 v16.tiktokcdn.com
 0.0.0.0 v16m.tiktokcdn.com
 0.0.0.0 v19.tiktokcdn.com
+0.0.0.0 v24.tiktokcdn.com
+0.0.0.0 tiktokv.com
 0.0.0.0 dm16.tiktokv.com
 0.0.0.0 ib.tiktokv.com
 0.0.0.0 log.tiktokv.com
 0.0.0.0 mon.tiktokv.com
 0.0.0.0 rtlog.tiktokv.com
 0.0.0.0 webcast.tiktokv.com
+0.0.0.0 www.tiktokv.com
 0.0.0.0 xlog.tiktokv.com
 0.0.0.0 business.topbuzz.com
 0.0.0.0 business-sg.topbuzz.com
