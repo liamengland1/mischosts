@@ -2,6 +2,7 @@
 
 0.0.0.0 dsa-video.traffic.bytedance.akadns.net
 0.0.0.0 p16hypstarcdn-a.akamaihd.net
+0.0.0.0 v16m.hypstarcdn.com.akamaized.net
 0.0.0.0 mpak-suse1.muscdn.com.akamaized.net
 0.0.0.0 mphw-suse1.muscdn.com.akamaized.net
 0.0.0.0 pull-hls-f5.tiktokcdn.com.akamaized.net
@@ -167,7 +168,12 @@
 0.0.0.0 verify-sg.byteoversea.com.edgesuite.net
 0.0.0.0 xlog.byteoversea.com.edgesuite.net
 0.0.0.0 xlog-va.byteoversea.com.edgesuite.net
+0.0.0.0 p16.hypstarcdn.com.edgesuite.net
 0.0.0.0 s16.hypstarcdn.com.edgesuite.net
+0.0.0.0 s16a.hypstarcdn.com.edgesuite.net
+0.0.0.0 s16b.hypstarcdn.com.edgesuite.net
+0.0.0.0 sf16-webcast.hypstarcdn.com.edgesuite.net
+0.0.0.0 v16.hypstarcdn.com.edgesuite.net
 0.0.0.0 sf-tb-sg.ibytedtos.com.edgesuite.net
 0.0.0.0 p16-tiktok-sg.ibyteimg.com.edgesuite.net
 0.0.0.0 p16-tiktok-va.ibyteimg.com.edgesuite.net
@@ -197,9 +203,22 @@
 0.0.0.0 p16-sg-default.edgesuite.net
 0.0.0.0 sf16-sg-default.edgesuite.net
 0.0.0.0 bytedance.map.fastly.net
+0.0.0.0 h1.bytedance.map.fastly.net
 0.0.0.0 video.h1.bytedance.map.fastly.net
 0.0.0.0 ttopencdn.gshifen.com
+0.0.0.0 p.hypstarcdn.com
+0.0.0.0 p16.hypstarcdn.com
+0.0.0.0 p19.hypstarcdn.com
 0.0.0.0 s16.hypstarcdn.com
+0.0.0.0 s16a.hypstarcdn.com
+0.0.0.0 s16b.hypstarcdn.com
+0.0.0.0 sf16-webcast.hypstarcdn.com
+0.0.0.0 sf19-webcast.hypstarcdn.com
+0.0.0.0 sf21-webcast.hypstarcdn.com
+0.0.0.0 v.hypstarcdn.com
+0.0.0.0 v16.hypstarcdn.com
+0.0.0.0 v16m.hypstarcdn.com
+0.0.0.0 v19.hypstarcdn.com
 0.0.0.0 sf-tb-sg.ibytedtos.com
 0.0.0.0 sf-tk-sg.ibytedtos.com
 0.0.0.0 sf16-muse-va.ibytedtos.com
@@ -224,6 +243,7 @@
 0.0.0.0 v1.ipstatp.com
 0.0.0.0 a15-tb.isnssdk.com
 0.0.0.0 a16-tb.isnssdk.com
+0.0.0.0 aweme.isnssdk.com
 0.0.0.0 cdn.isnssdk.com
 0.0.0.0 client_monitor.isnssdk.com
 0.0.0.0 clientmonitor.isnssdk.com
@@ -280,6 +300,7 @@
 0.0.0.0 sf16-sg.muscdn.com
 0.0.0.0 sf16-webcast.muscdn.com
 0.0.0.0 sf19-webcast.muscdn.com
+0.0.0.0 v-akamai-audit-p.muscdn.com
 0.0.0.0 app.musemuse.cn
 0.0.0.0 share.musemuse.cn
 0.0.0.0 api16-core-c-useast1a.musical.ly
@@ -399,13 +420,13 @@
 0.0.0.0 log-tb.sgsnssdk.com
 0.0.0.0 mon.sgsnssdk.com
 0.0.0.0 vas.sgsnssdk.com
+0.0.0.0 aweme.snssdk.com
 0.0.0.0 i.snssdk.com
 0.0.0.0 is.snssdk.com
 0.0.0.0 mcs.snssdk.com
 0.0.0.0 patrol-sg.snssdk.com
 0.0.0.0 rc.snssdk.com
 0.0.0.0 verify.snssdk.com
-0.0.0.0 cs1.wpc.systemcdn.net
 0.0.0.0 ads.tiktok.com
 0.0.0.0 analytics.tiktok.com
 0.0.0.0 m.tiktok.com
@@ -465,4 +486,5 @@
 0.0.0.0 p3.pstatp.com.xi.zwtianshangm.com
 0.0.0.0 s0.pstatp.com.xi.zwtianshangm.com
 0.0.0.0 s3.pstatp.com.xi.zwtianshangm.com
+0.0.0.0 aweme.snssdk.com.xi.zwtianshangm.com
 0.0.0.0 is.snssdk.com.xi.zwtianshangm.com
