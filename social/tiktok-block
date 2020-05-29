@@ -64,6 +64,8 @@
 0.0.0.0 mon-va.byteoversea.com
 0.0.0.0 rtlog.byteoversea.com
 0.0.0.0 sdfp-va.byteoversea.com
+0.0.0.0 sg.byteoversea.com
+0.0.0.0 sg-link.byteoversea.com
 0.0.0.0 sgali-mcs.byteoversea.com
 0.0.0.0 smr-aliva.byteoversea.com
 0.0.0.0 smr-sg.byteoversea.com
@@ -85,6 +87,7 @@
 0.0.0.0 equinix-iad-cache01.l.byteoversea.net
 0.0.0.0 equinix-sjc-v1.l.byteoversea.net
 0.0.0.0 equinix-sjc-v2.l.byteoversea.net
+0.0.0.0 gs-sin-api1.l.byteoversea.net
 0.0.0.0 mvaali1.l.byteoversea.net
 0.0.0.0 mvaali2.l.byteoversea.net
 0.0.0.0 sgali3.l.byteoversea.net
@@ -95,6 +98,7 @@
 0.0.0.0 maliva-normal-lb.byteoversea.net
 0.0.0.0 quic-normal-lb-gcp.byteoversea.net
 0.0.0.0 security-lb-maliva.byteoversea.net
+0.0.0.0 tiktok-lb-alisg.byteoversea.net
 0.0.0.0 tiktok-lb-maliva.byteoversea.net
 0.0.0.0 topbuzz-lb-alisg.byteoversea.net
 0.0.0.0 topbuzz-lb-maliva.byteoversea.net
