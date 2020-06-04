@@ -78,7 +78,6 @@
 0.0.0.0 web.vortex.data.microsoft.com.akadns.net
 0.0.0.0 modern.watson.data.microsoft.com.akadns.net
 0.0.0.0 redir.metaservices.microsoft.com.akadns.net
-0.0.0.0 fe2.update.microsoft.com.akadns.net
 0.0.0.0 statsfe2.update.microsoft.com.akadns.net
 0.0.0.0 redirection.prod.cms.msn.com.akadns.net
 0.0.0.0 apac1.notify.windows.com.akadns.net
@@ -505,6 +504,8 @@
 0.0.0.0 outlook-exo.trafficmanager.net
 0.0.0.0 settingsfd-geo.trafficmanager.net
 0.0.0.0 tele.trafficmanager.net
+0.0.0.0 tsfe.trafficmanager.net
+0.0.0.0 tsfe-prod-bn2.trafficmanager.net
 0.0.0.0 view.wac.trafficmanager.net
 0.0.0.0 wd-prod-ss.trafficmanager.net
 0.0.0.0 wd-prod-ss-as.trafficmanager.net
