@@ -376,6 +376,7 @@
 0.0.0.0 msa.s2s.watson.telemetry.microsoft.com
 0.0.0.0 uhf.microsoft.com
 0.0.0.0 telemetry.urs.microsoft.com
+0.0.0.0 x.urs.microsoft.com
 0.0.0.0 watson.microsoft.com
 0.0.0.0 survey.watson.microsoft.com
 0.0.0.0 statsfe1.ws.microsoft.com
@@ -662,4 +663,3 @@
 0.0.0.0 weus2watcab02.blob.core.windows.net
 0.0.0.0 onedrive-collection.device.mobileengagement.windows.net
 0.0.0.0 telemetry.remoteapp.windowsazure.com
-x.urs.microsoft.com
