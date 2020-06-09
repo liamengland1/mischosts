@@ -187,6 +187,7 @@
 0.0.0.0 usnyc.ce.apple-dns.net
 0.0.0.0 edge-003.usnyc.ce.apple-dns.net
 0.0.0.0 edge-035.usnyc.ce.apple-dns.net
+0.0.0.0 feedbackws.fe.apple-dns.net
 0.0.0.0 metrics.fe.apple-dns.net
 0.0.0.0 me.apple-dns.net
 0.0.0.0 books-analytics-events.news.apple-dns.net
@@ -203,12 +204,12 @@
 0.0.0.0 cstat.apple.com.edgesuite.net
 0.0.0.0 ax.phobos.apple.com.edgesuite.net
 0.0.0.0 gcs-eu-00002.content-storage-download.googleapis.com
+0.0.0.0 feedbackws.icloud.com
 0.0.0.0 metrics.icloud.com
+0.0.0.0 messaging.metrics.icloud.com
 0.0.0.0 apps.itunes-nocookie.com
 0.0.0.0 accertify.mzstatic.com
 0.0.0.0 dzc-metrics.mzstatic.com
 0.0.0.0 itc.mzstatic.com
 0.0.0.0 metrics.mzstatic.com
 0.0.0.0 store.mzstatic.com
-feedbackws.icloud.com
-feedbackws.fe.apple-dns.net
