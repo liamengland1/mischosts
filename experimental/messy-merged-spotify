@@ -1862,7 +1862,6 @@
 0.0.0.0 squadcdn.spotify.map.fastly.net
 0.0.0.0 withspotify.spotify.map.fastly.net
 0.0.0.0 prod.www-fastly-com.map.fastly.net
-0.0.0.0 sp-bootstrap.global.ssl.fastly.net
 0.0.0.0 beta.spotify.map.fastlylb.net
 0.0.0.0 prod.spotify.map.fastlylb.net
 0.0.0.0 prod.spotify-heads.map.fastlylb.net
