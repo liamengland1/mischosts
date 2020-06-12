@@ -49,7 +49,10 @@
 0.0.0.0 videoarch-lb-maliva.byteoversea.net
 0.0.0.0 log.byteoversea.com.edgekey.net
 0.0.0.0 i16-tb.isnssdk.com.edgekey.net
+0.0.0.0 log-va.tiktokv.com.edgekey.net
 0.0.0.0 verification-va.byteoversea.com.edgesuite.net
+0.0.0.0 gecko-va.tiktokv.com.edgesuite.net
+0.0.0.0 mon-va.tiktokv.com.edgesuite.net
 0.0.0.0 a15-tb.isnssdk.com
 0.0.0.0 a16-tb.isnssdk.com
 0.0.0.0 cdn.isnssdk.com
@@ -104,16 +107,18 @@
 0.0.0.0 analytics.tiktok.com
 0.0.0.0 test-ads.tiktok.com
 0.0.0.0 dm16.tiktokv.com
+0.0.0.0 gecko-va.tiktokv.com
 0.0.0.0 ib.tiktokv.com
 0.0.0.0 log.tiktokv.com
+0.0.0.0 log-va.tiktokv.com
 0.0.0.0 mon.tiktokv.com
+0.0.0.0 mon-va.tiktokv.com
 0.0.0.0 rtlog.tiktokv.com
 0.0.0.0 xlog.tiktokv.com
 0.0.0.0 business.topbuzz.com
 0.0.0.0 business-sg.topbuzz.com
 0.0.0.0 wshifen.com
 0.0.0.0 www.wshifen.com
-
 
 ### experimental - third party cdn urls - may break things ###
 0.0.0.0 p16hypstarcdn-a.akamaihd.net
