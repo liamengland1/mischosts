@@ -46,7 +46,9 @@
 0.0.0.0 zong-lhe-v1.l.byteoversea.net
 0.0.0.0 maliva-normal-lb.byteoversea.net
 0.0.0.0 security-lb-maliva.byteoversea.net
+0.0.0.0 tiktok-lb-alisg.byteoversea.net
 0.0.0.0 videoarch-lb-maliva.byteoversea.net
+0.0.0.0 sgali1.ws.byteoversea.net
 0.0.0.0 log.byteoversea.com.edgekey.net
 0.0.0.0 i16-tb.isnssdk.com.edgekey.net
 0.0.0.0 log-va.tiktokv.com.edgekey.net
@@ -106,15 +108,24 @@
 0.0.0.0 ads.tiktok.com
 0.0.0.0 analytics.tiktok.com
 0.0.0.0 test-ads.tiktok.com
+0.0.0.0 applog.tiktokv.com
 0.0.0.0 dm16.tiktokv.com
+0.0.0.0 dm16-useast1a.tiktokv.com
+0.0.0.0 dm16-useast2a.tiktokv.com
+0.0.0.0 dm16-va.tiktokv.com
+0.0.0.0 frontier.tiktokv.com
+0.0.0.0 gecko-sg.tiktokv.com
 0.0.0.0 gecko-va.tiktokv.com
 0.0.0.0 ib.tiktokv.com
+0.0.0.0 jsb-va.tiktokv.com
 0.0.0.0 log.tiktokv.com
 0.0.0.0 log-va.tiktokv.com
 0.0.0.0 mon.tiktokv.com
 0.0.0.0 mon-va.tiktokv.com
 0.0.0.0 rtlog.tiktokv.com
+0.0.0.0 verification-va.tiktokv.com
 0.0.0.0 xlog.tiktokv.com
+0.0.0.0 xlog-va.tiktokv.com
 0.0.0.0 business.topbuzz.com
 0.0.0.0 business-sg.topbuzz.com
 0.0.0.0 wshifen.com
@@ -308,3 +319,7 @@
 ### breaks direct messages ###
 # 0.0.0.0 imapi-mu.isnssdk.com
 # 0.0.0.0 imapi-sg.isnssdk.com
+
+### breaks links in bio ###
+# 0.0.0.0 tiktok-lb-maliva.byteoversea.net
+# 0.0.0.0 va-link.byteoversea.com
