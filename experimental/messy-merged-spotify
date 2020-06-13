@@ -3356,7 +3356,6 @@
 0.0.0.0 cms.spotify.com
 0.0.0.0 www.contest.codequest.spotify.com
 0.0.0.0 www.codequest.spotify.com
-0.0.0.0 community.spotify.com
 0.0.0.0 community-stage.spotify.com
 0.0.0.0 crashdump.spotify.com
 0.0.0.0 cws.spotify.com
@@ -3872,4 +3871,9 @@
 # 0.0.0.0 audio-fa.scdn.co
 # 0.0.0.0 audio-sp-atl-13.spotifycdn.net
 
-0.0.0.0 login5.spotify.com
+# 0.0.0.0 login5.spotify.com
+
+# spotify hpto - Homepage Takeover
+sam-hpto.com
+www.sam-hpto.com
+umg-hpto-prod.s3.amazonaws.com
