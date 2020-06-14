@@ -66,12 +66,17 @@
 0.0.0.0 js.moatads.com
 0.0.0.0 vt.myvisualiq.net
 0.0.0.0 cdn.optimizely.com
+0.0.0.0 cont-1.p-cdn.us
+0.0.0.0 soundcloud-pax.pandora.com
 0.0.0.0 secure.quantserve.com
 0.0.0.0 u.scdn.co
 0.0.0.0 b.scorecardresearch.com
 0.0.0.0 sb.scorecardresearch.com
 0.0.0.0 bs.serving-sys.com
 0.0.0.0 ds.serving-sys.com
+0.0.0.0 promoted.sndcdn.com
+0.0.0.0 promoted.soundcloud.com
+0.0.0.0 telemetry.soundcloud.com
 0.0.0.0 adeventtracker.spotify.com
 0.0.0.0 ads.spotify.com
 0.0.0.0 ads-fa.spotify.com
@@ -88,7 +93,3 @@
 0.0.0.0 seen-on-screen.thewhizmarketing.com
 0.0.0.0 tracking.tidalhifi.com
 0.0.0.0 runspot4.tritondigital.com
-cont-1.p-cdn.us
-promoted.sndcdn.com
-soundcloud-pax.pandora.com
-telemetry.soundcloud.com
