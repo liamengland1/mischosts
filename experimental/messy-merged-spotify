@@ -3878,5 +3878,6 @@
 0.0.0.0 umg-hpto-prod.s3.amazonaws.com
 
 # block spotify client updates
+0.0.0.0 download.scdn.co
 0.0.0.0 upgrade.scdn.co
 0.0.0.0 upgrade.spotify.com
