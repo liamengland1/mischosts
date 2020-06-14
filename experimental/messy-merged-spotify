@@ -2661,7 +2661,6 @@
 0.0.0.0 u.scdn.co
 0.0.0.0 upsell.scdn.co
 0.0.0.0 welcome-images.scdn.co
-0.0.0.0 upgrade.scdn.com
 0.0.0.0 b.scorecardresearch.com
 0.0.0.0 sb.scorecardresearch.com
 0.0.0.0 udm.scorecardresearch.com
@@ -3874,6 +3873,10 @@
 # 0.0.0.0 login5.spotify.com
 
 # spotify hpto - Homepage Takeover
-sam-hpto.com
-www.sam-hpto.com
-umg-hpto-prod.s3.amazonaws.com
+0.0.0.0 sam-hpto.com
+0.0.0.0 www.sam-hpto.com
+0.0.0.0 umg-hpto-prod.s3.amazonaws.com
+
+# block spotify client updates
+0.0.0.0 upgrade.scdn.co
+0.0.0.0 upgrade.spotify.com
