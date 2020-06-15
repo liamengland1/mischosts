@@ -1366,8 +1366,6 @@
 0.0.0.0 a88-221-144-210.deploy.static.akamaitechnologies.com
 0.0.0.0 audio-akp-bbr-spotify-com.akamaized.net
 0.0.0.0 contentclick.akamaized.net
-0.0.0.0 heads-ak-spotify-com.akamaized.net
-0.0.0.0 heads4-ak-spotify-com.akamaized.net
 0.0.0.0 aax-us-west.amazon-adsystem.com
 0.0.0.0 ec2-52-212-113-202.eu-west-1.compute.amazonaws.com
 0.0.0.0 ec2-54-246-172-197.eu-west-1.compute.amazonaws.com
@@ -1739,10 +1737,6 @@
 0.0.0.0 audio-akp.spotify.com.edgesuite.net
 0.0.0.0 audio4-ak.spotify.com.edgesuite.net
 0.0.0.0 audio4-akp.spotify.com.edgesuite.net
-0.0.0.0 heads-ak.spotify.com.edgesuite.net
-0.0.0.0 heads-akp.spotify.com.edgesuite.net
-0.0.0.0 heads4-ak.spotify.com.edgesuite.net
-0.0.0.0 heads4-akp.spotify.com.edgesuite.net
 0.0.0.0 m1.emea.2mdn.net.edgesuite.net
 0.0.0.0 www.eltrafiko.com
 0.0.0.0 static.estebull.com
@@ -1864,7 +1858,6 @@
 0.0.0.0 prod.www-fastly-com.map.fastly.net
 0.0.0.0 beta.spotify.map.fastlylb.net
 0.0.0.0 prod.spotify.map.fastlylb.net
-0.0.0.0 prod.spotify-heads.map.fastlylb.net
 0.0.0.0 prod.b.ssl.us-eu.fastlylb.net
 0.0.0.0 fgoogle.com
 0.0.0.0 cdn.file2desktop.com
@@ -2640,7 +2633,6 @@
 0.0.0.0 crusader.scdn.co
 0.0.0.0 download.scdn.co
 0.0.0.0 go.scdn.co
-0.0.0.0 heads-fa.scdn.co
 0.0.0.0 live-tile-images.scdn.co
 0.0.0.0 login-signup.scdn.co
 0.0.0.0 merch-img.scdn.co
@@ -3401,16 +3393,6 @@
 0.0.0.0 lon.weblb-wg.gslb.spotify.com
 0.0.0.0 sto.weblb-wg.gslb.spotify.com
 0.0.0.0 guc-dealer-ssl.spotify.com
-0.0.0.0 heads-ak.spotify.com
-0.0.0.0 heads-akp.spotify.com
-0.0.0.0 heads-cf.spotify.com
-0.0.0.0 heads-ec.spotify.com
-0.0.0.0 heads-ecb.spotify.com
-0.0.0.0 heads-ecp.spotify.com
-0.0.0.0 heads-fa.spotify.com
-0.0.0.0 heads-fab.spotify.com
-0.0.0.0 heads-fac.spotify.com
-0.0.0.0 heads-l3.spotify.com
 0.0.0.0 hrblog.spotify.com
 0.0.0.0 image-upload.spotify.com
 0.0.0.0 images.spotify.com
