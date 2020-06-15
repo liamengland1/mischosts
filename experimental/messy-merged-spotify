@@ -2832,7 +2832,6 @@
 0.0.0.0 analytics-classic.spotify.com
 0.0.0.0 analytics-preview.spotify.com
 0.0.0.0 apex.spotify.com
-0.0.0.0 api-partner.spotify.com
 0.0.0.0 api-tv.spotify.com
 0.0.0.0 zlink.app.spotify.com
 0.0.0.0 artist-identity-image.spotify.com
