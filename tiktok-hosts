@@ -4,11 +4,16 @@
 0.0.0.0 musically.app.link
 0.0.0.0 musically-alternate.app.link
 0.0.0.0 app-measurement.com
+0.0.0.0 dm.bytedance.net
 0.0.0.0 p9-security.byteimg.com
 0.0.0.0 byteoversea.com
+0.0.0.0 abtest-sg.byteoversea.com
 0.0.0.0 abtest-va-tiktok.byteoversea.com
 0.0.0.0 aliva-sentry.byteoversea.com
+0.0.0.0 developer-sg.byteoversea.com
 0.0.0.0 dm-maliva-quic.byteoversea.com
+0.0.0.0 dm-maliva16.byteoversea.com
+0.0.0.0 dm16.byteoversea.com
 0.0.0.0 frontier.byteoversea.com
 0.0.0.0 gecko-sg.byteoversea.com
 0.0.0.0 log.byteoversea.com
@@ -52,6 +57,7 @@
 0.0.0.0 log.byteoversea.com.edgekey.net
 0.0.0.0 i16-tb.isnssdk.com.edgekey.net
 0.0.0.0 log-va.tiktokv.com.edgekey.net
+0.0.0.0 developer-sg.byteoversea.com.edgesuite.net
 0.0.0.0 verification-va.byteoversea.com.edgesuite.net
 0.0.0.0 gecko-va.tiktokv.com.edgesuite.net
 0.0.0.0 mon-va.tiktokv.com.edgesuite.net
@@ -92,6 +98,7 @@
 0.0.0.0 xlog-va.musical.ly
 0.0.0.0 snssdk1180.onelink.me
 0.0.0.0 snssdk1233.onelink.me
+0.0.0.0 dm.pstatp.com
 0.0.0.0 dm.sgsnssdk.com
 0.0.0.0 i-tb.sgsnssdk.com
 0.0.0.0 isub-tb.sgsnssdk.com
@@ -100,7 +107,9 @@
 0.0.0.0 mon.sgsnssdk.com
 0.0.0.0 vas.sgsnssdk.com
 0.0.0.0 i.snssdk.com
+0.0.0.0 ib.snssdk.com
 0.0.0.0 is.snssdk.com
+0.0.0.0 log.snssdk.com
 0.0.0.0 mcs.snssdk.com
 0.0.0.0 patrol-sg.snssdk.com
 0.0.0.0 rc.snssdk.com
@@ -120,6 +129,8 @@
 0.0.0.0 jsb-va.tiktokv.com
 0.0.0.0 log.tiktokv.com
 0.0.0.0 log-va.tiktokv.com
+0.0.0.0 log16-normal-c-useast1a.tiktokv.com
+0.0.0.0 log16-normal-c-useast2a.tiktokv.com
 0.0.0.0 mon.tiktokv.com
 0.0.0.0 mon-va.tiktokv.com
 0.0.0.0 rtlog.tiktokv.com
@@ -128,6 +139,7 @@
 0.0.0.0 xlog-va.tiktokv.com
 0.0.0.0 business.topbuzz.com
 0.0.0.0 business-sg.topbuzz.com
+0.0.0.0 dm.toutiao.com
 0.0.0.0 wshifen.com
 0.0.0.0 www.wshifen.com
 
