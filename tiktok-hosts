@@ -199,6 +199,7 @@
 0.0.0.0 ssl.ipstatp.com.edgekey.net
 0.0.0.0 p16.pstatp.com.edgekey.net
 0.0.0.0 s16.ipstatp.com.edgesuite.net
+0.0.0.0 sf16-ttcdn-tos.ipstatp.com.edgesuite.net
 0.0.0.0 sf16-ttcdn-tos.pstatp.com.edgesuite.net
 0.0.0.0 ipstatp.com
 0.0.0.0 a.ipstatp.com
@@ -213,6 +214,7 @@
 0.0.0.0 s1.ipstatp.com
 0.0.0.0 s16.ipstatp.com
 0.0.0.0 s2.ipstatp.com
+0.0.0.0 sf16-ttcdn-tos.ipstatp.com
 0.0.0.0 v.ipstatp.com
 0.0.0.0 v1.ipstatp.com
 0.0.0.0 ttopencdn.jomodns.com
@@ -286,6 +288,7 @@
 0.0.0.0 s8.pstatp.com
 0.0.0.0 s9.pstatp.com
 0.0.0.0 sf1-ttcdn-tos.pstatp.com
+0.0.0.0 sf1-vcloudcdn.pstatp.com
 0.0.0.0 sf16-ttcdn-tos.pstatp.com
 0.0.0.0 sf3-ttcdn-tos.pstatp.com
 0.0.0.0 sf6-ttcdn-tos.pstatp.com
@@ -318,6 +321,7 @@
 0.0.0.0 v4.pstatp.com.wscdns.com
 0.0.0.0 pb1.pstatp.com.wsglb0.com
 0.0.0.0 sf1-ttcdn-tos.pstatp.com.wsglb0.com
+0.0.0.0 sf1-vcloudcdn.pstatp.com.wsglb0.com
 0.0.0.0 p3.pstatp.com.xi.zwtianshangm.com
 0.0.0.0 s0.pstatp.com.xi.zwtianshangm.com
 0.0.0.0 s3.pstatp.com.xi.zwtianshangm.com
