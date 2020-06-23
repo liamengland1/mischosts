@@ -55,8 +55,10 @@
 0.0.0.0 books.apple.com
 0.0.0.0 api.books.apple.com
 0.0.0.0 books-analytics-events.apple.com
+0.0.0.0 c.apple.com
 0.0.0.0 cds.apple.com
 0.0.0.0 cdsassets.apple.com
+0.0.0.0 chatbox-web.apple.com
 0.0.0.0 cl1.apple.com
 0.0.0.0 cl2.apple.com
 0.0.0.0 cl3.apple.com
