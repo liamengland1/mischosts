@@ -5067,7 +5067,9 @@
 0.0.0.0 adnxsid.com
 0.0.0.0 adnz.co
 0.0.0.0 c00.adobe.com
+0.0.0.0 lightspeedresearch-rt-prod2-cus.campaign.adobe.com
 0.0.0.0 p13n.adobe.io
+0.0.0.0 lightspeedresearch-rt-prod2-t.adobe-campaign.com
 0.0.0.0 adobe-update.com
 0.0.0.0 adobeaflash.com
 0.0.0.0 adobedownloadupdate.com
@@ -7866,17 +7868,20 @@
 0.0.0.0 ec2-34-203-250-252.compute-1.amazonaws.com
 0.0.0.0 lively-live-web-1571565408.ap-northeast-1.elb.amazonaws.com
 0.0.0.0 share-1070666956.ap-northeast-1.elb.amazonaws.com
+0.0.0.0 lightspee-customer-6n4sm2q8sot0-836084464.eu-west-1.elb.amazonaws.com
 0.0.0.0 onelink-1664648862.eu-west-1.elb.amazonaws.com
 0.0.0.0 58caebff-bugsentrycore-riv-aa3a-751432187.us-east-1.elb.amazonaws.com
 0.0.0.0 baconredirects-elb-1w79jy7i6g0wf-1154668140.us-east-1.elb.amazonaws.com
 0.0.0.0 carta-elb-202288709.us-east-1.elb.amazonaws.com
 0.0.0.0 cmp-server-493810428.us-east-1.elb.amazonaws.com
+0.0.0.0 dcs-edge-va6-802167536.us-east-1.elb.amazonaws.com
 0.0.0.0 elb-for-front-1752188976.us-east-1.elb.amazonaws.com
 0.0.0.0 events-endpoint-b-1623273513.us-east-1.elb.amazonaws.com
 0.0.0.0 ghostery-metrics-713401778.us-east-1.elb.amazonaws.com
 0.0.0.0 offerit-track-lb-653047011.us-east-1.elb.amazonaws.com
 0.0.0.0 yd-production-alb-358996285.us-east-1.elb.amazonaws.com
 0.0.0.0 delivery-tracker-1748394643.us-east-2.elb.amazonaws.com
+0.0.0.0 kellogg-mid-prod1-ssl-93560-964518506.us-west-2.elb.amazonaws.com
 0.0.0.0 pixel-service-prod-1976456315.us-west-2.elb.amazonaws.com
 0.0.0.0 events.eu-central-1.amazonaws.com
 0.0.0.0 firehose.eu-central-1.amazonaws.com
@@ -12560,6 +12565,7 @@
 0.0.0.0 meijersa.bighosted.com
 0.0.0.0 bigjetplane.com
 0.0.0.0 bigleads.ru
+0.0.0.0 puzz.biglist.com
 0.0.0.0 bigmagbag.com
 0.0.0.0 bigmind.info
 0.0.0.0 bigmining.com
@@ -19531,6 +19537,7 @@
 0.0.0.0 coinsprize.org
 0.0.0.0 coinsup.com
 0.0.0.0 cointent.com
+0.0.0.0 email.mg.cointiply.com
 0.0.0.0 cointraffic.io
 0.0.0.0 coinverti.com
 0.0.0.0 coinwebmining.com
@@ -22693,7 +22700,9 @@
 0.0.0.0 criteo.com
 0.0.0.0 bidder.criteo.com
 0.0.0.0 cas.criteo.com
+0.0.0.0 widget.va1.vip.prod.criteo.com
 0.0.0.0 rtax.criteo.com
+0.0.0.0 sslwidget.criteo.com
 0.0.0.0 criteo.net
 0.0.0.0 static.criteo.net
 0.0.0.0 critictruck.com
@@ -24132,6 +24141,9 @@
 0.0.0.0 demarcapropia.com
 0.0.0.0 demaror.ro
 0.0.0.0 demdex.net
+0.0.0.0 edge-va6.demdex.net
+0.0.0.0 gslb-2.demdex.net
+0.0.0.0 vivaki.demdex.net
 0.0.0.0 pear.dementiaadvocacy.com
 0.0.0.0 confirm-amzn-account-verifyonline-inc-now.demetkentsitesi.com
 0.0.0.0 helpdesknow-amzn-account-verifyonline-inc-jpbill.demetkentsitesi.com
@@ -26197,6 +26209,7 @@
 0.0.0.0 e2bworld.com
 0.0.0.0 e2ertt.com
 0.0.0.0 www.e2ertt.com
+0.0.0.0 t.e2ma.net
 0.0.0.0 e2parts.com
 0.0.0.0 e331ff4e674c083.com
 0.0.0.0 e347bb14dc71778.com
@@ -26526,6 +26539,7 @@
 0.0.0.0 edgeads.org
 0.0.0.0 edgeadx.net
 0.0.0.0 analytics.edgekey.net
+0.0.0.0 swc.list-manage.com.edgekey.net
 0.0.0.0 moatads.com.edgekey.net
 0.0.0.0 edgeslade.com
 0.0.0.0 analytics.edgesuite.net
@@ -27191,6 +27205,7 @@
 0.0.0.0 reklam.emlakkulisi.com
 0.0.0.0 emlifok.info
 0.0.0.0 emltrk.com
+0.0.0.0 jqoorq8x.emltrk.com
 0.0.0.0 emmanuvalthekkan.com
 0.0.0.0 emmasdiary.in
 0.0.0.0 emmyunfiltered.com
@@ -27208,6 +27223,8 @@
 0.0.0.0 empirecitycasino.com
 0.0.0.0 empiremoney.com
 0.0.0.0 empleaeuskadi.es
+0.0.0.0 employermatchonline.com
+0.0.0.0 www.employermatchonline.com
 0.0.0.0 emporiomiami.com
 0.0.0.0 cdn.empower.net
 0.0.0.0 empregandopessoas.tk
@@ -30292,6 +30309,7 @@
 0.0.0.0 fra-log.com
 0.0.0.0 fraccbosquesdelzumate.tk
 0.0.0.0 fraganza.in
+0.0.0.0 email.fragrancenet.com
 0.0.0.0 frailoffer.com
 0.0.0.0 frame-ur-work.com
 0.0.0.0 frameip.com
@@ -31059,6 +31077,7 @@
 0.0.0.0 g-dent.ru
 0.0.0.0 g-docs.pro
 0.0.0.0 pagerank.g-easy.hu
+0.0.0.0 mailings.g-ha-gmx.net
 0.0.0.0 g-oogl-e.com
 0.0.0.0 g-statistic.com
 0.0.0.0 g0rj1om33t.ru
@@ -31811,6 +31830,7 @@
 0.0.0.0 deals.getphotostick.io
 0.0.0.0 getpopunder.com
 0.0.0.0 getrealestatehelp.com
+0.0.0.0 app.getresponse.com
 0.0.0.0 getrestinfom.su
 0.0.0.0 getrestinfon.su
 0.0.0.0 getrestinfop.su
@@ -34292,6 +34312,7 @@
 0.0.0.0 healthdirect.ie
 0.0.0.0 healthforsurvival.com
 0.0.0.0 healthgainsmd.com
+0.0.0.0 engagement.healthierlivingfreebies.com
 0.0.0.0 healthifoodrecipe.com
 0.0.0.0 healthisp.net
 0.0.0.0 healthoutabol.site
@@ -34868,6 +34889,8 @@
 0.0.0.0 hira-meki.jp
 0.0.0.0 log.hira-meki.jp
 0.0.0.0 hirdchyngnn.bid
+0.0.0.0 hiredpeople.com
+0.0.0.0 www.hiredpeople.com
 0.0.0.0 hiringbai.com
 0.0.0.0 hirmatrix.hu
 0.0.0.0 hiromaplast.com
@@ -39509,6 +39532,8 @@
 0.0.0.0 jobspharma.com
 0.0.0.0 jobsyndicate.com
 0.0.0.0 jobtarget.com
+0.0.0.0 jobtinkers.com
+0.0.0.0 www.jobtinkers.com
 0.0.0.0 jobtome.pw
 0.0.0.0 jobveibsozms.com
 0.0.0.0 jobzad.com
@@ -40730,6 +40755,7 @@
 0.0.0.0 kelderman-evers.nl
 0.0.0.0 widget.kelkoo.com
 0.0.0.0 t.kelkoogroup.net
+0.0.0.0 t.email.na.kelloggs.com
 0.0.0.0 kellyboy49.com
 0.0.0.0 kelris.pw
 0.0.0.0 kelsandsons.info
@@ -42914,6 +42940,7 @@
 0.0.0.0 lifemeet.biz
 0.0.0.0 lifenetusa.com
 0.0.0.0 stats.lifenews.ru
+0.0.0.0 t.messages.lifepointspanel.com
 0.0.0.0 liferd.de
 0.0.0.0 lifestyle24h.com
 0.0.0.0 lifestyleagrotech.com
@@ -46793,6 +46820,8 @@
 0.0.0.0 mkt3261.com
 0.0.0.0 recp.mkt41.net
 0.0.0.0 mkt51.net
+0.0.0.0 recp.mkt51.net
+0.0.0.0 links.netspend.mkt5806.com
 0.0.0.0 mkt941.com
 0.0.0.0 mkto-ab050172.com
 0.0.0.0 mktoresp.com
@@ -47654,6 +47683,9 @@
 0.0.0.0 mscbet.com
 0.0.0.0 mscbet.net
 0.0.0.0 mscbo.com
+0.0.0.0 mscc2.com
+0.0.0.0 www.mscc2.com
+0.0.0.0 www3.mscc2.com
 0.0.0.0 msv53-sh-mortar.mschosting.com
 0.0.0.0 mscplash.com
 0.0.0.0 msdhydaxm.ovh
@@ -57524,6 +57556,7 @@
 0.0.0.0 quoo4ae.top
 0.0.0.0 a.quora.com
 0.0.0.0 ampad.quora.com
+0.0.0.0 email.quora.com
 0.0.0.0 log.quora.com
 0.0.0.0 quoteschronicle.com
 0.0.0.0 quowupsouefjej.com
@@ -59320,6 +59353,8 @@
 0.0.0.0 rlbvwdviqx.com
 0.0.0.0 rlcdn.com
 0.0.0.0 rc.rlcdn.com
+0.0.0.0 sr.rlcdn.com
+0.0.0.0 sr-weight.rlcdn.com
 0.0.0.0 d.rlfqaqqhzg.com
 0.0.0.0 p.d.rlfqaqqhzg.com
 0.0.0.0 w.rlfqaqqhzg.com
@@ -61275,6 +61310,9 @@
 0.0.0.0 searchvalidation.com
 0.0.0.0 www.searchvalidation.com
 0.0.0.0 searra-ditol.cn
+0.0.0.0 value.sears.com
+0.0.0.0 telluridecontentas.searshc.com
+0.0.0.0 em.searshomeservices.com
 0.0.0.0 rekl.seasonvar.ru
 0.0.0.0 seasonvintage.com
 0.0.0.0 seasoshallow.us
@@ -61620,6 +61658,7 @@
 0.0.0.0 senangpokerseo.com
 0.0.0.0 send29931.cn
 0.0.0.0 sendblasters.ga
+0.0.0.0 u10350365.ct.sendgrid.net
 0.0.0.0 u6091953.ct.sendgrid.net
 0.0.0.0 u6867233.ct.sendgrid.net
 0.0.0.0 u7111053.ct.sendgrid.net
@@ -62305,6 +62344,7 @@
 0.0.0.0 collector.shopstream.co
 0.0.0.0 shopthelighthouse.com
 0.0.0.0 shoptimally.com
+0.0.0.0 rewards.shopyourwayrewards.com
 0.0.0.0 shopzyapp.com
 0.0.0.0 shorechic.com
 0.0.0.0 shorkads.de
@@ -63707,6 +63747,7 @@
 0.0.0.0 ads.sondakika.com
 0.0.0.0 sondeca.com
 0.0.0.0 songreen.com
+0.0.0.0 ablink.email.sonicdrivein.com
 0.0.0.0 sonicelevatorltd.com
 0.0.0.0 sonicomm.org
 0.0.0.0 sonicons.com
@@ -67487,6 +67528,7 @@
 0.0.0.0 tikjbfpd.com
 0.0.0.0 tikodala.com
 0.0.0.0 tikrailijorj.com
+0.0.0.0 url7709.account.tiktok.com
 0.0.0.0 analytics.tiktok.com
 0.0.0.0 tiktok-news.com
 0.0.0.0 www.tiktok-news.com
@@ -67749,6 +67791,7 @@
 0.0.0.0 tmfilms.net
 0.0.0.0 tmfkuesmlpto.com
 0.0.0.0 tmgcffep.bid
+0.0.0.0 inscon.tmginteractive.com
 0.0.0.0 tmhfbwgpvzcxly.com
 0.0.0.0 tmhgsorajits.com
 0.0.0.0 tmhouserent.trade
@@ -69904,6 +69947,7 @@
 0.0.0.0 uhpnngxvuvwtd.com
 0.0.0.0 uhygtf1.com
 0.0.0.0 uhyyacioq.com
+0.0.0.0 update.ui-portal.com
 0.0.0.0 wa.ui-portal.de
 0.0.0.0 uiaolsmnydtrsa.co
 0.0.0.0 uicivvoeglxnbthvevxs.com
@@ -71262,6 +71306,8 @@
 0.0.0.0 valuetechinsights.com
 0.0.0.0 vam-nado.ru
 0.0.0.0 vamaker.com
+0.0.0.0 vamdb.com
+0.0.0.0 www.vamdb.com
 0.0.0.0 chas.vammatat.com
 0.0.0.0 vampirediary.ml
 0.0.0.0 vamprog.site
