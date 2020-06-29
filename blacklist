@@ -76532,7 +76532,6 @@
 0.0.0.0 clck.yandex.com
 0.0.0.0 csp.yandex.com
 0.0.0.0 jstracer.yandex.com
-0.0.0.0 strm.yandex.com
 0.0.0.0 appmetrica.yandex.net
 0.0.0.0 report.appmetrica.yandex.net
 0.0.0.0 rosenberg.appmetrica.yandex.net
@@ -76544,7 +76543,6 @@
 0.0.0.0 analytics.mobile.yandex.net
 0.0.0.0 banners.mobile.yandex.net
 0.0.0.0 banners-slb.mobile.yandex.net
-0.0.0.0 strm.yandex.net
 0.0.0.0 adfox.yandex.ru
 0.0.0.0 an.yandex.ru
 0.0.0.0 awaps.yandex.ru
@@ -76555,7 +76553,6 @@
 0.0.0.0 informer.yandex.ru
 0.0.0.0 jstracer.yandex.ru
 0.0.0.0 mc.yandex.ru
-0.0.0.0 strm.yandex.ru
 0.0.0.0 zen.yandex.ru
 0.0.0.0 yandex-click.net
 0.0.0.0 yandexadexchange.net
