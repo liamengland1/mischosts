@@ -36,7 +36,6 @@
 0.0.0.0 sn3301-g.1drv.com
 0.0.0.0 s0.2mdn.net
 0.0.0.0 static.2mdn.net
-0.0.0.0 a-msedge.net
 0.0.0.0 bat-bing-com.a-0001.a-msedge.net
 0.0.0.0 star-r-bat-bing-com.a-0001.a-msedge.net
 0.0.0.0 a-9999.a-msedge.net
@@ -49,6 +48,7 @@
 0.0.0.0 onecollector.cloudapp.aria.akadns.net
 0.0.0.0 prod.nexusrules.live.com.akadns.net
 0.0.0.0 asimov-win.settings.data.microsoft.com.akadns.net
+0.0.0.0 cy2.settings.data.microsoft.com.akadns.net
 0.0.0.0 db5.settings.data.microsoft.com.akadns.net
 0.0.0.0 geo.settings.data.microsoft.com.akadns.net
 0.0.0.0 hk2.settings.data.microsoft.com.akadns.net
@@ -92,7 +92,10 @@
 0.0.0.0 ec.atdmt.com
 0.0.0.0 view.atdmt.com
 0.0.0.0 dc.applicationinsights.azure.com
+0.0.0.0 fp-vp.azureedge.net
+0.0.0.0 odinvzc.azureedge.net
 0.0.0.0 asimovprod.azurewebsites.net
+0.0.0.0 adserver.bing.com
 0.0.0.0 bat.bing.com
 0.0.0.0 r.bat.bing.com
 0.0.0.0 c.bing.com
@@ -102,6 +105,7 @@
 0.0.0.0 bat.bing-int.com
 0.0.0.0 compatexchange.cloudapp.net
 0.0.0.0 legacy-redirection-neurope-prod-hp.cloudapp.net
+0.0.0.0 location-inference-westus.cloudapp.net
 0.0.0.0 quickpulse-prod-use.cloudapp.net
 0.0.0.0 skypedataprdcolcus01.cloudapp.net
 0.0.0.0 skypedataprdcolcus03.cloudapp.net
@@ -112,6 +116,7 @@
 0.0.0.0 skypedataprdcoleus04.cloudapp.net
 0.0.0.0 skypedataprdcoljpw03.cloudapp.net
 0.0.0.0 skypedataprdcoluks05.cloudapp.net
+0.0.0.0 skypedataprdcolweu04.cloudapp.net
 0.0.0.0 skypedataprdcolwus03.cloudapp.net
 0.0.0.0 api.cortana.ai
 0.0.0.0 ad.doubleclick.net
@@ -120,8 +125,8 @@
 0.0.0.0 ipv6.msftncsi.com.edgesuite.net
 0.0.0.0 secure.flashtalking.com
 0.0.0.0 ads2.msn.com.c.footprint.net
+0.0.0.0 footprintpredict.com
 0.0.0.0 pre.footprintpredict.com
-0.0.0.0 m.hotmail.com
 0.0.0.0 choice.live.com
 0.0.0.0 ipv6.login.live.com
 0.0.0.0 s.gateway.messenger.live.com
@@ -250,6 +255,7 @@
 0.0.0.0 events.data.microsoft.com
 0.0.0.0 browser.events.data.microsoft.com
 0.0.0.0 de-v20.events.data.microsoft.com
+0.0.0.0 eu-v10.events.data.microsoft.com
 0.0.0.0 eu-v20.events.data.microsoft.com
 0.0.0.0 kmwatsonc.events.data.microsoft.com
 0.0.0.0 mobile.events.data.microsoft.com
@@ -285,6 +291,7 @@
 0.0.0.0 v10.vortex-win.data.microsoft.com
 0.0.0.0 v20.vortex-win.data.microsoft.com
 0.0.0.0 web.vortex-win.data.microsoft.com
+0.0.0.0 vortex-win-sandbox.data.microsoft.com
 0.0.0.0 dds.microsoft.com
 0.0.0.0 api.dds.microsoft.com
 0.0.0.0 continuum.dds.microsoft.com
@@ -306,6 +313,7 @@
 0.0.0.0 win10.ipv6.microsoft.com
 0.0.0.0 win1710.ipv6.microsoft.com
 0.0.0.0 win8.ipv6.microsoft.com
+0.0.0.0 ris.api.iris.microsoft.com
 0.0.0.0 redir.metaservices.microsoft.com
 0.0.0.0 array101-prod.do.dsp.mp.microsoft.com
 0.0.0.0 array102-prod.do.dsp.mp.microsoft.com
@@ -413,9 +421,12 @@
 0.0.0.0 msedge.net
 0.0.0.0 a-ring.msedge.net
 0.0.0.0 client-office365-tas.msedge.net
+0.0.0.0 exo-ring.msedge.net
+0.0.0.0 fp.msedge.net
 0.0.0.0 fpc.msedge.net
 0.0.0.0 k-ring.msedge.net
 0.0.0.0 4.perf.msedge.net
+0.0.0.0 spo-ring.msedge.net
 0.0.0.0 www.msedge.net
 0.0.0.0 msftncsi.com
 0.0.0.0 ipv6.msftncsi.com
@@ -427,6 +438,8 @@
 0.0.0.0 b.ads1.msn.com
 0.0.0.0 ads2.msn.com
 0.0.0.0 a.ads2.msn.com
+0.0.0.0 arc.msn.com
+0.0.0.0 arc1.msn.com
 0.0.0.0 c.msn.com
 0.0.0.0 redirection.prod.cms.msn.com
 0.0.0.0 vortex.data.msn.com
@@ -462,6 +475,7 @@
 0.0.0.0 watson.microsoft.com.nsatc.net
 0.0.0.0 statsfe1.ws.microsoft.com.nsatc.net
 0.0.0.0 statsfe2.ws.microsoft.com.nsatc.net
+0.0.0.0 g.msn.com.nsatc.net
 0.0.0.0 onesettings-db5.metron.live.nsatc.net
 0.0.0.0 acdc-direct.office.com
 0.0.0.0 afd-a-acdc-direct.office.com
@@ -512,6 +526,7 @@
 0.0.0.0 compatexchange1.trafficmanager.net
 0.0.0.0 global.asimov.events.data.trafficmanager.net
 0.0.0.0 browser.events.data.trafficmanager.net
+0.0.0.0 eu.events.data.trafficmanager.net
 0.0.0.0 uk.events.data.trafficmanager.net
 0.0.0.0 us.events.data.trafficmanager.net
 0.0.0.0 asimov.vortex.data.trafficmanager.net
@@ -919,7 +934,11 @@
 0.0.0.0 ceuswatcab02.blob.core.windows.net
 0.0.0.0 eaus2watcab01.blob.core.windows.net
 0.0.0.0 eaus2watcab02.blob.core.windows.net
+0.0.0.0 iriscoremetadataprod.blob.core.windows.net
+0.0.0.0 optanon.blob.core.windows.net
 0.0.0.0 weus2watcab01.blob.core.windows.net
 0.0.0.0 weus2watcab02.blob.core.windows.net
 0.0.0.0 onedrive-collection.device.mobileengagement.windows.net
 0.0.0.0 telemetry.remoteapp.windowsazure.com
+0.0.0.0 windowssearch.com
+0.0.0.0 www.windowssearch.com
