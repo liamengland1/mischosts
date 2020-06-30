@@ -9959,6 +9959,8 @@
 0.0.0.0 track.audtd.com
 0.0.0.0 audubonlandscapes.com
 0.0.0.0 network.aufeminin.com
+0.0.0.0 aufp.io
+0.0.0.0 www.aufp.io
 0.0.0.0 aufyuiavvkf.bid
 0.0.0.0 augami.net
 0.0.0.0 augheguw.net
@@ -25413,12 +25415,14 @@
 0.0.0.0 bid.g.doubleclick.net
 0.0.0.0 cm.g.doubleclick.net
 0.0.0.0 googleads.g.doubleclick.net
+0.0.0.0 googleads4.g.doubleclick.net
 0.0.0.0 pubads.g.doubleclick.net
 0.0.0.0 securepubads.g.doubleclick.net
 0.0.0.0 stats.g.doubleclick.net
 0.0.0.0 survey.g.doubleclick.net
 0.0.0.0 gan.doubleclick.net
 0.0.0.0 iv.doubleclick.net
+0.0.0.0 pagead.l.doubleclick.net
 0.0.0.0 pagead46.l.doubleclick.net
 0.0.0.0 partnerad.l.doubleclick.net
 0.0.0.0 n4403ad.doubleclick.net
@@ -32786,6 +32790,7 @@
 0.0.0.0 contributor.google.com
 0.0.0.0 fundingchoicesmessages.google.com
 0.0.0.0 id.google.com
+0.0.0.0 bandaid-redirector.l.google.com
 0.0.0.0 crashlytics.l.google.com
 0.0.0.0 googleadapis.l.google.com
 0.0.0.0 gstaticadssl.l.google.com
