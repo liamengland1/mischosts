@@ -7873,6 +7873,7 @@
 0.0.0.0 lightspee-customer-6n4sm2q8sot0-836084464.eu-west-1.elb.amazonaws.com
 0.0.0.0 onelink-1664648862.eu-west-1.elb.amazonaws.com
 0.0.0.0 58caebff-bugsentrycore-riv-aa3a-751432187.us-east-1.elb.amazonaws.com
+0.0.0.0 albatross-albatross-v4-1088998989.us-east-1.elb.amazonaws.com
 0.0.0.0 baconredirects-elb-1w79jy7i6g0wf-1154668140.us-east-1.elb.amazonaws.com
 0.0.0.0 carta-elb-202288709.us-east-1.elb.amazonaws.com
 0.0.0.0 cmp-server-493810428.us-east-1.elb.amazonaws.com
@@ -13003,6 +13004,7 @@
 0.0.0.0 engine.blacraft.com
 0.0.0.0 www.blacraft.com
 0.0.0.0 blacurlik.com
+0.0.0.0 subwaysurf.prod.bladesofbrim.com
 0.0.0.0 blafo.ru
 0.0.0.0 blafutz.ml
 0.0.0.0 blaghfpd.com
