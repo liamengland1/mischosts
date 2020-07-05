@@ -2,6 +2,7 @@
 
 0.0.0.0 dsa-video.traffic.bytedance.akadns.net
 0.0.0.0 p16hypstarcdn-a.akamaihd.net
+0.0.0.0 v16m.byteicdn.com.akamaized.net
 0.0.0.0 v16m.hypstarcdn.com.akamaized.net
 0.0.0.0 mpak-suse1.muscdn.com.akamaized.net
 0.0.0.0 mphw-suse1.muscdn.com.akamaized.net
@@ -49,6 +50,10 @@
 0.0.0.0 k.l.bytedns.net
 0.0.0.0 bgp.misc-core-lb-lf.l.bytedns.net
 0.0.0.0 all.toutiao-other-lf.l.bytedns.net
+0.0.0.0 byteicdn.com
+0.0.0.0 v16m.byteicdn.com
+0.0.0.0 v19.byteicdn.com
+0.0.0.0 www.byteicdn.com
 0.0.0.0 p9-security.byteimg.com
 0.0.0.0 byteoversea.com
 0.0.0.0 abtest-sg.byteoversea.com
