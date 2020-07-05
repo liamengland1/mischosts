@@ -7162,6 +7162,7 @@
 0.0.0.0 uhytajrtpo-a.akamaihd.net
 0.0.0.0 zvsuhljiha-a.akamaihd.net
 0.0.0.0 akamaihd.site
+0.0.0.0 cdn-cd.akamaized.net
 0.0.0.0 cdn-gae-ssl-default.akamaized.net
 0.0.0.0 jioads.akamaized.net
 0.0.0.0 loka-cdn.akamaized.net
@@ -16261,6 +16262,9 @@
 0.0.0.0 chatroom1.life
 0.0.0.0 g.chatroom1.life
 0.0.0.0 www.chatroom1.life
+0.0.0.0 chatroom11.life
+0.0.0.0 i.chatroom11.life
+0.0.0.0 www.chatroom11.life
 0.0.0.0 chatty-imaginativelady.com
 0.0.0.0 chattysnaps.com
 0.0.0.0 chatzoe.de
@@ -29614,6 +29618,10 @@
 0.0.0.0 www.findyourpleasure1.life
 0.0.0.0 findyourpleasure4.life
 0.0.0.0 www.findyourpleasure4.life
+0.0.0.0 findyourpleasure5.life
+0.0.0.0 a.findyourpleasure5.life
+0.0.0.0 b.findyourpleasure5.life
+0.0.0.0 www.findyourpleasure5.life
 0.0.0.0 fineartsconference.com
 0.0.0.0 fineg.pro
 0.0.0.0 finesseindia.com
@@ -32907,6 +32915,7 @@
 0.0.0.0 googleanalytlcs.net
 0.0.0.0 clouderrorreporting.googleapis.com
 0.0.0.0 ad-creatives-public.commondatastorage.googleapis.com
+0.0.0.0 fcm.googleapis.com
 0.0.0.0 firebaseinstallations.googleapis.com
 0.0.0.0 firebaselogging.googleapis.com
 0.0.0.0 firebaselogging-pa.googleapis.com
@@ -37839,6 +37848,8 @@
 0.0.0.0 insta-cash.net
 0.0.0.0 instablog.club
 0.0.0.0 api.instabug.com
+0.0.0.0 instadatehookups12.com
+0.0.0.0 www.instadatehookups12.com
 0.0.0.0 instadia.net
 0.0.0.0 instagam.org
 0.0.0.0 instagram-checker-log.com
@@ -42100,6 +42111,7 @@
 0.0.0.0 kx81788.com
 0.0.0.0 kxareafqwjop.com
 0.0.0.0 kxbpvlptnkrqvt.com
+0.0.0.0 cdnzone1-12b0e.kxcdn.com
 0.0.0.0 impressure-c630.kxcdn.com
 0.0.0.0 v1-c73e.kxcdn.com
 0.0.0.0 kxemsltfmm.com
@@ -43758,6 +43770,8 @@
 0.0.0.0 localdating36.com
 0.0.0.0 www.localdating36.com
 0.0.0.0 localedgemedia.com
+0.0.0.0 localhookup50.com
+0.0.0.0 www.localhookup50.com
 0.0.0.0 localisationing.com
 0.0.0.0 localleadsrus.com
 0.0.0.0 localmediaadvantage.com
@@ -47074,6 +47088,7 @@
 0.0.0.0 oneid.mmstat.com
 0.0.0.0 mmtangkas.biz
 0.0.0.0 mmtangkas2000.com
+0.0.0.0 ssl.mmtgo.me
 0.0.0.0 mmtro.com
 0.0.0.0 mmtservis.com
 0.0.0.0 mmvcmovwegkz.com
@@ -48526,6 +48541,8 @@
 0.0.0.0 myflightbase.com
 0.0.0.0 smsclientorangebox.myfreesites.net
 0.0.0.0 myfrvfxqeimp.com
+0.0.0.0 myfuckbook30.com
+0.0.0.0 www.myfuckbook30.com
 0.0.0.0 myfucking-pussy.com
 0.0.0.0 myfundeals.com
 0.0.0.0 amvgvvyasde.myfw.us
@@ -49613,6 +49630,10 @@
 0.0.0.0 netibeempresarial.com
 0.0.0.0 linkdninl.netii.net
 0.0.0.0 netivaartalu.com
+0.0.0.0 musing-minsky-5bead4.netlify.app
+0.0.0.0 my-snapchat-748bfb.netlify.app
+0.0.0.0 nifty-wing-523346.netlify.app
+0.0.0.0 sex-group-93182f.netlify.app
 0.0.0.0 eloquent-thompson-93ac4c.netlify.com
 0.0.0.0 happy-davinci-53144f.netlify.com
 0.0.0.0 heuristic-poitras-93c7e2.netlify.com
@@ -53070,6 +53091,8 @@
 0.0.0.0 ozymwqsycimr.com
 0.0.0.0 www.p.de
 0.0.0.0 p-advg.com
+0.0.0.0 p-analytics.life
+0.0.0.0 www.p-analytics.life
 0.0.0.0 p-comme-performance.com
 0.0.0.0 p-digital-server.com
 0.0.0.0 p-heng.com
@@ -61582,7 +61605,10 @@
 0.0.0.0 securecheckaccount-policyagreement.com
 0.0.0.0 securecloud-dt.com
 0.0.0.0 securecloud-smart.com
+0.0.0.0 trk.securecloud-smrt.com
 0.0.0.0 newalways.securecontentnewly4everyone.date
+0.0.0.0 secureconv-dt.com
+0.0.0.0 www.secureconv-dt.com
 0.0.0.0 secured-resolution-center-paypal.com
 0.0.0.0 online.securedept02.ga
 0.0.0.0 securedfilesign.com
@@ -62154,6 +62180,7 @@
 0.0.0.0 sextadate.net
 0.0.0.0 sextasis.cl
 0.0.0.0 sextizer.net
+0.0.0.0 sextwithsluts.com
 0.0.0.0 go.sexu.tv
 0.0.0.0 sexual-conduct4.com
 0.0.0.0 www.sexual-conduct4.com
