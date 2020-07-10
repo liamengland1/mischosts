@@ -93,6 +93,9 @@
 0.0.0.0 post.update.entertainow.com
 0.0.0.0 s.update.entertainow.com
 0.0.0.0 t.update.entertainow.com
+0.0.0.0 post.update.postimp-ofw.fyber.com
+0.0.0.0 s.update.postimp-ofw.fyber.com
+0.0.0.0 t.update.postimp-ofw.fyber.com
 0.0.0.0 post.update.hmstats.com
 0.0.0.0 s.update.hmstats.com
 0.0.0.0 t.update.hmstats.com
@@ -120,6 +123,9 @@
 0.0.0.0 s.kareeza.com
 0.0.0.0 t.kareeza.com
 0.0.0.0 u.kareeza.com
+0.0.0.0 post.update.ap.lijit.com
+0.0.0.0 s.update.ap.lijit.com
+0.0.0.0 t.update.ap.lijit.com
 0.0.0.0 post.update.mediamathtag.com
 0.0.0.0 s.update.mediamathtag.com
 0.0.0.0 t.update.mediamathtag.com
@@ -159,6 +165,12 @@
 0.0.0.0 s.pixsrvcs.com
 0.0.0.0 t.pixsrvcs.com
 0.0.0.0 u.pixsrvcs.com
+0.0.0.0 pjiptn.com
+0.0.0.0 p.pjiptn.com
+0.0.0.0 post.pjiptn.com
+0.0.0.0 s.pjiptn.com
+0.0.0.0 t.pjiptn.com
+0.0.0.0 u.pjiptn.com
 0.0.0.0 pkthop.com
 0.0.0.0 p.pkthop.com
 0.0.0.0 post.pkthop.com
