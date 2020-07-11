@@ -260,6 +260,7 @@
 0.0.0.0 p16-mt-va.ibyteimg.com
 0.0.0.0 p16-musical-sg.ibyteimg.com
 0.0.0.0 p16-musical-va.ibyteimg.com
+0.0.0.0 p16-security-va.ibyteimg.com
 0.0.0.0 p16-tiktok-sg.ibyteimg.com
 0.0.0.0 p16-tiktok-va.ibyteimg.com
 0.0.0.0 p16-va-tiktok.ibyteimg.com
@@ -478,6 +479,7 @@
 0.0.0.0 mon.sgsnssdk.com
 0.0.0.0 vas.sgsnssdk.com
 0.0.0.0 aweme.snssdk.com
+0.0.0.0 boe-verify.snssdk.com
 0.0.0.0 i.snssdk.com
 0.0.0.0 ib.snssdk.com
 0.0.0.0 is.snssdk.com
