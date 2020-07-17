@@ -939,6 +939,8 @@
 0.0.0.0 pull-f5.tiktokcdn.com.c.worldfcdn.com
 0.0.0.0 pull-f5-ab.tiktokcdn.com.c.worldfcdn.com
 0.0.0.0 pull-q5.tiktokcdn.com.c.worldfcdn.com
+0.0.0.0 pull-w5.tiktokcdn.com.c.worldfcdn.com
+0.0.0.0 push-rtmp-f5.tiktokcdn.com.c.worldfcdn.com
 0.0.0.0 cmaf-source-fcdn-frankfurt.s.worldfcdn.com
 0.0.0.0 pull-fcdn-base-oversea.s.worldfcdn.com
 0.0.0.0 a1.pstatp.com.wscdns.com
@@ -975,8 +977,16 @@
 0.0.0.0 vzbmx.xzcs3zlph.com
 0.0.0.0 wcast.xzcs3zlph.com
 0.0.0.0 www.xzcs3zlph.com
+0.0.0.0 v3-dy.ixigua.com.xi.zwtianshangm.com
 0.0.0.0 p3.pstatp.com.xi.zwtianshangm.com
 0.0.0.0 s0.pstatp.com.xi.zwtianshangm.com
 0.0.0.0 s3.pstatp.com.xi.zwtianshangm.com
 0.0.0.0 aweme.snssdk.com.xi.zwtianshangm.com
+0.0.0.0 aweme-eagle.snssdk.com.xi.zwtianshangm.com
+0.0.0.0 aweme-eagle-hl.snssdk.com.xi.zwtianshangm.com
+0.0.0.0 aweme-eagle-lq.snssdk.com.xi.zwtianshangm.com
+0.0.0.0 aweme-hl.snssdk.com.xi.zwtianshangm.com
 0.0.0.0 is.snssdk.com.xi.zwtianshangm.com
+0.0.0.0 lf.snssdk.com.xi.zwtianshangm.com
+0.0.0.0 lf-hl.snssdk.com.xi.zwtianshangm.com
+0.0.0.0 mon.snssdk.com.xi.zwtianshangm.com
