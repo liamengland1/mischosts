@@ -425,7 +425,12 @@
 0.0.0.0 bytedance.map.fastly.net
 0.0.0.0 h1.bytedance.map.fastly.net
 0.0.0.0 video.h1.bytedance.map.fastly.net
+0.0.0.0 tiktok.com.c.footprint.net
+0.0.0.0 cdn.tiktok.com.c.footprint.net
 0.0.0.0 ssl.cdn.tiktok.com.c.footprint.net
+0.0.0.0 tiktok.com.c.secure.footprint.net
+0.0.0.0 cdn.tiktok.com.c.secure.footprint.net
+0.0.0.0 ssl.tiktok.com.c.secure.footprint.net
 0.0.0.0 ttopencdn.gshifen.com
 0.0.0.0 p.hypstarcdn.com
 0.0.0.0 p16.hypstarcdn.com
