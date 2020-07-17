@@ -425,6 +425,7 @@
 0.0.0.0 bytedance.map.fastly.net
 0.0.0.0 h1.bytedance.map.fastly.net
 0.0.0.0 video.h1.bytedance.map.fastly.net
+0.0.0.0 ssl.cdn.tiktok.com.c.footprint.net
 0.0.0.0 ttopencdn.gshifen.com
 0.0.0.0 p.hypstarcdn.com
 0.0.0.0 p16.hypstarcdn.com
@@ -780,6 +781,7 @@
 0.0.0.0 pull-hls-f5-ab.tiktokcdn.com
 0.0.0.0 pull-hls-l1.tiktokcdn.com
 0.0.0.0 pull-hls-l11.tiktokcdn.com
+0.0.0.0 pull-rtmp-f1-ab.tiktokcdn.com
 0.0.0.0 pull-rtmp-l1.tiktokcdn.com
 0.0.0.0 pull-rtmp-l11.tiktokcdn.com
 0.0.0.0 s16.tiktokcdn.com
@@ -931,6 +933,7 @@
 0.0.0.0 pull-cmaf-f5.tiktokcdn.com.c.worldfcdn.com
 0.0.0.0 pull-f5.tiktokcdn.com.c.worldfcdn.com
 0.0.0.0 pull-f5-ab.tiktokcdn.com.c.worldfcdn.com
+0.0.0.0 pull-q5.tiktokcdn.com.c.worldfcdn.com
 0.0.0.0 cmaf-source-fcdn-frankfurt.s.worldfcdn.com
 0.0.0.0 pull-fcdn-base-oversea.s.worldfcdn.com
 0.0.0.0 a1.pstatp.com.wscdns.com
@@ -940,6 +943,8 @@
 0.0.0.0 v4.pstatp.com.wscdns.com
 0.0.0.0 pull-flv-l1.tiktokcdn.com.wsdvs.com
 0.0.0.0 pull-hls-l1.tiktokcdn.com.wsdvs.com
+0.0.0.0 pull-rtmp-f1.tiktokcdn.com.wsdvs.com
+0.0.0.0 pull-rtmp-f1-ab.tiktokcdn.com.wsdvs.com
 0.0.0.0 pull-rtmp-l1.tiktokcdn.com.wsdvs.com
 0.0.0.0 pb1.pstatp.com.wsglb0.com
 0.0.0.0 sf1-ttcdn-tos.pstatp.com.wsglb0.com
