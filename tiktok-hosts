@@ -185,18 +185,7 @@
 ### experimental - third party cdn urls - may break things ###
 0.0.0.0 p16hypstarcdn-a.akamaihd.net
 0.0.0.0 s16-hypstarcdn-com.akamaized.net
-0.0.0.0 sf16-webcast.muscdn.com.edgesuite.net
-0.0.0.0 sf16-webcast.tiktokcdn.com.edgesuite.net
 0.0.0.0 s16.hypstarcdn.com
-0.0.0.0 sf16-webcast.muscdn.com
-0.0.0.0 sf19-webcast.muscdn.com
-0.0.0.0 flv-l11.tiktokcdn.liveplay.myqcloud.com
-0.0.0.0 all.huodonghylivecdn.sched.ovscdns.net
-0.0.0.0 all.hylivecdn.sched.ovscdns.net
-0.0.0.0 pull-rtmp-l1.tiktokcdn.com
-0.0.0.0 pull-rtmp-l11.tiktokcdn.com
-0.0.0.0 sf16-webcast.tiktokcdn.com
-0.0.0.0 pull-rtmp-l1.tiktokcdn.com.wsdvs.com
 ## bytedance cdns - Toutiao/Topbuzz ##
 0.0.0.0 unpkg.pstatp.com.m.alikunlun.com
 0.0.0.0 i0.pstatp.com.w.alikunlun.com
