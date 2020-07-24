@@ -13221,6 +13221,8 @@
 0.0.0.0 b2bcontext.ru
 0.0.0.0 b2bvideo.ru
 0.0.0.0 b2c.com
+0.0.0.0 api-52-27-148-8.b2c.com
+0.0.0.0 api-54-188-225-18.b2c.com
 0.0.0.0 b2poker.net
 0.0.0.0 us.b3018.pw
 0.0.0.0 b3d.com
@@ -13277,6 +13279,7 @@
 0.0.0.0 babamlala.info
 0.0.0.0 babator.com
 0.0.0.0 oascentral.babble.com
+0.0.0.0 r.babble.com
 0.0.0.0 babblenorah.com
 0.0.0.0 babbnrs.com
 0.0.0.0 ec2-prod-tracker.babelgum.com
@@ -20231,6 +20234,7 @@
 0.0.0.0 cineveo.com
 0.0.0.0 cint.com
 0.0.0.0 cintnetworks.com
+0.0.0.0 c.cintnetworks.com
 0.0.0.0 cintsglobal.com
 0.0.0.0 cioqyqlkimuh.com
 0.0.0.0 cipasfreefly.com
@@ -29616,6 +29620,8 @@
 0.0.0.0 log.data.disney.com
 0.0.0.0 weblogger01.data.disney.com
 0.0.0.0 analytics.disneyinternational.com
+0.0.0.0 r.disneyjunior.com
+0.0.0.0 r.disneystore.com
 0.0.0.0 m.facebook.com------------validate---account.disos.xyz
 0.0.0.0 adsrv.dispatch.com
 0.0.0.0 omni.dispatch.com
@@ -32982,6 +32988,7 @@
 0.0.0.0 espiralpublicidad.cl
 0.0.0.0 track.espireads.com
 0.0.0.0 w88.espn.com
+0.0.0.0 fcast.espncdn.com
 0.0.0.0 espnrlezwzvd.com
 0.0.0.0 alvares.esportsheaven.com
 0.0.0.0 abc.esprit.de
@@ -35383,6 +35390,7 @@
 0.0.0.0 banners.flingguru.com
 0.0.0.0 flintbg.com
 0.0.0.0 ad.flipboard.com
+0.0.0.0 fpn.flipboard.com
 0.0.0.0 ue.flipboard.com
 0.0.0.0 flipdigital.ru
 0.0.0.0 flipflap.pro
@@ -35842,6 +35850,7 @@
 0.0.0.0 fotsaulr.net
 0.0.0.0 fotw.xyz
 0.0.0.0 fotxesl.com
+0.0.0.0 api.fouanalytics.com
 0.0.0.0 found.ee
 0.0.0.0 found-iphone.me
 0.0.0.0 foundry42.com
@@ -38676,12 +38685,18 @@
 0.0.0.0 ctologger01.analytics.go.com
 0.0.0.0 clog.go.com
 0.0.0.0 dcapps.disney.go.com
+0.0.0.0 r.disney.go.com
 0.0.0.0 engsvc.go.com
+0.0.0.0 fastcast.semfs.engsvc.go.com
+0.0.0.0 p159b5222-e949-4414-9def-13cd736cb468-3-228-17-77.fastcast.semfs.engsvc.go.com
+0.0.0.0 p1a310e4a-69e8-44c5-a0d2-c23322354946-3-237-185-247.fastcast.semfs.engsvc.go.com
 0.0.0.0 adsatt.espn.go.com
 0.0.0.0 w88.m.espn.go.com
 0.0.0.0 seavideo-ak.espn.go.com
+0.0.0.0 stg.fastcast.go.com
 0.0.0.0 log.go.com
 0.0.0.0 ngads.go.com
+0.0.0.0 cdn.registerdisney.go.com
 0.0.0.0 unid.go.com
 0.0.0.0 w88.go.com
 0.0.0.0 api.ads.watchabc.go.com
@@ -48554,6 +48569,7 @@
 0.0.0.0 rebolyschool.iso.karelia.ru
 0.0.0.0 karenbrowntx.com
 0.0.0.0 kargo.com
+0.0.0.0 storage.cloud.kargo.com
 0.0.0.0 tk.kargo.com
 0.0.0.0 karirdika.com
 0.0.0.0 karisimbi.net
@@ -58935,6 +58951,7 @@
 0.0.0.0 beacon-4.newrelic.com
 0.0.0.0 beacon-5.newrelic.com
 0.0.0.0 beacon-6.newrelic.com
+0.0.0.0 insights-collector.newrelic.com
 0.0.0.0 js-agent.newrelic.com
 0.0.0.0 mobile-collector.newrelic.com
 0.0.0.0 pix.news.at
@@ -61393,6 +61410,7 @@
 0.0.0.0 onetopsports.com
 0.0.0.0 onetouch4.com
 0.0.0.0 onetrust.com
+0.0.0.0 privacyportal.onetrust.com
 0.0.0.0 oneund.com
 0.0.0.0 oneund.ru
 0.0.0.0 go.oneund.ru
@@ -63888,7 +63906,9 @@
 0.0.0.0 permis-ok.com
 0.0.0.0 www.permissionresearch.com
 0.0.0.0 data.permittingnorthlandseamen.info
+0.0.0.0 0b2cd04c-a32e-4316-8dff-4f1aa59900bb.partner.permutive.app
 0.0.0.0 permutive.com
+0.0.0.0 cdn.permutive.com
 0.0.0.0 pernikunik.com
 0.0.0.0 peroxntsi.net
 0.0.0.0 perpetualpail.com
@@ -73332,6 +73352,7 @@
 0.0.0.0 shopcocofleur.com
 0.0.0.0 shopdasbicicletas.com
 0.0.0.0 speedtrap.shopdirect.com
+0.0.0.0 r.shopdisney.com
 0.0.0.0 userstats.shopee.vn
 0.0.0.0 shopewsd.com
 0.0.0.0 shopformebaby.com
@@ -76053,6 +76074,7 @@
 0.0.0.0 www.startyourhome.business
 0.0.0.0 starvegas.net
 0.0.0.0 starvingarctic.ru
+0.0.0.0 r.starwars.com
 0.0.0.0 adsatt.abcnews.starwave.com
 0.0.0.0 adsintl.starwave.com
 0.0.0.0 adsatt.disney.starwave.com
@@ -84664,6 +84686,7 @@
 0.0.0.0 video.videonow.ru
 0.0.0.0 videoplayer2.xyz
 0.0.0.0 videoplayerhub.com
+0.0.0.0 complex-com.videoplayerhub.com
 0.0.0.0 videoplayerscript.club
 0.0.0.0 videoplaza.com
 0.0.0.0 konnect.videoplaza.tv
