@@ -725,6 +725,8 @@
 0.0.0.0 v2.pstatp.com.cloudglb.com
 0.0.0.0 c01.i07.arnic.lv3.cloudglb.com
 0.0.0.0 bytedance-tmcdn.tm.com.my
+0.0.0.0 tobapplog.ctobsnssdk.com
+0.0.0.0 toblog.ctobsnssdk.com
 0.0.0.0 pstatp.com.cdn.dnsv1.com
 0.0.0.0 a9.pstatp.com.cdn.dnsv1.com
 0.0.0.0 douyin.com
@@ -1943,6 +1945,7 @@
 0.0.0.0 starling.snssdk.com
 0.0.0.0 stock.snssdk.com
 0.0.0.0 stock-ws.snssdk.com
+0.0.0.0 temai.snssdk.com
 0.0.0.0 tma.snssdk.com
 0.0.0.0 tnc3-bjlgy.snssdk.com
 0.0.0.0 tobapplog.snssdk.com
