@@ -267,7 +267,13 @@
 0.0.0.0 zttvu.v.bsgslb.com
 0.0.0.0 zttvv.v.bsgslb.com
 0.0.0.0 zttvw.v.bsgslb.com
+0.0.0.0 s3.bytecdn.cn
+0.0.0.0 s3a.bytecdn.cn
+0.0.0.0 s3b.bytecdn.cn
+0.0.0.0 tosv.byted.org
+0.0.0.0 admin.bytedance.com
 0.0.0.0 dm.bytedance.com
+0.0.0.0 sgaup.bytedance.com
 0.0.0.0 dm.bytedance.net
 0.0.0.0 bytedns.net
 0.0.0.0 b.bytedns.net
@@ -457,6 +463,8 @@
 0.0.0.0 tos-awsjp16-up.byteoversea.com
 0.0.0.0 tos16-alisg2lf-up.byteoversea.com
 0.0.0.0 tp-pay.byteoversea.com
+0.0.0.0 tp-pay-mva.byteoversea.com
+0.0.0.0 tp-pay-sg.byteoversea.com
 0.0.0.0 v16.byteoversea.com
 0.0.0.0 v16-ad.byteoversea.com
 0.0.0.0 v16-dy.byteoversea.com
@@ -680,6 +688,7 @@
 0.0.0.0 gedfaccdcf.temp.p23.tc.cdntip.com
 0.0.0.0 hggafcaacfc.temp.p23.tc.cdntip.com
 0.0.0.0 tiktok.cdnvideo.ru
+0.0.0.0 chengzijianzhan.com
 0.0.0.0 pstatp.com.cloudcdn.net
 0.0.0.0 a0.pstatp.com.cloudcdn.net
 0.0.0.0 d2.pstatp.com.cloudcdn.net
@@ -718,6 +727,10 @@
 0.0.0.0 bytedance-tmcdn.tm.com.my
 0.0.0.0 pstatp.com.cdn.dnsv1.com
 0.0.0.0 a9.pstatp.com.cdn.dnsv1.com
+0.0.0.0 douyin.com
+0.0.0.0 douyinact.com
+0.0.0.0 douyincdn.com
+0.0.0.0 douyinvideo.net
 0.0.0.0 byteoversea.com.edgekey.net
 0.0.0.0 dm-maliva16.byteoversea.com.edgekey.net
 0.0.0.0 dm16.byteoversea.com.edgekey.net
@@ -1035,6 +1048,8 @@
 0.0.0.0 tiktok.com.c.secure.footprint.net
 0.0.0.0 cdn.tiktok.com.c.secure.footprint.net
 0.0.0.0 ssl.tiktok.com.c.secure.footprint.net
+0.0.0.0 472064670264-p830d2k61ivgab1ihaq1oe5u50jf54q9.apps.googleusercontent.com
+0.0.0.0 908812512490-tqgub82rl7tuj6g8n7qvac1e21nqsiop.apps.googleusercontent.com
 0.0.0.0 ttopencdn.gshifen.com
 0.0.0.0 hypstarcdn.com
 0.0.0.0 p.hypstarcdn.com
@@ -1122,6 +1137,7 @@
 0.0.0.0 p16-tiktok-va-h2.ibyteimg.com
 0.0.0.0 p16-ulike-sg.ibyteimg.com
 0.0.0.0 p16-va-tiktok.ibyteimg.com
+0.0.0.0 iesdouyin.com
 0.0.0.0 ipstatp.com
 0.0.0.0 a.ipstatp.com
 0.0.0.0 a0.ipstatp.com
@@ -1206,9 +1222,13 @@
 0.0.0.0 va.isnssdk.com
 0.0.0.0 vas.isnssdk.com
 0.0.0.0 www.isnssdk.com
+0.0.0.0 ixigua.com
+0.0.0.0 activity.ixigua.com
 0.0.0.0 v27.tiktokcdn.com.cdn.jcloudcdn.com
+0.0.0.0 lb.jinritemai.com
 0.0.0.0 ttopencdn.jomodns.com
 0.0.0.0 ttv5opencdn.jomodns.com
+0.0.0.0 juliangyinqing.com
 0.0.0.0 api-swan.amemv.com.download.ks-cdn.com
 0.0.0.0 a6.pstatp.com.download.ks-cdn.com
 0.0.0.0 sf6-ttcdn-tos.pstatp.com.download.ks-cdn.com
@@ -1632,6 +1652,7 @@
 0.0.0.0 mevynuwj.mzfvozqybf.com
 0.0.0.0 w1bobealq.mzfvozqybf.com
 0.0.0.0 zerxygpl.mzfvozqybf.com
+0.0.0.0 neihanshequ.com
 0.0.0.0 snssdk1180.onelink.me
 0.0.0.0 snssdk1233.onelink.me
 0.0.0.0 all.huodonghylivecdn.sched.ovscdns.net
@@ -1775,6 +1796,7 @@
 0.0.0.0 jtjxpx.qfyf1toi.com
 0.0.0.0 pxmsag.qfyf1toi.com
 0.0.0.0 vg23wcast.qfyf1toi.com
+0.0.0.0 i.sgnssdk.com
 0.0.0.0 sgpstatp.com
 0.0.0.0 a.sgpstatp.com
 0.0.0.0 a0.sgpstatp.com
@@ -1935,12 +1957,14 @@
 0.0.0.0 tsearch-quic-lf.snssdk.com
 0.0.0.0 varticle-frontier.snssdk.com
 0.0.0.0 vas.snssdk.com
+0.0.0.0 vas-hl-x.snssdk.com
 0.0.0.0 vas-lf-x.snssdk.com
 0.0.0.0 vcl-brain.snssdk.com
 0.0.0.0 vcs.snssdk.com
 0.0.0.0 verify.snssdk.com
 0.0.0.0 webcast-ppx.snssdk.com
 0.0.0.0 www.snssdk.com
+0.0.0.0 xgfe.snssdk.com
 0.0.0.0 xlog.snssdk.com
 0.0.0.0 xxbg.snssdk.com
 0.0.0.0 byteoversea.com.srip.net
@@ -2360,6 +2384,9 @@
 0.0.0.0 ticast1.toutiao50.com
 0.0.0.0 v16.toutiao50.com
 0.0.0.0 v16-muscdn.toutiao50.com
+0.0.0.0 m.toutiaocdn.cn
+0.0.0.0 m.toutiaocdn.com
+0.0.0.0 m.toutiaocdn.net
 0.0.0.0 worldfcdn.com
 0.0.0.0 c.worldfcdn.com
 0.0.0.0 tiktokcdn.com.c.worldfcdn.com
@@ -2434,6 +2461,8 @@
 0.0.0.0 vzbmx.xzcs3zlph.com
 0.0.0.0 wcast.xzcs3zlph.com
 0.0.0.0 www.xzcs3zlph.com
+0.0.0.0 youdianyisi.com
+0.0.0.0 m.zjurl.cn
 0.0.0.0 amemv.com.xi.zwtianshangm.com
 0.0.0.0 api.amemv.com.xi.zwtianshangm.com
 0.0.0.0 webcast.amemv.com.xi.zwtianshangm.com
