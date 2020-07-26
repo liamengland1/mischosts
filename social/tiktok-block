@@ -1,6 +1,6 @@
 # Use this list to totally block access to tiktok on your network.
-# Note: this list will block access to / break other Bytedance products. 
-# If you want to continue using tiktok but block known tracking domains, add this list: https://raw.githubusercontent.com/llacb47/mischosts/master/tiktok-hosts
+# Note: this list will block access to / break other Bytedance products and apps.
+# If you want to continue using tiktok but block domains used for advertising and tracking domains, add this list: https://raw.githubusercontent.com/llacb47/mischosts/master/tiktok-hosts
 
 0.0.0.0 bytedance.akadns.net
 0.0.0.0 dsa-video.traffic.bytedance.akadns.net
@@ -1771,15 +1771,21 @@
 0.0.0.0 a1.pstatp.com
 0.0.0.0 a2.pstatp.com
 0.0.0.0 a3.pstatp.com
+0.0.0.0 a3-ipv6.pstatp.com
 0.0.0.0 a4.pstatp.com
 0.0.0.0 a5.pstatp.com
 0.0.0.0 a6.pstatp.com
+0.0.0.0 a6-ipv6.pstatp.com
 0.0.0.0 a8.pstatp.com
 0.0.0.0 a9.pstatp.com
+0.0.0.0 bvc-tos.pstatp.com
 0.0.0.0 c.pstatp.com
 0.0.0.0 d.pstatp.com
 0.0.0.0 d2.pstatp.com
 0.0.0.0 dm.pstatp.com
+0.0.0.0 f3-ttcdn-tos.pstatp.com
+0.0.0.0 feishu-tos.pstatp.com
+0.0.0.0 hscdn-tos.pstatp.com
 0.0.0.0 i.pstatp.com
 0.0.0.0 i0.pstatp.com
 0.0.0.0 i1.pstatp.com
@@ -1795,6 +1801,7 @@
 0.0.0.0 lf1-dycdn-tos.pstatp.com
 0.0.0.0 lf1-effectcdn-tos.pstatp.com
 0.0.0.0 lf1-faceucdn-tos.pstatp.com
+0.0.0.0 lf1-geckocdn-tos.pstatp.com
 0.0.0.0 lf1-hscdn-tos.pstatp.com
 0.0.0.0 lf1-tccdn-tos.pstatp.com
 0.0.0.0 lf1-ttcdn-tos.pstatp.com
@@ -1816,6 +1823,7 @@
 0.0.0.0 lf6-xgcdn-tos.pstatp.com
 0.0.0.0 lf9-effectcdn-tos.pstatp.com
 0.0.0.0 live6.pstatp.com
+0.0.0.0 live6a.pstatp.com
 0.0.0.0 lp1.pstatp.com
 0.0.0.0 m.pstatp.com
 0.0.0.0 p.pstatp.com
@@ -1827,6 +1835,7 @@
 0.0.0.0 p2.pstatp.com
 0.0.0.0 p2-xg.pstatp.com
 0.0.0.0 p3.pstatp.com
+0.0.0.0 www.p3.pstatp.com
 0.0.0.0 p3-xg.pstatp.com
 0.0.0.0 p3a.pstatp.com
 0.0.0.0 p4.pstatp.com
@@ -1848,9 +1857,28 @@
 0.0.0.0 pb2.pstatp.com
 0.0.0.0 pb3.pstatp.com
 0.0.0.0 pb9.pstatp.com
+0.0.0.0 pull-cmaf-f5-mus.pstatp.com
+0.0.0.0 pull-f3-hs.pstatp.com
+0.0.0.0 pull-f5-mus.pstatp.com
+0.0.0.0 pull-flv-l1-hs.pstatp.com
+0.0.0.0 pull-flv-l1-mus.pstatp.com
 0.0.0.0 pull-flv-l6-act.pstatp.com
+0.0.0.0 pull-flv-l6-hs.pstatp.com
 0.0.0.0 pull-flv-l7.pstatp.com
+0.0.0.0 pull-hls-l1-hs.pstatp.com
+0.0.0.0 pull-hls-l6-hs.pstatp.com
+0.0.0.0 pull-i3-hs.pstatp.com
+0.0.0.0 pull-l3-hs.pstatp.com
+0.0.0.0 pull-rtmp-f6-hs.pstatp.com
+0.0.0.0 pull-rtmp-l1-hs.pstatp.com
 0.0.0.0 pull-rtmp-l1-mus.pstatp.com
+0.0.0.0 pull-rtmp-l6-hs.pstatp.com
+0.0.0.0 push-rtmp-l1-hs.pstatp.com
+0.0.0.0 push-rtmp-l6-act.pstatp.com
+0.0.0.0 push-rtmp-l6-hs.pstatp.com
+0.0.0.0 replay-all-l6-tt.pstatp.com
+0.0.0.0 rtmpup1.pstatp.com
+0.0.0.0 rtmpup4.pstatp.com
 0.0.0.0 s.pstatp.com
 0.0.0.0 s0.pstatp.com
 0.0.0.0 s0z.pstatp.com
@@ -1885,6 +1913,7 @@
 0.0.0.0 sf3-eecdn-tos.pstatp.com
 0.0.0.0 sf3-hscdn-tos.pstatp.com
 0.0.0.0 sf3-space-eecdn-tos.pstatp.com
+0.0.0.0 sf3-swcdn-tos.pstatp.com
 0.0.0.0 sf3-tccdn-tos.pstatp.com
 0.0.0.0 sf3-ttcdn-tos.pstatp.com
 0.0.0.0 sf3-ugcdn-tos.pstatp.com
@@ -1897,7 +1926,10 @@
 0.0.0.0 sf6-ttcdn-tos.pstatp.com
 0.0.0.0 sf6-vccdn-tos.pstatp.com
 0.0.0.0 sf6-xgcdn-tos.pstatp.com
+0.0.0.0 st1-ttcdn-tos.pstatp.com
 0.0.0.0 tms3.pstatp.com
+0.0.0.0 tos.pstatp.com
+0.0.0.0 ttcdn-tos.pstatp.com
 0.0.0.0 tuchong.pstatp.com
 0.0.0.0 unpkg.pstatp.com
 0.0.0.0 v.pstatp.com
@@ -1915,6 +1947,7 @@
 0.0.0.0 v8.pstatp.com
 0.0.0.0 v9.pstatp.com
 0.0.0.0 voffline.pstatp.com
+0.0.0.0 wd3.pstatp.com
 0.0.0.0 weiliicimg1.pstatp.com
 0.0.0.0 www.pstatp.com
 0.0.0.0 qfyf1toi.com
