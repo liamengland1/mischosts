@@ -47,6 +47,7 @@
 0.0.0.0 p16-va-default.akamaized.net
 0.0.0.0 s16-hypstarcdn-com.akamaized.net
 0.0.0.0 v16-tiktokcdn-com.akamaized.net
+0.0.0.0 v16m-default.akamaized.net
 0.0.0.0 pstatp.com.m.alikunlun.com
 0.0.0.0 p3-live-cdn.pstatp.com.m.alikunlun.com
 0.0.0.0 p98.pstatp.com.m.alikunlun.com
@@ -184,6 +185,7 @@
 0.0.0.0 dynamic-comm.snssdk.com.bdgslb.com
 0.0.0.0 dynamic-comm2.snssdk.com.bdgslb.com
 0.0.0.0 dynamic-comm3.snssdk.com.bdgslb.com
+0.0.0.0 dig.bdurl.net
 0.0.0.0 rela.pc.cdn.bitgravity.com
 0.0.0.0 debaac4b.tt.x.bsgslb.cn
 0.0.0.0 debaac5c.tt.x.bsgslb.cn
@@ -2687,4 +2689,3 @@
 0.0.0.0 lf.snssdk.com.xi.zwtianshangm.com
 0.0.0.0 lf-hl.snssdk.com.xi.zwtianshangm.com
 0.0.0.0 mon.snssdk.com.xi.zwtianshangm.com
-dig.bdurl.net
