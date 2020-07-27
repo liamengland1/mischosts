@@ -183,11 +183,10 @@
 0.0.0.0 www.wshifen.com
 dig.bdurl.net
 
-### experimental - third party cdn urls - may break things ###
+### experimental - suspicious CDNs - may break things ###
 0.0.0.0 p16hypstarcdn-a.akamaihd.net
 0.0.0.0 s16-hypstarcdn-com.akamaized.net
 0.0.0.0 s16.hypstarcdn.com
-## bytedance cdns - Toutiao/Topbuzz ##
 0.0.0.0 sf1-ttcdn-tos.pstatp.com
 0.0.0.0 sf1-vcloudcdn.pstatp.com
 0.0.0.0 sf16-ttcdn-tos.pstatp.com
