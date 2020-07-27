@@ -4,6 +4,7 @@
 0.0.0.0 musically.app.link
 0.0.0.0 musically-alternate.app.link
 0.0.0.0 app-measurement.com
+0.0.0.0 dig.bdurl.net
 0.0.0.0 dm.bytedance.net
 0.0.0.0 byteoversea.com
 0.0.0.0 abtest-sg.byteoversea.com
@@ -181,18 +182,17 @@
 0.0.0.0 dm.toutiao.com
 0.0.0.0 wshifen.com
 0.0.0.0 www.wshifen.com
-dig.bdurl.net
 
 ### experimental - suspicious CDNs - may break things ###
 0.0.0.0 p16hypstarcdn-a.akamaihd.net
 0.0.0.0 s16-hypstarcdn-com.akamaized.net
 0.0.0.0 s16.hypstarcdn.com
+0.0.0.0 sf16-ttcdn-tos.ipstatp.com
 0.0.0.0 sf1-ttcdn-tos.pstatp.com
 0.0.0.0 sf1-vcloudcdn.pstatp.com
 0.0.0.0 sf16-ttcdn-tos.pstatp.com
 0.0.0.0 sf3-ttcdn-tos.pstatp.com
 0.0.0.0 sf6-ttcdn-tos.pstatp.com
-0.0.0.0 sf16-ttcdn-tos.ipstatp.com
 
 #### do not block - tiktok ####
 
