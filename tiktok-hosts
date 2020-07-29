@@ -146,6 +146,7 @@
 0.0.0.0 log.snssdk.com
 0.0.0.0 mcs.snssdk.com
 0.0.0.0 mon.snssdk.com
+0.0.0.0 patrol.snssdk.com
 0.0.0.0 patrol-sg.snssdk.com
 0.0.0.0 rc.snssdk.com
 0.0.0.0 verify.snssdk.com
@@ -182,7 +183,6 @@
 0.0.0.0 dm.toutiao.com
 0.0.0.0 wshifen.com
 0.0.0.0 www.wshifen.com
-patrol.snssdk.com
 
 ### experimental - suspicious CDNs - may break things ###
 0.0.0.0 p16hypstarcdn-a.akamaihd.net
