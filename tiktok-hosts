@@ -182,6 +182,7 @@
 0.0.0.0 dm.toutiao.com
 0.0.0.0 wshifen.com
 0.0.0.0 www.wshifen.com
+patrol.snssdk.com
 
 ### experimental - suspicious CDNs - may break things ###
 0.0.0.0 p16hypstarcdn-a.akamaihd.net
@@ -193,7 +194,6 @@
 0.0.0.0 sf16-ttcdn-tos.pstatp.com
 0.0.0.0 sf3-ttcdn-tos.pstatp.com
 0.0.0.0 sf6-ttcdn-tos.pstatp.com
-patrol.snssdk.com
 
 #### do not block - tiktok ####
 
