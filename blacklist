@@ -13568,6 +13568,7 @@
 0.0.0.0 ads-wordego.azureedge.net
 0.0.0.0 cdn-stamped-io.azureedge.net
 0.0.0.0 cdnbigdata.azureedge.net
+0.0.0.0 dec.azureedge.net
 0.0.0.0 connext-cdn.ec.azureedge.net
 0.0.0.0 flittz-cdn.azureedge.net
 0.0.0.0 fp-cdn.azureedge.net
@@ -76810,6 +76811,7 @@
 0.0.0.0 www.sitecounter.be
 0.0.0.0 sitedefesta.com
 0.0.0.0 siteencore.com
+0.0.0.0 api.dec.sitefinity.com
 0.0.0.0 sitegoto.com
 0.0.0.0 siteimprove.com
 0.0.0.0 dk1.siteimprove.com
