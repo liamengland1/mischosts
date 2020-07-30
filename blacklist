@@ -70841,6 +70841,7 @@
 0.0.0.0 info-images.rambler.ru
 0.0.0.0 kraken.rambler.ru
 0.0.0.0 montblanc.rambler.ru
+0.0.0.0 myqualification.rambler.ru
 0.0.0.0 rcounter.rambler.ru
 0.0.0.0 redsquare.rambler.ru
 0.0.0.0 scnt.rambler.ru
@@ -93493,12 +93494,14 @@
 0.0.0.0 awaps.yandex.ru
 0.0.0.0 awsync.yandex.ru
 0.0.0.0 bs.yandex.ru
+0.0.0.0 bs-meta.yandex.ru
 0.0.0.0 clck.yandex.ru
 0.0.0.0 csp.yandex.ru
 0.0.0.0 informer.yandex.ru
 0.0.0.0 jstracer.yandex.ru
 0.0.0.0 grade.market.yandex.ru
 0.0.0.0 mc.yandex.ru
+0.0.0.0 visit-monitor.yandex.ru
 0.0.0.0 zen.yandex.ru
 0.0.0.0 yandex-click.net
 0.0.0.0 yandexadexchange.net
