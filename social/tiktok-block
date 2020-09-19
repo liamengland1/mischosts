@@ -286,6 +286,7 @@
 0.0.0.0 s3.bytecdn.cn
 0.0.0.0 s3a.bytecdn.cn
 0.0.0.0 s3b.bytecdn.cn
+0.0.0.0 boe-gateway.byted.org
 0.0.0.0 staging-openapi-boe.byted.org
 0.0.0.0 tosv.byted.org
 0.0.0.0 admin.bytedance.com
@@ -298,6 +299,7 @@
 0.0.0.0 sgaup.bytedance.com
 0.0.0.0 aweme-beta.bytedance.net
 0.0.0.0 dm.bytedance.net
+0.0.0.0 vas-boei18n.bytedance.net
 0.0.0.0 vod.ap-singapore-1.bytedanceapi.com
 0.0.0.0 vod.us-east-1.bytedanceapi.com
 0.0.0.0 vod.bytedanceapi.com
@@ -602,6 +604,7 @@
 0.0.0.0 smr-sg.byteoversea.com
 0.0.0.0 sms-callback.byteoversea.com
 0.0.0.0 starling-oversea.byteoversea.com
+0.0.0.0 starling-oversea-useast2a.byteoversea.com
 0.0.0.0 starling-sg.byteoversea.com
 0.0.0.0 starling-va.byteoversea.com
 0.0.0.0 sv10.byteoversea.com
@@ -638,6 +641,7 @@
 0.0.0.0 vas-alisg22-quic.byteoversea.com
 0.0.0.0 vas-maliva.byteoversea.com
 0.0.0.0 vas-maliva16.byteoversea.com
+0.0.0.0 vas-maliva16-useast2a.byteoversea.com
 0.0.0.0 vas-maliva19.byteoversea.com
 0.0.0.0 vas-maliva21.byteoversea.com
 0.0.0.0 vcs-sg.byteoversea.com
@@ -1278,11 +1282,14 @@
 0.0.0.0 sf16-muse-va.ibytedtos.com
 0.0.0.0 sf16-passport-sg.ibytedtos.com
 0.0.0.0 sf16-passport-va.ibytedtos.com
+0.0.0.0 sf16-scmcdn-sg.ibytedtos.com
+0.0.0.0 sf16-scmcdn-va.ibytedtos.com
 0.0.0.0 sf16-security-sg.ibytedtos.com
 0.0.0.0 sf16-security-va.ibytedtos.com
 0.0.0.0 www.ibytedtos.com
 0.0.0.0 ibyteimg.com
 0.0.0.0 p16-cg-gaudit.ibyteimg.com
+0.0.0.0 p16-mt-sg.ibyteimg.com
 0.0.0.0 p16-mt-sg-a.ibyteimg.com
 0.0.0.0 p16-mt-sg-b.ibyteimg.com
 0.0.0.0 p16-mt-va.ibyteimg.com
@@ -2331,6 +2338,8 @@
 0.0.0.0 p.tiktokcdn.com
 0.0.0.0 p15a.tiktokcdn.com
 0.0.0.0 p16.tiktokcdn.com
+0.0.0.0 p16-amd-va.tiktokcdn.com
+0.0.0.0 p16-sg.tiktokcdn.com
 0.0.0.0 p16-test.tiktokcdn.com
 0.0.0.0 p16-tk.tiktokcdn.com
 0.0.0.0 p16-tk-m.tiktokcdn.com
@@ -2378,6 +2387,7 @@
 0.0.0.0 sf16-sg.tiktokcdn.com
 0.0.0.0 sf16-tk.tiktokcdn.com
 0.0.0.0 sf16-tk-m.tiktokcdn.com
+0.0.0.0 sf16-va.tiktokcdn.com
 0.0.0.0 sf16-webcast.tiktokcdn.com
 0.0.0.0 sf19-webcast.tiktokcdn.com
 0.0.0.0 sf21-tk.tiktokcdn.com
@@ -2438,6 +2448,7 @@
 0.0.0.0 v15-fr.tiktokcdn.com
 0.0.0.0 v16.tiktokcdn.com
 0.0.0.0 v16-common.tiktokcdn.com
+0.0.0.0 v16-web.tiktokcdn.com
 0.0.0.0 v16-zr.tiktokcdn.com
 0.0.0.0 v16a.tiktokcdn.com
 0.0.0.0 v16m.tiktokcdn.com
@@ -2445,6 +2456,7 @@
 0.0.0.0 v16s.tiktokcdn.com
 0.0.0.0 v19.tiktokcdn.com
 0.0.0.0 v19-hwp.tiktokcdn.com
+0.0.0.0 v19-web.tiktokcdn.com
 0.0.0.0 v20.tiktokcdn.com
 0.0.0.0 v21.tiktokcdn.com
 0.0.0.0 v23.tiktokcdn.com
@@ -2562,6 +2574,7 @@
 0.0.0.0 log-va.tiktokv.com
 0.0.0.0 log16-normal-c-useast1a.tiktokv.com
 0.0.0.0 log16-normal-c-useast2a.tiktokv.com
+0.0.0.0 mcs-va-useast2a.tiktokv.com
 0.0.0.0 mon.tiktokv.com
 0.0.0.0 mon-va.tiktokv.com
 0.0.0.0 open16-va.tiktokv.com
