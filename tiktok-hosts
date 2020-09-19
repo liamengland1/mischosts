@@ -108,6 +108,7 @@
 0.0.0.0 monitor.isnssdk.com
 0.0.0.0 notifyback-va.isnssdk.com
 0.0.0.0 open.isnssdk.com
+0.0.0.0 patrol-sg.isnssdk.com
 0.0.0.0 rtlog.isnssdk.com
 0.0.0.0 vas.isnssdk.com
 0.0.0.0 app.musemuse.cn
@@ -171,6 +172,7 @@
 0.0.0.0 log-va.tiktokv.com
 0.0.0.0 log16-normal-c-useast1a.tiktokv.com
 0.0.0.0 log16-normal-c-useast2a.tiktokv.com
+0.0.0.0 mcs-va-useast2a.tiktokv.com
 0.0.0.0 mon.tiktokv.com
 0.0.0.0 mon-va.tiktokv.com
 0.0.0.0 rtlog.tiktokv.com
@@ -184,18 +186,4 @@
 0.0.0.0 wshifen.com
 0.0.0.0 www.wshifen.com
 
-#### do not block - tiktok ####
-
-### breaks signup captcha flow ###
-# 0.0.0.0 d10br2bir1hdgs.cloudfront.net
-# 0.0.0.0 verification-va.musical.ly.edgesuite.net
-# 0.0.0.0 s0.ipstatp.com
-# 0.0.0.0 verification-va.musical.ly
-
-### breaks direct messages ###
-# 0.0.0.0 imapi-mu.isnssdk.com
-# 0.0.0.0 imapi-sg.isnssdk.com
-
-### breaks links in bio ###
-# 0.0.0.0 tiktok-lb-maliva.byteoversea.net
-# 0.0.0.0 va-link.byteoversea.com
+### see wiki ###
