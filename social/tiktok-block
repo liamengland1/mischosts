@@ -456,6 +456,7 @@
 0.0.0.0 imagex-settings.bytedanceapi.com
 0.0.0.0 live.bytedanceapi.com
 0.0.0.0 open.bytedanceapi.com
+0.0.0.0 open-useast2a.bytedanceapi.com
 0.0.0.0 rtc.bytedanceapi.com
 0.0.0.0 imagex.us-east-1.bytedanceapi.com
 0.0.0.0 vod.us-east-1.bytedanceapi.com
@@ -761,6 +762,7 @@
 0.0.0.0 just-test-1.byteoversea.com
 0.0.0.0 kds-mva.byteoversea.com
 0.0.0.0 kds-sg.byteoversea.com
+0.0.0.0 kds-useast2a.byteoversea.com
 0.0.0.0 lark-frontier.byteoversea.com
 0.0.0.0 lark-frontier-sg.byteoversea.com
 0.0.0.0 link-sg.byteoversea.com
