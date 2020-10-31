@@ -172,6 +172,7 @@
 0.0.0.0 log-va.tiktokv.com
 0.0.0.0 log16-normal-c-useast1a.tiktokv.com
 0.0.0.0 log16-normal-c-useast2a.tiktokv.com
+0.0.0.0 mcs-va.tiktokv.com
 0.0.0.0 mcs-va-useast2a.tiktokv.com
 0.0.0.0 mon.tiktokv.com
 0.0.0.0 mon-va.tiktokv.com
@@ -185,5 +186,3 @@
 0.0.0.0 dm.toutiao.com
 0.0.0.0 wshifen.com
 0.0.0.0 www.wshifen.com
-
-### see wiki ###
