@@ -243,3 +243,5 @@
 0.0.0.0 itc.mzstatic.com
 0.0.0.0 metrics.mzstatic.com
 0.0.0.0 store.mzstatic.com
+0.0.0.0 fbs.smoot.apple.com
+0.0.0.0 smoot-feedback.v.aaplimg.com
