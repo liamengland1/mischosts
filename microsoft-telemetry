@@ -250,7 +250,6 @@
 0.0.0.0 www.bingads.microsoft.com
 0.0.0.0 c.microsoft.com
 0.0.0.0 checkappexec.microsoft.com
-0.0.0.0 choice.microsoft.com
 0.0.0.0 data.microsoft.com
 0.0.0.0 events.data.microsoft.com
 0.0.0.0 browser.events.data.microsoft.com
@@ -446,7 +445,6 @@
 0.0.0.0 vortex-db5.metron.live.com.nsatc.net
 0.0.0.0 vortex-hk2.metron.live.com.nsatc.net
 0.0.0.0 ssw.live.com.nsatc.net
-0.0.0.0 choice.microsoft.com.nsatc.net
 0.0.0.0 i1.services.social.microsoft.com.nsatc.net
 0.0.0.0 oca.telemetry.microsoft.com.nsatc.net
 0.0.0.0 sqm.telemetry.microsoft.com.nsatc.net
