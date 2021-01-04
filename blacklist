@@ -111,14 +111,11 @@
 0.0.0.0 h.accesstrade.net
 0.0.0.0 accesstvstreaming.com
 0.0.0.0 www.accesstvstreaming.com
-0.0.0.0 tubebuddy.acemlnb.com
 0.0.0.0 acertb.com
 0.0.0.0 www.acertb.com
 0.0.0.0 xml.acertb.com
 0.0.0.0 record.secure.acraffiliates.com
 0.0.0.0 embed.actionbutton.co
-0.0.0.0 managed-cname-fallback.activehosted.com
-0.0.0.0 tubebuddy.activehosted.com
 0.0.0.0 w.ad.style
 0.0.0.0 widgets.ad.style
 0.0.0.0 ad-center.com
@@ -254,13 +251,11 @@
 0.0.0.0 loka-materials.akamaized.net
 0.0.0.0 aefd.nelreports.net.akamaized.net
 0.0.0.0 deff.nelreports.net.akamaized.net
-0.0.0.0 vr-p.alcmpn.com
 0.0.0.0 alienfiesta.com
 0.0.0.0 appgiftwall.oss-us-west-1.aliyuncs.com
 0.0.0.0 allalla.com
 0.0.0.0 orders.allianceforadvancedhealth.com
 0.0.0.0 pro.allianceforadvancedhealth.com
-0.0.0.0 p.alocdn.com
 0.0.0.0 alwaysuptrk.com
 0.0.0.0 device-metrics-us.amazon.com
 0.0.0.0 device-metrics-us-2.amazon.com
@@ -319,8 +314,6 @@
 0.0.0.0 onelink-1664648862.eu-west-1.elb.amazonaws.com
 0.0.0.0 58caebff-bugsentrycore-riv-aa3a-751432187.us-east-1.elb.amazonaws.com
 0.0.0.0 albatross-albatross-v4-1088998989.us-east-1.elb.amazonaws.com
-0.0.0.0 baconredirects-elb-1w79jy7i6g0wf-1154668140.us-east-1.elb.amazonaws.com
-0.0.0.0 carta-elb-202288709.us-east-1.elb.amazonaws.com
 0.0.0.0 cmp-server-493810428.us-east-1.elb.amazonaws.com
 0.0.0.0 dcs-edge-va6-802167536.us-east-1.elb.amazonaws.com
 0.0.0.0 elb-for-front-1752188976.us-east-1.elb.amazonaws.com
@@ -464,7 +457,6 @@
 0.0.0.0 analyzeagg.com
 0.0.0.0 check.analyzeagg.com
 0.0.0.0 www.analyzeagg.com
-0.0.0.0 click.email.ancestry.com
 0.0.0.0 andvqrqaeu.com
 0.0.0.0 www.andvqrqaeu.com
 0.0.0.0 anotherederi.site
@@ -545,8 +537,6 @@
 0.0.0.0 avenuenyc.club
 0.0.0.0 www.avenuenyc.club
 0.0.0.0 avosapps.us
-0.0.0.0 r.delegate.us-east-1.awstrack.me
-0.0.0.0 r.us-east-1.awstrack.me
 0.0.0.0 dec.azureedge.net
 0.0.0.0 ctrwow-prod-analytics-socketserver.azurewebsites.net
 0.0.0.0 ctrwow-prod-fingerprint-microservice.azurewebsites.net
@@ -830,7 +820,6 @@
 0.0.0.0 searchportal-southcentralus.cloudapp.net
 0.0.0.0 waws-prod-bn1-059.cloudapp.net
 0.0.0.0 a.nel.cloudflare.com
-0.0.0.0 managed-cname-fallback.activehosted.com.cdn.cloudflare.net
 0.0.0.0 d1180od816jent.cloudfront.net
 0.0.0.0 d11enq2rymy0yl.cloudfront.net
 0.0.0.0 d11xaifijozdum.cloudfront.net
@@ -989,7 +978,6 @@
 0.0.0.0 p.contentmanagementfeed.com
 0.0.0.0 ads.contextweb.com
 0.0.0.0 tag.contextweb.com
-0.0.0.0 jnf-live.convio.net
 0.0.0.0 coperledsinhe.info
 0.0.0.0 corn-accounts-authentication-token-key-543hkl0256k.com
 0.0.0.0 instagram.corn-accounts-authentication-token-key-543hkl0256k.com
@@ -1742,7 +1730,6 @@
 0.0.0.0 heatmap-events-collector.instapage.com
 0.0.0.0 intellipopup.com
 0.0.0.0 www.intellipopup.com
-0.0.0.0 hackerone.intercom-mail.com
 0.0.0.0 logging.api.intuit.com
 0.0.0.0 sci.intuit.com
 0.0.0.0 api6.ipify.org
@@ -1774,7 +1761,6 @@
 0.0.0.0 www.jauchuwa.net
 0.0.0.0 jincreasteregy.site
 0.0.0.0 trk.jmptrker.com
-0.0.0.0 support.jnf.org
 0.0.0.0 nxload.jnhlcmtzacdfpvstew.info
 0.0.0.0 xxxvideos247.jnhlcmtzacdfpvstew.info
 0.0.0.0 jobtinkers.com
@@ -1853,7 +1839,6 @@
 0.0.0.0 assets.landerlabs.io
 0.0.0.0 www.landerlabs.io
 0.0.0.0 larrenpicture.pro
-0.0.0.0 links.t.lastpass.com
 0.0.0.0 securedsearch.lavasoft.com
 0.0.0.0 lax1-ib-amznads.com
 0.0.0.0 www.lax1-ib-amznads.com
@@ -1947,7 +1932,6 @@
 0.0.0.0 static.mailerlite.com
 0.0.0.0 mailgun.org
 0.0.0.0 eu.mailgun.org
-0.0.0.0 byop.maillist-manage.com
 0.0.0.0 makedirect.xyz
 0.0.0.0 makmoney.club
 0.0.0.0 mamasuncut.com
@@ -2014,7 +1998,6 @@
 0.0.0.0 cache.send.microadinc.com
 0.0.0.0 s-rtb.send.microadinc.com
 0.0.0.0 livetileedge.dsx.mp.microsoft.com
-0.0.0.0 click.email.microsoftrewards.com
 0.0.0.0 lll.microstoreapp.xyz
 0.0.0.0 bk.mikolaj-ludwin.pl
 0.0.0.0 mirrormedia.mg
@@ -2031,10 +2014,8 @@
 0.0.0.0 www.mk1lyl406xmp.com
 0.0.0.0 mkdsx.info
 0.0.0.0 mkjsqrpmxqdf.com
-0.0.0.0 recp.mkt41.net
 0.0.0.0 recp.mkt51.net
 0.0.0.0 links.netspend.mkt5806.com
-0.0.0.0 mkto-ab050172.com
 0.0.0.0 controltower.ml-optimizely.com
 0.0.0.0 mlksis.com
 0.0.0.0 ssl.mmtgo.me
@@ -2609,7 +2590,6 @@
 0.0.0.0 p353262.retdaz.fun
 0.0.0.0 retithanlingrom.pro
 0.0.0.0 www.retithanlingrom.pro
-0.0.0.0 pixel.app.returnpath.net
 0.0.0.0 app.revcatch.com
 0.0.0.0 cdn.revcontent.com
 0.0.0.0 img.revcontent.com
@@ -2746,7 +2726,6 @@
 0.0.0.0 logsene-receiver.eu.sematext.com
 0.0.0.0 rum-receiver.sematext.com
 0.0.0.0 u10350365.ct.sendgrid.net
-0.0.0.0 u6867233.ct.sendgrid.net
 0.0.0.0 senhation.pro
 0.0.0.0 www.senhation.pro
 0.0.0.0 o297782.ingest.sentry.io
@@ -2949,7 +2928,6 @@
 0.0.0.0 dealer.spotify.com
 0.0.0.0 global-dealer-ssl.spotify.com
 0.0.0.0 wg.spotify.com
-0.0.0.0 wl.spotify.com
 0.0.0.0 engine.spotscenered.info
 0.0.0.0 js.spotx.tv
 0.0.0.0 images.sprinklecontent.com
@@ -3183,7 +3161,6 @@
 0.0.0.0 tword.ru
 0.0.0.0 www.tword.ru
 0.0.0.0 api.typesquare.com
-0.0.0.0 t.news.ubisoft.com
 0.0.0.0 ping.ublock.org
 0.0.0.0 ubutplho.com
 0.0.0.0 www.ubutplho.com
@@ -3294,7 +3271,6 @@
 0.0.0.0 www.vouchertested.xyz
 0.0.0.0 vpn1aprotectplus.com
 0.0.0.0 www.vpn1aprotectplus.com
-0.0.0.0 cts.vrmailer1.com
 0.0.0.0 focus.vuer.net
 0.0.0.0 status.vuer.net
 0.0.0.0 vuwcudzzyxn.com
@@ -3309,7 +3285,6 @@
 0.0.0.0 goto.walmart.com
 0.0.0.0 walmsleycdn.xyz
 0.0.0.0 www.walmsleycdn.xyz
-0.0.0.0 s2.washingtonpost.com
 0.0.0.0 wastesshimssat.world
 0.0.0.0 www.wastesshimssat.world
 0.0.0.0 watch-television.net
@@ -3484,7 +3459,6 @@
 0.0.0.0 www.zdravselhoz.com
 0.0.0.0 ss3.zedo.com
 0.0.0.0 zee.gl
-0.0.0.0 go.zenefits.com
 0.0.0.0 p.zetadeo.com
 0.0.0.0 gc.zgo.at
 0.0.0.0 static.ziffprod.com
@@ -3493,7 +3467,6 @@
 0.0.0.0 static.zucks.net.zimg.jp
 0.0.0.0 zixuv.com
 0.0.0.0 www.zixuv.com
-0.0.0.0 customer-campaign.zoho.com
 0.0.0.0 rsm.zona.media
 0.0.0.0 log.zoom.us
 0.0.0.0 logfiles.zoom.us
