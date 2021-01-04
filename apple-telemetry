@@ -68,8 +68,6 @@
 0.0.0.0 amp-api-edge.apps.apple.com
 0.0.0.0 apsu.apple.com
 0.0.0.0 basejumper.apple.com
-0.0.0.0 books.apple.com
-0.0.0.0 api.books.apple.com
 0.0.0.0 books-analytics-events.apple.com
 0.0.0.0 c.apple.com
 0.0.0.0 cds.apple.com
@@ -145,7 +143,6 @@
 0.0.0.0 gsp64-ssl.ls.apple.com
 0.0.0.0 gsp85-ssl.ls.apple.com
 0.0.0.0 metrics.apple.com
-0.0.0.0 api.music.apple.com
 0.0.0.0 sb.music.apple.com
 0.0.0.0 news-events.apple.com
 0.0.0.0 notes-analytics-events.apple.com
@@ -153,8 +150,6 @@
 0.0.0.0 outsideapple.apple.com
 0.0.0.0 pancake.apple.com
 0.0.0.0 pcr.apple.com
-0.0.0.0 amp-api.podcasts.apple.com
-0.0.0.0 api.podcasts.apple.com
 0.0.0.0 ftreporter.push.apple.com
 0.0.0.0 radarsubmissions.apple.com
 0.0.0.0 securemetrics.apple.com
@@ -186,7 +181,6 @@
 0.0.0.0 stocks-sparkline.apple.com
 0.0.0.0 supportmetrics.apple.com
 0.0.0.0 tbsc.apple.com
-0.0.0.0 tv.apple.com
 0.0.0.0 sb.tv.apple.com
 0.0.0.0 valid.apple.com
 0.0.0.0 videos.apple.com
