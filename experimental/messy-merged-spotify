@@ -574,6 +574,8 @@
 
 # 0.0.0.0 login5.spotify.com
 
+0.0.0.0 tracing.spotify.com
+
 # spotify hpto - Homepage Takeover
 0.0.0.0 sam-hpto.com
 0.0.0.0 www.sam-hpto.com
