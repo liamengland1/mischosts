@@ -154,7 +154,6 @@
 0.0.0.0 lax1-ib.adnxs.com
 0.0.0.0 www.lax1-ib.adnxs.com
 0.0.0.0 lightspeedresearch-rt-prod2-cus.campaign.adobe.com
-0.0.0.0 api-gateway-ap-prod2-ue1.adobe.io
 0.0.0.0 p13n.adobe.io
 0.0.0.0 lightspeedresearch-rt-prod2-t.adobe-campaign.com
 0.0.0.0 streams.adobeprimetime.com
@@ -849,6 +848,7 @@
 0.0.0.0 d22xmn10vbouk4.cloudfront.net
 0.0.0.0 d261u4g5nqprix.cloudfront.net
 0.0.0.0 d2bpkshl9dgwjv.cloudfront.net
+0.0.0.0 d2c4ylitp1qu24.cloudfront.net
 0.0.0.0 d2fdrq23ypws1n.cloudfront.net
 0.0.0.0 d2fyl8x7j0dy0l.cloudfront.net
 0.0.0.0 d2i2h7iu3f87fv.cloudfront.net
