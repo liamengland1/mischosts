@@ -65,14 +65,11 @@
 0.0.0.0 msg-media.valueclick.akadns.net
 0.0.0.0 eu-irl-00001.s3.dualstack.eu-west-1.amazonaws.com
 0.0.0.0 aidc.apple.com
-0.0.0.0 amp-api-edge.apps.apple.com
 0.0.0.0 apsu.apple.com
 0.0.0.0 basejumper.apple.com
 0.0.0.0 books-analytics-events.apple.com
-0.0.0.0 c.apple.com
 0.0.0.0 cds.apple.com
 0.0.0.0 cdsassets.apple.com
-0.0.0.0 chatbox-web.apple.com
 0.0.0.0 cl1.apple.com
 0.0.0.0 cl2.apple.com
 0.0.0.0 cl3.apple.com
