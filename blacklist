@@ -1520,7 +1520,6 @@
 0.0.0.0 es.io
 0.0.0.0 es54i9g7p7xh.com
 0.0.0.0 track.espireads.com
-0.0.0.0 fcast.espncdn.com
 0.0.0.0 mj23.eulerian.com
 0.0.0.0 eg-p2.eurogamer.net
 0.0.0.0 us4.evadavdsp.pro
@@ -1555,10 +1554,7 @@
 0.0.0.0 ezanga.com
 0.0.0.0 g.ezoic.net
 0.0.0.0 a.f590906c3e6c07bb5f80801f2dfc4295.com
-0.0.0.0 0.facebook.com
-0.0.0.0 graph.facebook.com
 0.0.0.0 undefined.facebook.com
-0.0.0.0 connect.facebook.net
 0.0.0.0 xrnmb.facebookgirls.net
 0.0.0.0 fadedsnow.com
 0.0.0.0 fairadblckr.com
@@ -1824,11 +1820,9 @@
 0.0.0.0 cdn.gmossp-sp.jp
 0.0.0.0 r.disney.go.com
 0.0.0.0 engsvc.go.com
-0.0.0.0 fastcast.semfs.engsvc.go.com
-0.0.0.0 p159b5222-e949-4414-9def-13cd736cb468-3-228-17-77.fastcast.semfs.engsvc.go.com
-0.0.0.0 p1a310e4a-69e8-44c5-a0d2-c23322354946-3-237-185-247.fastcast.semfs.engsvc.go.com
 0.0.0.0 stg.fastcast.go.com
 0.0.0.0 unid.go.com
+cdn.unid.go.com
 0.0.0.0 go-2.link
 0.0.0.0 go-mediamonkey.org
 0.0.0.0 go2app.org
@@ -4348,3 +4342,6 @@
 0.0.0.0 zxa4kxw2nvox.com
 0.0.0.0 www.zxa4kxw2nvox.com
 0.0.0.0 zxc.world
+dcf.espn.com
+cdn.adapex.io
+vision.fn-pz.com
