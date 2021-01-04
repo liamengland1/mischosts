@@ -581,7 +581,6 @@
 0.0.0.0 di-dtaectolog-us-prod-1.appspot.com
 0.0.0.0 i-amlg-prod.appspot.com
 0.0.0.0 literally-analytics.appspot.com
-0.0.0.0 mikmak-microservices.appspot.com
 0.0.0.0 sales-pop-dot-autoketing-production-sdk.appspot.com
 0.0.0.0 steam-house-92815.appspot.com
 0.0.0.0 valuad.appspot.com
@@ -1622,7 +1621,6 @@
 0.0.0.0 cws-redirect.firebaseapp.com
 0.0.0.0 firebaseio.com
 0.0.0.0 doodleparty.firebaseio.com
-0.0.0.0 mikmak-attach-prod.firebaseio.com
 0.0.0.0 pikud-a0b24.firebaseio.com
 0.0.0.0 fireworktv.com
 0.0.0.0 cdn1.fireworktv.com
@@ -2130,6 +2128,8 @@
 0.0.0.0 intstorage.host
 0.0.0.0 zion.qbo.intuit.com
 0.0.0.0 trinity.intuit.com
+0.0.0.0 logging.api.intuit.com
+0.0.0.0 sci.intuit.com
 0.0.0.0 io1.io1g.net
 0.0.0.0 api6.ipify.org
 0.0.0.0 ipqualityscore.com
@@ -2273,7 +2273,6 @@
 0.0.0.0 larrenpicture.pro
 0.0.0.0 links.t.lastpass.com
 0.0.0.0 laterpay.net
-0.0.0.0 launchdarkly.com
 0.0.0.0 securedsearch.lavasoft.com
 0.0.0.0 lax1-ib-amznads.com
 0.0.0.0 www.lax1-ib-amznads.com
@@ -2478,7 +2477,6 @@
 0.0.0.0 livetileedge.dsx.mp.microsoft.com
 0.0.0.0 click.email.microsoftrewards.com
 0.0.0.0 lll.microstoreapp.xyz
-0.0.0.0 attach.mikmak.tv
 0.0.0.0 bk.mikolaj-ludwin.pl
 0.0.0.0 mindbox.cloud
 0.0.0.0 apollo.miniclip.com
