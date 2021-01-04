@@ -151,6 +151,7 @@
 0.0.0.0 ad.ad-stir.com
 0.0.0.0 js.ad-stir.com
 0.0.0.0 ada.support
+0.0.0.0 cdn.adapex.io
 0.0.0.0 staticd.cdn.adblade.com
 0.0.0.0 static.adblade.com
 0.0.0.0 web.adblade.com
@@ -1520,6 +1521,7 @@
 0.0.0.0 es.io
 0.0.0.0 es54i9g7p7xh.com
 0.0.0.0 track.espireads.com
+0.0.0.0 dcf.espn.com
 0.0.0.0 mj23.eulerian.com
 0.0.0.0 eg-p2.eurogamer.net
 0.0.0.0 us4.evadavdsp.pro
@@ -1644,6 +1646,7 @@
 0.0.0.0 fly-analytics.com
 0.0.0.0 www.fly-analytics.com
 0.0.0.0 flytedesk.com
+0.0.0.0 vision.fn-pz.com
 0.0.0.0 fockbarwla.ga
 0.0.0.0 folmetor.com
 0.0.0.0 foodstampsassistance.org
@@ -1795,7 +1798,6 @@
 0.0.0.0 www.gidecabtu.cf
 0.0.0.0 giftcardcenterusofa.club
 0.0.0.0 www.giftcardcenterusofa.club
-0.0.0.0 gigya.com
 0.0.0.0 pro.gilderpress.info
 0.0.0.0 reports.gilderpress.info
 0.0.0.0 coolboy112233.github.io
@@ -1822,7 +1824,7 @@
 0.0.0.0 engsvc.go.com
 0.0.0.0 stg.fastcast.go.com
 0.0.0.0 unid.go.com
-cdn.unid.go.com
+0.0.0.0 cdn.unid.go.com
 0.0.0.0 go-2.link
 0.0.0.0 go-mediamonkey.org
 0.0.0.0 go2app.org
@@ -2119,10 +2121,10 @@ cdn.unid.go.com
 0.0.0.0 hackerone.intercom-mail.com
 0.0.0.0 internet32.com
 0.0.0.0 intstorage.host
-0.0.0.0 zion.qbo.intuit.com
-0.0.0.0 trinity.intuit.com
 0.0.0.0 logging.api.intuit.com
+0.0.0.0 zion.qbo.intuit.com
 0.0.0.0 sci.intuit.com
+0.0.0.0 trinity.intuit.com
 0.0.0.0 io1.io1g.net
 0.0.0.0 api6.ipify.org
 0.0.0.0 ipqualityscore.com
@@ -2884,7 +2886,6 @@ cdn.unid.go.com
 0.0.0.0 breakout.patron.me
 0.0.0.0 www.patron.me
 0.0.0.0 paymentech.com
-0.0.0.0 static-na.payments-amazon.com
 0.0.0.0 pcatoo.com
 0.0.0.0 pcgamenerds.com
 0.0.0.0 www.pcgamenerds.com
@@ -4342,6 +4343,3 @@ cdn.unid.go.com
 0.0.0.0 zxa4kxw2nvox.com
 0.0.0.0 www.zxa4kxw2nvox.com
 0.0.0.0 zxc.world
-dcf.espn.com
-cdn.adapex.io
-vision.fn-pz.com
