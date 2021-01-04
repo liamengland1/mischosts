@@ -5,6 +5,7 @@
 0.0.0.0 appleglobal.112.2o7.net
 0.0.0.0 pancake.g.aaplimg.com
 0.0.0.0 zeusmedia.g.aaplimg.com
+0.0.0.0 smoot-feedback.v.aaplimg.com
 0.0.0.0 supportmetrics.apple-support.akadns.net
 0.0.0.0 pipe.cloudapp.aria.akadns.net
 0.0.0.0 dw-cbsi.cnet-basic-performance.akadns.net
@@ -22,7 +23,6 @@
 0.0.0.0 wu-mdn.apple.com.akadns.net
 0.0.0.0 wu-nwk.apple.com.akadns.net
 0.0.0.0 pancake.cdn-apple.com.akadns.net
-0.0.0.0 gdcrl.godaddy.com.akadns.net
 0.0.0.0 fr51p02sa.guzzoni-apple.com.akadns.net
 0.0.0.0 mu21p02sa.guzzoni-apple.com.akadns.net
 0.0.0.0 sp11p03sa.guzzoni-apple.com.akadns.net
@@ -180,6 +180,7 @@
 0.0.0.0 daypass.api-glb-sea.smoot.apple.com
 0.0.0.0 daypass.api-glb-sto.smoot.apple.com
 0.0.0.0 cdn.smoot.apple.com
+0.0.0.0 fbs.smoot.apple.com
 0.0.0.0 ssl.apple.com
 0.0.0.0 stocks-analytics-events.apple.com
 0.0.0.0 stocks-sparkline.apple.com
@@ -243,5 +244,3 @@
 0.0.0.0 itc.mzstatic.com
 0.0.0.0 metrics.mzstatic.com
 0.0.0.0 store.mzstatic.com
-0.0.0.0 fbs.smoot.apple.com
-0.0.0.0 smoot-feedback.v.aaplimg.com
