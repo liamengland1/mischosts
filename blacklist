@@ -160,6 +160,7 @@
 0.0.0.0 lax1-ib.adnxs.com
 0.0.0.0 www.lax1-ib.adnxs.com
 0.0.0.0 lightspeedresearch-rt-prod2-cus.campaign.adobe.com
+0.0.0.0 api-gateway-ap-prod2-ue1.adobe.io
 0.0.0.0 p13n.adobe.io
 0.0.0.0 lightspeedresearch-rt-prod2-t.adobe-campaign.com
 0.0.0.0 streams.adobeprimetime.com
@@ -834,6 +835,7 @@
 0.0.0.0 dt.clnmde.com
 0.0.0.0 searchportal-southcentralus.cloudapp.net
 0.0.0.0 waws-prod-bn1-059.cloudapp.net
+0.0.0.0 a.nel.cloudflare.com
 0.0.0.0 managed-cname-fallback.activehosted.com.cdn.cloudflare.net
 0.0.0.0 d1180od816jent.cloudfront.net
 0.0.0.0 d11enq2rymy0yl.cloudfront.net
@@ -898,6 +900,7 @@
 0.0.0.0 d3kblkhdtjv0tf.cloudfront.net
 0.0.0.0 d3lcz8vpax4lo2.cloudfront.net
 0.0.0.0 d3mr7y154d2qg5.cloudfront.net
+0.0.0.0 d3pgytnf8hmy9s.cloudfront.net
 0.0.0.0 d3pj3vgx4ijpjx.cloudfront.net
 0.0.0.0 d3rxhvw2di0t0p.cloudfront.net
 0.0.0.0 d3rxqouo2bn71j.cloudfront.net
@@ -924,11 +927,13 @@
 0.0.0.0 ds88pc0kw6cvc.cloudfront.net
 0.0.0.0 dstik9906m659.cloudfront.net
 0.0.0.0 dt7sih6zi467e.cloudfront.net
+0.0.0.0 dtxlpdcemgvh9.cloudfront.net
 0.0.0.0 dv7tphmop8k61.cloudfront.net
 0.0.0.0 dw4qzwqx08pr1.cloudfront.net
 0.0.0.0 dw7nrwnn2bkh1.cloudfront.net
 0.0.0.0 dxty8ng7vdtm8.cloudfront.net
 0.0.0.0 dyv1bugovvq1g.cloudfront.net
+0.0.0.0 dyywvl37rgjgd.cloudfront.net
 0.0.0.0 dz5bomaog2c5t.cloudfront.net
 0.0.0.0 us-central1-amp-error-reporting.cloudfunctions.net
 0.0.0.0 res.cloudinary.com
@@ -1168,6 +1173,13 @@
 0.0.0.0 www.easyxsnews.club
 0.0.0.0 ebaco5.ga
 0.0.0.0 www.ebaco5.ga
+0.0.0.0 monitor.ebay.com
+0.0.0.0 pulsar.ebay.com
+0.0.0.0 rover.ebay.com
+0.0.0.0 svcs.ebay.com
+0.0.0.0 pulsar.ebay.de
+0.0.0.0 rover.ebay.de
+0.0.0.0 srv.main.ebayrtm.com
 0.0.0.0 comev.ecbsn.com
 0.0.0.0 ecommerceempirebuilders.com
 0.0.0.0 www.ecommerceempirebuilders.com
@@ -1490,6 +1502,7 @@
 0.0.0.0 nu-glo.gloytrk2.com
 0.0.0.0 www.gloytrk2.com
 0.0.0.0 cdn.gmossp-sp.jp
+0.0.0.0 wa.gmx.at
 0.0.0.0 r.disney.go.com
 0.0.0.0 stg.fastcast.go.com
 0.0.0.0 cdn.unid.go.com
@@ -1511,7 +1524,9 @@
 0.0.0.0 www.goodbase.biz
 0.0.0.0 goodtogo.icu
 0.0.0.0 www.goodtogo.icu
+0.0.0.0 aa.google.com
 0.0.0.0 peoplestackwebexperiments-pa.clients6.google.com
+0.0.0.0 dai.google.com
 0.0.0.0 fcmatch.google.com
 0.0.0.0 bandaid-redirector.l.google.com
 0.0.0.0 crashlytics.l.google.com
@@ -1584,6 +1599,8 @@
 0.0.0.0 hadskiz.com
 0.0.0.0 happygamepros.com
 0.0.0.0 www.happygamepros.com
+0.0.0.0 cookie.havasedge.com
+0.0.0.0 event.havasedge.com
 0.0.0.0 hayfatduh.com
 0.0.0.0 hd8491online.xyz
 0.0.0.0 3wlru.hd8491online.xyz
@@ -2067,6 +2084,7 @@
 0.0.0.0 www.moutamadris-masar.com
 0.0.0.0 moviesprofit.com
 0.0.0.0 www.moviesprofit.com
+0.0.0.0 prod.detectportal.prod.cloudops.mozgcp.net
 0.0.0.0 mscc2.com
 0.0.0.0 www.mscc2.com
 0.0.0.0 www3.mscc2.com
@@ -2120,6 +2138,7 @@
 0.0.0.0 cdn01.nativeroll.tv
 0.0.0.0 cdn.nativery.com
 0.0.0.0 sp.nba.com
+0.0.0.0 map.mp.nbc.com
 0.0.0.0 edge-geo.nc0.co
 0.0.0.0 nehanodo-secapi.com
 0.0.0.0 www.nehanodo-secapi.com
@@ -2252,6 +2271,7 @@
 0.0.0.0 920cbdaa1ed63646acf0241ed4da5340.fp.measure.office.com
 0.0.0.0 config.fp.measure.office.com
 0.0.0.0 templatelogging.office.com
+0.0.0.0 exo.nel.measure.office.net
 0.0.0.0 augmentation.osi.office.net
 0.0.0.0 ofphanpytor.com
 0.0.0.0 www.ofphanpytor.com
@@ -2314,6 +2334,7 @@
 0.0.0.0 www.owes.com
 0.0.0.0 p-analytics.life
 0.0.0.0 www.p-analytics.life
+0.0.0.0 cont-1.p-cdn.us
 0.0.0.0 cdn.p-n.io
 0.0.0.0 k.p-n.io
 0.0.0.0 p0ew2m6m.xyz
@@ -2412,6 +2433,7 @@
 0.0.0.0 www.u45.pnc.com
 0.0.0.0 www.u46.pnc.com
 0.0.0.0 www.u47.pnc.com
+0.0.0.0 lise.pnfsoftware.com
 0.0.0.0 pock.app
 0.0.0.0 www.pock.app
 0.0.0.0 visit.polar-track.com
@@ -2447,6 +2469,8 @@
 0.0.0.0 puppeteer.predictiveindex.com
 0.0.0.0 snapfactory.predictiveindex.com
 0.0.0.0 tpi-auth.predictiveindex.com
+0.0.0.0 bandar-logger.prezi.com
+0.0.0.0 log.prezi.com
 0.0.0.0 printbyusa.com
 0.0.0.0 www.printbyusa.com
 0.0.0.0 privacy-concerns.com
@@ -2760,6 +2784,7 @@
 0.0.0.0 www.a.shifen.com
 0.0.0.0 r.shopdisney.com
 0.0.0.0 shopgreatest.com
+0.0.0.0 monorail-edge.shopifycloud.com
 0.0.0.0 shopsaves.com
 0.0.0.0 results.shopsaves.com
 0.0.0.0 www.shopsaves.com
@@ -2897,6 +2922,7 @@
 0.0.0.0 warning.sms-mail-message.com
 0.0.0.0 word.sms-mail-message.com
 0.0.0.0 workshop.sms-mail-message.com
+0.0.0.0 promoted.sndcdn.com
 0.0.0.0 snssdk.com
 0.0.0.0 i.socdm.com
 0.0.0.0 go.softopha.com
@@ -3157,6 +3183,7 @@
 0.0.0.0 cdn81.turkakisi.com
 0.0.0.0 global.stun.twilio.com
 0.0.0.0 landings.twin.com
+0.0.0.0 spade.sci.twitch.tv
 0.0.0.0 twokidjay.com
 0.0.0.0 www.twokidjay.com
 0.0.0.0 tword.ru
@@ -3331,6 +3358,7 @@
 0.0.0.0 win-litebonus.life
 0.0.0.0 win-prizes-rightnow1.life
 0.0.0.0 admixermonitorstorage.blob.core.windows.net
+0.0.0.0 adncdn.blob.core.windows.net
 0.0.0.0 cheezwhiz.z9.web.core.windows.net
 0.0.0.0 winprizelah.com
 0.0.0.0 winsistakesme.site
@@ -3482,6 +3510,7 @@
 0.0.0.0 logfiles-va-6.zoom.us
 0.0.0.0 logfiles-va-za1.zoom.us
 0.0.0.0 logfiles-va-zd1.zoom.us
+0.0.0.0 nws.zoom.us
 0.0.0.0 us04logfiles.zoom.us
 0.0.0.0 zootrk.com
 0.0.0.0 www.zootrk.com
