@@ -919,7 +919,6 @@
 0.0.0.0 dyywvl37rgjgd.cloudfront.net
 0.0.0.0 dz5bomaog2c5t.cloudfront.net
 0.0.0.0 us-central1-amp-error-reporting.cloudfunctions.net
-0.0.0.0 res.cloudinary.com
 0.0.0.0 clubdating3344.com
 0.0.0.0 www.clubdating3344.com
 0.0.0.0 clubnews.in
@@ -1232,7 +1231,6 @@
 0.0.0.0 errorpilot.com
 0.0.0.0 es54i9g7p7xh.com
 0.0.0.0 track.espireads.com
-0.0.0.0 dcf.espn.com
 0.0.0.0 eg-p2.eurogamer.net
 0.0.0.0 us4.evadavdsp.pro
 0.0.0.0 offer.everydayhealth.com
@@ -1967,7 +1965,6 @@
 0.0.0.0 cdn.mediago.io
 0.0.0.0 trace.mediago.io
 0.0.0.0 register.mediamelon.com
-0.0.0.0 www.mediamonkey.com
 0.0.0.0 sleep.mediapicker.com
 0.0.0.0 www.mediasply.com
 0.0.0.0 amp.mediavine.com
@@ -2233,10 +2230,6 @@
 0.0.0.0 offertx.net
 0.0.0.0 offgashah.club
 0.0.0.0 www.offgashah.club
-0.0.0.0 acdc-direct.office.com
-0.0.0.0 afd-a-acdc-direct.office.com
-0.0.0.0 augloop.office.com
-0.0.0.0 lhr-efz.office.com
 0.0.0.0 42c56e166af1267c6fa147324f8f0f7d.fp.measure.office.com
 0.0.0.0 54ee634a8aaada55244129d9e0b8b2e8.fp.measure.office.com
 0.0.0.0 7338afbd46dd110c9c0a2ffd81509db1.fp.measure.office.com
@@ -2917,10 +2910,6 @@
 0.0.0.0 ww2.sponsorflyr.com
 0.0.0.0 www.sponsorflyr.com
 0.0.0.0 spotops.spot.im
-0.0.0.0 guc3-accesspoint-a-k1ps.ap.spotify.com
-0.0.0.0 dealer.spotify.com
-0.0.0.0 global-dealer-ssl.spotify.com
-0.0.0.0 wg.spotify.com
 0.0.0.0 engine.spotscenered.info
 0.0.0.0 js.spotx.tv
 0.0.0.0 images.sprinklecontent.com
