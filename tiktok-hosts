@@ -1,5 +1,5 @@
 # Tiktok tracking and fingerprinting hosts
-# If you want to totally block access to Tiktok on your network, use this list: https://raw.githubusercontent.com/llacb47/mischosts/master/social/tiktok-block
+# If you want to totally block access to Tiktok on your network, use this list: https://raw.githubusercontent.com/liamengland1/mischosts/master/social/tiktok-block
 
 0.0.0.0 musically.app.link
 0.0.0.0 musically-alternate.app.link
