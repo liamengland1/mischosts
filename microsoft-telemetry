@@ -1,6 +1,6 @@
 # Blocks spying, tracking, and telemetry across Microsoft properties
 # Some credit to https://github.com/wlqY8gkVb9w1Ck5MVD4lBre9nWJez8/W10TelemetryBlocklist, https://github.com/nextdns/metadata/blob/master/privacy/native/windows, https://github.com/lightswitch05/hosts, and https://github.com/crazy-max/WindowsSpyBlocker
-# Originally hosted at https://github.com/llacb47/W10TelemetryBlocklist/blob/master/W10TelemetryBlocklist
+# Originally hosted at https://github.com/liamengland1/W10TelemetryBlocklist/blob/master/W10TelemetryBlocklist
 0.0.0.0 s0.2mdn.net
 0.0.0.0 static.2mdn.net
 0.0.0.0 bat-bing-com.a-0001.a-msedge.net
