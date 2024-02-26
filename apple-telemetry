@@ -101,17 +101,6 @@
 0.0.0.0 web-experience.itunes.apple.com
 0.0.0.0 itunesconnect.apple.com
 0.0.0.0 lcdn-locator.apple.com
-0.0.0.0 configuration.ls.apple.com
-0.0.0.0 gsp-ssl.ls.apple.com
-0.0.0.0 gsp10-ssl.ls.apple.com
-0.0.0.0 gsp36-ssl.ls.apple.com
-0.0.0.0 gsp47-ssl.ls.apple.com
-0.0.0.0 gsp51-ssl.ls.apple.com
-0.0.0.0 gsp57-ssl-background.ls.apple.com
-0.0.0.0 gsp57-ssl-locus.ls.apple.com
-0.0.0.0 gsp57-ssl-revgeo.ls.apple.com
-0.0.0.0 gsp64-ssl.ls.apple.com
-0.0.0.0 gsp85-ssl.ls.apple.com
 0.0.0.0 metrics.apple.com
 0.0.0.0 sb.music.apple.com
 0.0.0.0 news-events.apple.com
