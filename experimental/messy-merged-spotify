@@ -85,7 +85,6 @@
 0.0.0.0 cast.scdn.co
 0.0.0.0 creativeservice-production.scdn.co
 0.0.0.0 crusader.scdn.co
-0.0.0.0 download.scdn.co
 0.0.0.0 go.scdn.co
 0.0.0.0 login-signup.scdn.co
 0.0.0.0 messenger-webview.scdn.co
@@ -559,7 +558,6 @@
 0.0.0.0 audio-sp-tyo6.spotifycdn.net
 
 # experimental
-0.0.0.0 audio-ak.spotify.com.eip.akadns.net
 0.0.0.0 audio-ak-spotify-com.akamaized.net
 0.0.0.0 audio-akp-spotify-com.akamaized.net
 0.0.0.0 audio-akp-quic-spotify-com.akamaized.net
@@ -584,4 +582,3 @@
 # block spotify client updates
 0.0.0.0 download.scdn.co
 0.0.0.0 upgrade.scdn.co
-0.0.0.0 upgrade.spotify.com
