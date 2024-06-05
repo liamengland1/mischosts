@@ -105,7 +105,6 @@
 0.0.0.0 sb.music.apple.com
 0.0.0.0 news-events.apple.com
 0.0.0.0 notes-analytics-events.apple.com
-0.0.0.0 ocsp.apple.com
 0.0.0.0 outsideapple.apple.com
 0.0.0.0 pancake.apple.com
 0.0.0.0 pcr.apple.com
@@ -141,7 +140,6 @@
 0.0.0.0 supportmetrics.apple.com
 0.0.0.0 tbsc.apple.com
 0.0.0.0 sb.tv.apple.com
-0.0.0.0 valid.apple.com
 0.0.0.0 videos.apple.com
 0.0.0.0 api.videos.apple.com
 0.0.0.0 weather-analytics-events.apple.com
